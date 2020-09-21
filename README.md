@@ -16,3 +16,7 @@
   <summary>GitHub Statistics</summary>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHXENO&theme=tokyonight" alt="Stats"/>
 </details>
+
+
+![Visitor Count](https://profile-counter.glitch.me/dhanushxeno/count.svg)
+
