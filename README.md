@@ -1,22 +1,33 @@
-### Hey there 👋 I am Dhanush N
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> I am Dhanush N </h1>
 
-### Tech Autodidact, Chess player & Coder
+<h2>Tech Autodidact, Chess player & Coder who loves to learn new things and build scalable applications around various technologies<h2>
 
-- 🔭 I’m currently working on Node Js, Javascript, Jest, ML
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
+
+- 🔭 I’m currently working on Node Js, Cube Js, Jest, ML
 - 🌱 I’m currently learning various tech that interests me.
 - 💬 Ask me about Javascript, Node Js, React Js, Python, C#, C, Java, Redis
-- 😄 Hobbies: Piano, Mouth Organ, Dance, Cube
+- 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
 - ⚡ Fun fact: Chess Champ
 
-
-#### Connect with me via:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DHANUSHXENO)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dhanushxeno)&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Dhanush_Xen)&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/dhanushxeno)&nbsp;
-
-<details>
-  <summary>GitHub Statistics</summary>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHXENO&theme=tokyonight" alt="Stats"/>
-</details>
+<a href="https://twitter.com/Dhanush_Nehru"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Dhanush_Nehru?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
 
-![Visitor Count](https://profile-counter.glitch.me/dhanushxeno/count.svg)
+<h3 align="left"> Connect with me via: </h3>
+<p align="left">&nbsp&nbsp
+<a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhanush_Nehru" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanush_nehru" height="40" width="40" /></a>
+</p>
 
+<h3 align="left">Support:</h3>
+
+<p><a href="https://www.buymeacoffee.com/dhanushnehru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhanushnehru" /></a></p>
+
+<br></br>
+<br></br>
+
+<h3 align="left">🖥⌨ Most used Languages </h3>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
