@@ -18,8 +18,10 @@
 <a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://twitter.com/Dhanush_Nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhanush_Nehru" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanush_nehru" height="40" width="40" /></a>
-</p>
+<a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanush_nehru" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://hashnode.com/@dhanushnehru"><img src="https://github.com/DhanushNehru/DhanushNehru/assets/blob/main/Hashnode.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>&nbsp&nbsp
+<a href="https://github.com/DhanushNehru"><img src="https://github.com/DhanushNehru/DhanushNehru/assets/blob/main/Github.png" title="GitHub" alt="GitHub" width="30"/></a>
+</p>&nbsp&nbsp
 
 <h3 align="left">Support:</h3>
 
