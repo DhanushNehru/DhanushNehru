@@ -36,4 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Redis](https://dev.to/dhanushnehru/understanding-redis-17he)
+- [React source code visible 😲](https://dev.to/dhanushnehru/react-souce-code-visible-4e57)
+- [Npm libraries you need to know for your Node JS App](https://dev.to/dhanushnehru/npm-libraries-you-need-to-know-for-your-node-js-app-3312)
+- [Developer tips you need to know](https://dev.to/dhanushnehru/developer-tips-you-need-to-know-3j74)
 <!-- BLOG-POST-LIST:END -->
