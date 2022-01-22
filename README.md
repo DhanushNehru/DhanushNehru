@@ -33,3 +33,7 @@
 <h3 align="left">🖥⌨ Most used Languages </h3>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+**📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
