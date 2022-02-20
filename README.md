@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Google Ranking Algorithm 🤔](https://dev.to/dhanushnehru/google-ranking-algorithm-2c07)
 - [Npm packages hacking](https://dev.to/dhanushnehru/npm-packages-hacking-mem)
 - [Understanding Redis](https://dev.to/dhanushnehru/understanding-redis-17he)
 - [React source code visible 😲](https://dev.to/dhanushnehru/react-souce-code-visible-4e57)
-- [Npm libraries you need to know for your Node JS App](https://dev.to/dhanushnehru/npm-libraries-you-need-to-know-for-your-node-js-app-3312)
 <!-- BLOG-POST-LIST:END -->
