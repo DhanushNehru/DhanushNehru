@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [ES2022 Features](https://dev.to/dhanushnehru/es2022-features-4ekc)
 - [Google Ranking Algorithm 🤔](https://dev.to/dhanushnehru/google-ranking-algorithm-2c07)
 - [Npm packages hacking](https://dev.to/dhanushnehru/npm-packages-hacking-mem)
 - [Understanding Redis](https://dev.to/dhanushnehru/understanding-redis-17he)
-- [React source code visible 😲](https://dev.to/dhanushnehru/react-souce-code-visible-4e57)
 <!-- BLOG-POST-LIST:END -->
