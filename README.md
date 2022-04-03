@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [50 Github Repositories for a developer](https://dev.to/dhanushnehru/50-github-repositories-for-a-developer-631)
 - [Learn coding by playing games 🎮](https://dev.to/dhanushnehru/learn-coding-by-playing-games-484l)
 - [13 Steps for building a website](https://dev.to/dhanushnehru/13-steps-for-building-a-website-3hfc)
 - [ES2022 Features](https://dev.to/dhanushnehru/es2022-features-4ekc)
-- [Google Ranking Algorithm 🤔](https://dev.to/dhanushnehru/google-ranking-algorithm-2c07)
 <!-- BLOG-POST-LIST:END -->
