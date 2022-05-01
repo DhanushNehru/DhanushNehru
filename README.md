@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Do you monetize by writing blogs ?](https://dev.to/dhanushnehru/do-you-monetize-by-writing-blogs--12ah)
 - [Javascript ML Libraries](https://dev.to/dhanushnehru/javascript-ml-libraries-dh3)
 - [50 Github Repositories for a developer](https://dev.to/dhanushnehru/50-github-repositories-for-a-developer-631)
 - [Learn coding by playing games 🎮](https://dev.to/dhanushnehru/learn-coding-by-playing-games-484l)
-- [13 Steps for building a website](https://dev.to/dhanushnehru/13-steps-for-building-a-website-3hfc)
 <!-- BLOG-POST-LIST:END -->
