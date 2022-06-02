@@ -1,4 +1,4 @@
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> I am Dhanush N </h1>
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"> I am Dhanush N </h1>
 
 <h2>Tech Autodidact, Chess player & Coder who loves to learn new things and build scalable applications around various technologies<h2>
 
