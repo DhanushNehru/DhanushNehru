@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Execute inside a docker container](https://dev.to/dhanushnehru/execute-inside-a-docker-container-co3)
 - [Do you monetize by writing blogs ?](https://dev.to/dhanushnehru/do-you-monetize-by-writing-blogs--12ah)
 - [Javascript ML Libraries](https://dev.to/dhanushnehru/javascript-ml-libraries-dh3)
 - [50 Github Repositories for a developer](https://dev.to/dhanushnehru/50-github-repositories-for-a-developer-631)
-- [Learn coding by playing games 🎮](https://dev.to/dhanushnehru/learn-coding-by-playing-games-484l)
 <!-- BLOG-POST-LIST:END -->
