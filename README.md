@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Url in Javascript](https://dev.to/dhanushnehru/url-in-javascript-550d)
 - [Handling different node versions in Windows](https://dev.to/dhanushnehru/handling-different-node-versions-in-windows-54im)
 - [Execute inside a docker container](https://dev.to/dhanushnehru/execute-inside-a-docker-container-co3)
 - [Do you monetize by writing blogs ?](https://dev.to/dhanushnehru/do-you-monetize-by-writing-blogs--12ah)
-- [Javascript ML Libraries](https://dev.to/dhanushnehru/javascript-ml-libraries-dh3)
 <!-- BLOG-POST-LIST:END -->
