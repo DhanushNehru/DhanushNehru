@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Looping through objects in javascript](https://dev.to/dhanushnehru/looping-through-objects-in-javascript-41eg)
 - [Multiprocessing in NodeJs](https://dev.to/dhanushnehru/multiprocessing-in-nodejs-531a)
 - [Url in Javascript](https://dev.to/dhanushnehru/url-in-javascript-550d)
 - [Handling different node versions in Windows](https://dev.to/dhanushnehru/handling-different-node-versions-in-windows-54im)
-- [Execute inside a docker container](https://dev.to/dhanushnehru/execute-inside-a-docker-container-co3)
 <!-- BLOG-POST-LIST:END -->
