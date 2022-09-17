@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
 - [Looping through objects in javascript](https://dev.to/dhanushnehru/looping-through-objects-in-javascript-41eg)
 - [Multiprocessing in NodeJs](https://dev.to/dhanushnehru/multiprocessing-in-nodejs-531a)
-- [Url in Javascript](https://dev.to/dhanushnehru/url-in-javascript-550d)
 <!-- BLOG-POST-LIST:END -->
