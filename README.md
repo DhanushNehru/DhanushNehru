@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [ADOBE acquires FIGMA !!!](https://dev.to/dhanushnehru/adobe-acquires-figma--1ec)
 - [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
 - [Looping through objects in javascript](https://dev.to/dhanushnehru/looping-through-objects-in-javascript-41eg)
-- [Multiprocessing in NodeJs](https://dev.to/dhanushnehru/multiprocessing-in-nodejs-531a)
 <!-- BLOG-POST-LIST:END -->
