@@ -49,5 +49,4 @@
 - [ADOBE acquires FIGMA !!!](https://dhanushnehru.hashnode.dev/adobe-acquires-figma)
 - [Whatsapp Portfolio Website](https://dhanushnehru.hashnode.dev/whatsapp-portfolio-website)
 - [Javascript Console Methods](https://dhanushnehru.hashnode.dev/javascript-console-methods)
-- [Looping through objects in javascript](https://dhanushnehru.hashnode.dev/looping-through-objects-in-javascript)
 <!-- HASHNODE-BLOG-LIST:END -->
