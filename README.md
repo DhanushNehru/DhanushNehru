@@ -40,7 +40,7 @@
 - [ADOBE acquires FIGMA !!!](https://dev.to/dhanushnehru/adobe-acquires-figma--1ec)
 - [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
-<!-- BLOG-POST-LIST:END --> 
+<!-- DEVTO-BLOG-LIST:END --> 
 
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
