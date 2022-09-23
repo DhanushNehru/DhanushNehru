@@ -36,8 +36,8 @@
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
 <!-- BLOG-POST-LIST:START -->
+- [Built a Breakout game](https://dev.to/dhanushnehru/built-a-breakout-game-4073)
 - [ADOBE acquires FIGMA !!!](https://dev.to/dhanushnehru/adobe-acquires-figma--1ec)
 - [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
-- [Looping through objects in javascript](https://dev.to/dhanushnehru/looping-through-objects-in-javascript-41eg)
 <!-- BLOG-POST-LIST:END -->
