@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
+          comment_tag_name: "DEVTO-BLOG-LIST"
           feed_list: "https://dev.to/feed/dhanushnehru"
