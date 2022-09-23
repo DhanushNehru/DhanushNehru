@@ -41,3 +41,8 @@
 - [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
 <!-- BLOG-POST-LIST:END -->
+
+**📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
