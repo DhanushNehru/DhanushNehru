@@ -35,14 +35,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)**
-<!-- BLOG-POST-LIST:START -->
+<!-- DEVTO-BLOG-LIST:START -->
 - [Built a Breakout game](https://dev.to/dhanushnehru/built-a-breakout-game-4073)
 - [ADOBE acquires FIGMA !!!](https://dev.to/dhanushnehru/adobe-acquires-figma--1ec)
 - [Whatsapp Portfolio Website](https://dev.to/dhanushnehru/whatsapp-portfolio-website-3fdo)
 - [Javascript Console Methods](https://dev.to/dhanushnehru/javascript-console-methods-4ch9)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> 
 
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE-BLOG-LIST:START -->
+<!-- HASHNODE-BLOG-LIST:END -->
