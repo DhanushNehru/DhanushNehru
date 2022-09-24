@@ -38,7 +38,7 @@
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
 <!-- HASHNODE-BLOG-LIST:START -->
-- [Built a Breakout game](https://dhanushnehru.hashnode.dev/built-a-breakout-game)
+- [Build a breakout game](https://dhanushnehru.hashnode.dev/build-a-breakout-game)
 - [ADOBE acquires FIGMA !!!](https://dhanushnehru.hashnode.dev/adobe-acquires-figma)
 - [Whatsapp Portfolio Website](https://dhanushnehru.hashnode.dev/whatsapp-portfolio-website)
 - [Javascript Console Methods](https://dhanushnehru.hashnode.dev/javascript-console-methods)
