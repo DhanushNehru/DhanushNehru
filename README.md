@@ -38,8 +38,8 @@
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Pro Googling Tips](https://dhanushnehru.hashnode.dev/pro-googling-tips)
 - [Difference between  exports  and  module.exports](https://dhanushnehru.hashnode.dev/difference-between-exports-and-moduleexports)
 - [List of repositories to contribute to Hacktoberfest](https://dhanushnehru.hashnode.dev/list-of-repositories-to-contribute-to-hacktoberfest)
 - [Build a breakout game](https://dhanushnehru.hashnode.dev/build-a-breakout-game)
-- [ADOBE acquires FIGMA !!!](https://dhanushnehru.hashnode.dev/adobe-acquires-figma)
 <!-- HASHNODE-BLOG-LIST:END -->
