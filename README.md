@@ -44,4 +44,4 @@
 - [Build a breakout game](https://dhanushnehru.hashnode.dev/build-a-breakout-game)
 <!-- HASHNODE-BLOG-LIST:END -->
 
-[![@dhanushnehru's Holopin board](https://holopin.io/api/user/board?user=dhanushnehru)](https://holopin.io/@dhanushnehru)
+<img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
