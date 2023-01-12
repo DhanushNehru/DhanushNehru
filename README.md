@@ -38,10 +38,10 @@
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Why use NodeJs for Backend Development ?](https://dhanushnehru.hashnode.dev/why-use-nodejs-for-backend-development)
 - [Introduction to NodeJs](https://dhanushnehru.hashnode.dev/introduction-to-nodejs)
 - [Dev Retro 2022: Journey in review](https://dhanushnehru.hashnode.dev/dev-retro-2022-journey-in-review)
 - [Pro Googling Tips](https://dhanushnehru.hashnode.dev/pro-googling-tips)
-- [Difference between  exports  and  module.exports](https://dhanushnehru.hashnode.dev/difference-between-exports-and-moduleexports)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
