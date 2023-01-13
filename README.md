@@ -38,10 +38,10 @@
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Event Loop In Node Js](https://dhanushnehru.hashnode.dev/event-loop-in-node-js)
 - [Why use NodeJs for Backend Development ?](https://dhanushnehru.hashnode.dev/why-use-nodejs-for-backend-development)
 - [Introduction to NodeJs](https://dhanushnehru.hashnode.dev/introduction-to-nodejs)
 - [Dev Retro 2022: Journey in review](https://dhanushnehru.hashnode.dev/dev-retro-2022-journey-in-review)
-- [Pro Googling Tips](https://dhanushnehru.hashnode.dev/pro-googling-tips)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
