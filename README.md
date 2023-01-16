@@ -38,10 +38,10 @@
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Timers in NodeJs](https://dhanushnehru.hashnode.dev/timers-in-nodejs)
 - [Blocking &amp; Non Blocking in NodeJs](https://dhanushnehru.hashnode.dev/blocking-non-blocking-in-nodejs)
 - [Event Handler in NodeJs](https://dhanushnehru.hashnode.dev/event-handler-in-nodejs)
 - [Event Loop In Node Js](https://dhanushnehru.hashnode.dev/event-loop-in-node-js)
-- [Why use NodeJs for Backend Development ?](https://dhanushnehru.hashnode.dev/why-use-nodejs-for-backend-development)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
