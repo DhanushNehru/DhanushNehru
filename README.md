@@ -10,9 +10,6 @@
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
 - ⚡ Fun fact: Chess Champ
 
-<a href="https://twitter.com/Dhanush_Nehru"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Dhanush_Nehru?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
-
-
 <h3 align="left"> Connect with me via: </h3>
 <p align="left">&nbsp&nbsp
 <a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
