@@ -35,10 +35,10 @@
 **📕 Latest Hashnode articles [@dhanushnehru](https://hashnode.com/@dhanushnehru)**
 
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Debugging the bug free code](https://dhanushnehru.hashnode.dev/debugging-the-bug-free-code)
 - [Concurrent programming in NodeJs](https://dhanushnehru.hashnode.dev/concurrent-programming-in-nodejs)
 - [Timers in NodeJs](https://dhanushnehru.hashnode.dev/timers-in-nodejs)
 - [Blocking &amp; Non Blocking in NodeJs](https://dhanushnehru.hashnode.dev/blocking-non-blocking-in-nodejs)
-- [Event Handler in NodeJs](https://dhanushnehru.hashnode.dev/event-handler-in-nodejs)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
