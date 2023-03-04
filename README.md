@@ -24,9 +24,6 @@
 <p><a href="https://ko-fi.com/dhanushnehru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhanushnehru" /></a></p>
 
 <br></br>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)** -->
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
@@ -40,10 +37,8 @@
 - [Blocking &amp; Non Blocking in NodeJs](https://dhanushnehru.hashnode.dev/blocking-non-blocking-in-nodejs)
 <!-- HASHNODE-BLOG-LIST:END -->
  
- ## :star: My GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats)
+:star: GitHub Stats  |  📚 Most Used Languages
+:--------------------------:|:-------------------------: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
- ## :pushpin: My Holopin Board
-
 <img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
