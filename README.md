@@ -1,4 +1,4 @@
-### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="40px" height="40px"/> I am Dhanush N</p> 
+### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I am Dhanush N</p> 
 
 Tech Autodidact, Chess player & Coder who loves to learn new things and build scalable applications around various technologies
 
