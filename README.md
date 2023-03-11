@@ -31,7 +31,7 @@
 ## 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 
 <!-- HASHNODE-BLOG-LIST:START -->
-- [Debugging the bug free code](https://dhanushnehru.hashnode.dev/debugging-the-bug-free-code)
+- [The Myths and Realities of Bug-Free Code](https://dhanushnehru.hashnode.dev/debugging-the-bug-free-code)
 - [Concurrent programming in NodeJs](https://dhanushnehru.hashnode.dev/concurrent-programming-in-nodejs)
 - [Timers in NodeJs](https://dhanushnehru.hashnode.dev/timers-in-nodejs)
 - [Blocking &amp; Non Blocking in NodeJs](https://dhanushnehru.hashnode.dev/blocking-non-blocking-in-nodejs)
