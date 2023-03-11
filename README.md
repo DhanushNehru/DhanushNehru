@@ -18,18 +18,16 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 <a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/instagram.svg" alt="dhanush_nehru" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://hashnode.com/@dhanushnehru"><img align="center" src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Hashnode.png" title="Hashnode" alt="Hashnode blog"  height="40" width="40"/></a>&nbsp&nbsp
 <a href="https://github.com/DhanushNehru"><img align="center" src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Github.png" title="GitHub" alt="GitHub" height="40" width="40"/></a>
-</p>&nbsp&nbsp
+</p>&nbsp
 
 ### Support 👇
 <p><a href="https://ko-fi.com/dhanushnehru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhanushnehru" /></a></p>
 
-<br></br>
 <!-- **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)** -->
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
-
 <!-- HASHNODE-BLOG-LIST:START -->
 - [The Myths and Realities of Bug-Free Code](https://dhanushnehru.hashnode.dev/debugging-the-bug-free-code)
 - [Concurrent programming in NodeJs](https://dhanushnehru.hashnode.dev/concurrent-programming-in-nodejs)
