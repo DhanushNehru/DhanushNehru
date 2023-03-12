@@ -4,7 +4,7 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
-- 🔭 I’m currently working on Node Js, Cube Js, Jest, ML, Elasticsearch
+- 🔭 I’m currently working on Node Js, Cube Js, AWS, ML, Elasticsearch
 - 🌱 I’m currently learning various tech that interests me
 - 💬 Ask me about Javascript, Node Js, React Js, Python, C#, C, Java, Redis
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
