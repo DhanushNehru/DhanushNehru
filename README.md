@@ -37,8 +37,8 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 - [Timers in NodeJs](https://dhanushnehru.hashnode.dev/timers-in-nodejs)
 <!-- HASHNODE-BLOG-LIST:END -->
  
-:star: GitHub Stats         |  📚 Most Used Languages
+:star: GitHub Stats         |  📚  📚  📚  📚  📚
 :--------------------------:|:-------------------------: 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
 <img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
