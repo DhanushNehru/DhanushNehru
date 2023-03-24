@@ -12,7 +12,8 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 
 ### Connect with me via 👇
 <p align="left">&nbsp&nbsp
-<a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://youtube.com/@dhanushnehru/?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/youtube.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/codepen.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/dev-dot-to.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://twitter.com/Dhanush_Nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhanush_Nehru" height="40" width="40" /></a>&nbsp&nbsp
 <a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/instagram.svg" alt="dhanush_nehru" height="40" width="40" /></a>&nbsp&nbsp
