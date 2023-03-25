@@ -12,12 +12,12 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 
 ### Connect with me via 👇
 <p align="left">&nbsp&nbsp
-<a href="https://youtube.com/@dhanushnehru/?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/youtube.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/codepen.svg" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/dev-black.png" alt="dhanushnehru" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/twitter.svg" alt="Dhanush_Nehru" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/instagram.svg" alt="dhanush_nehru" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://hashnode.com/@dhanushnehru"><img align="center" src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Hashnode.png" title="Hashnode" alt="Hashnode blog"  height="40" width="40"/></a>&nbsp&nbsp
+<a href="https://youtube.com/@dhanushnehru/?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/youtube.svg" alt="YouTube" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://codepen.io/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/codepen.svg" alt="Codepen" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/dev-black.png" alt="Dev" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/twitter.svg" alt="Twitter" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://instagram.com/dhanush_nehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/instagram.svg" alt="Instagram" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://hashnode.com/@dhanushnehru"><img align="center" src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Hashnode.png" title="Hashnode" alt="Hashnode"  height="40" width="40"/></a>&nbsp&nbsp
 <a href="https://github.com/DhanushNehru"><img align="center" src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Github.png" title="GitHub" alt="GitHub" height="40" width="40"/></a>
 </p>
 
