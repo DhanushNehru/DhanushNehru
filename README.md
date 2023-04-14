@@ -32,10 +32,10 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Beyond Logic: The Unique Human Qualities That AI Can&#39;t Replicate](https://dhanushnehru.hashnode.dev/beyond-logic-the-unique-human-qualities-that-ai-cant-replicate)
 - [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dhanushnehru.hashnode.dev/10-common-mistakes-to-avoid-while-writing-javascript-code)
 - [The Myths and Realities of Bug-Free Code](https://dhanushnehru.hashnode.dev/debugging-the-bug-free-code)
 - [Concurrent programming in NodeJs](https://dhanushnehru.hashnode.dev/concurrent-programming-in-nodejs)
-- [Timers in NodeJs](https://dhanushnehru.hashnode.dev/timers-in-nodejs)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 :star: GitHub Stats         |  📚  📚  📚  📚  📚
