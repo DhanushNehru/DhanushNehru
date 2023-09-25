@@ -32,10 +32,10 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Thrilling Features of ECMAScript 2023 &lpar;ES14&rpar;](https://dhanushnehru.hashnode.dev/thrilling-features-of-ecmascript-2023-es14)
 - [Potential of Data Analytics : AWS Glue and AWS Athena](https://dhanushnehru.hashnode.dev/potential-of-data-analytics-aws-glue-and-aws-athena)
 - [Lunch &amp; Learn | MongoDB - Atlas Search](https://dhanushnehru.hashnode.dev/lunch-learn-mongodb-atlas-search)
 - [Beyond Logic: The Unique Human Qualities That AI Can&#39;t Replicate](https://dhanushnehru.hashnode.dev/beyond-logic-the-unique-human-qualities-that-ai-cant-replicate)
-- [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dhanushnehru.hashnode.dev/10-common-mistakes-to-avoid-while-writing-javascript-code)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 :star: GitHub Stats         |  📚  📚  📚  📚  📚
