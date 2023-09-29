@@ -32,10 +32,10 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [A Comprehensive Guide to JSON Web Tokens](https://dhanushnehru.hashnode.dev/a-comprehensive-guide-to-json-web-tokens)
 - [The Language Gap | How Humans &amp;  Computers Communicate ?](https://dhanushnehru.hashnode.dev/the-language-gap-how-humans-computers-communicate)
 - [Potential of Data Analytics : AWS Glue and AWS Athena](https://dhanushnehru.hashnode.dev/potential-of-data-analytics-aws-glue-and-aws-athena)
 - [Lunch &amp; Learn | MongoDB - Atlas Search](https://dhanushnehru.hashnode.dev/lunch-learn-mongodb-atlas-search)
-- [Beyond Logic: The Unique Human Qualities That AI Can&#39;t Replicate](https://dhanushnehru.hashnode.dev/beyond-logic-the-unique-human-qualities-that-ai-cant-replicate)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 :star: GitHub Stats         |  📚  📚  📚  📚  📚
