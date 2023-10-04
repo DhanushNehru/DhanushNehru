@@ -37,10 +37,10 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dhanushnehru.hashnode.dev/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to)
 - [A Comprehensive Guide to JSON Web Tokens](https://dhanushnehru.hashnode.dev/a-comprehensive-guide-to-json-web-tokens)
 - [The Language Gap | How Humans &amp;  Computers Communicate ?](https://dhanushnehru.hashnode.dev/the-language-gap-how-humans-computers-communicate)
 - [Potential of Data Analytics : AWS Glue and AWS Athena](https://dhanushnehru.hashnode.dev/potential-of-data-analytics-aws-glue-and-aws-athena)
-- [Lunch &amp; Learn | MongoDB - Atlas Search](https://dhanushnehru.hashnode.dev/lunch-learn-mongodb-atlas-search)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 :star: GitHub Stats         |  📚  📚  📚  📚  📚
