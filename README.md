@@ -17,13 +17,13 @@ Tech Autodidact, Chess player & Coder who loves to learn new things and build sc
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)
 
-<a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=0072b1&style=for-the-badge" /></a>
 <a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-gray.svg?colorA=FF5733&colorB=152437&style=for-the-badge" /></a>
 <a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-black.svg?colorA=F6F8FA&colorB=80DBDD&style=for-the-badge" alt="dev.to"/>
-<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/TWITTER-blue.svg?colorA=1DA1F2&colorB=657786&style=for-the-badge" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dhanush_nehru" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-gray.svg?colorA=E4405F&colorB=8A3AB9&style=for-the-badge" /></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-gray.svg?colorA=2962FF&colorB=2962FF&style=for-the-badge" title="Hashnode"/></a>&nbsp;&nbsp;
-<a href="https://github.com/DhanushNehru"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorA=181717&colorB=6e5494&style=for-the-badge" title="GitHub"/></a>
+<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/TWITTER-blue.svg?colorA=12A4DB&colorB=1D9BF0&style=for-the-badge" /></a>
+<a href="https://instagram.com/dhanush_nehru" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-gray.svg?colorA=E4405F&colorB=d62976&style=for-the-badge" /></a>
+<a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-gray.svg?colorA=2962FF&colorB=2962FF&style=for-the-badge" title="Hashnode"/></a>
+<a href="https://github.com/DhanushNehru"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorA=f5f5f5&colorB=4078c0&style=for-the-badge" title="GitHub"/></a>
 </p>
 
 ### Support 👇
