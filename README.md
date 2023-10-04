@@ -15,7 +15,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
 
 <a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=0072b1&style=for-the-badge" /></a>
 <a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-gray.svg?colorA=FF5733&colorB=152437&style=for-the-badge" /></a>
