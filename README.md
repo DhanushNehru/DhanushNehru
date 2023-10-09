@@ -47,4 +47,4 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 :--------------------------:|:-------------------------: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
-<img src="https://holopin.me/dhanushnehru" alt="" class="image--center mx-auto">
+[![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
