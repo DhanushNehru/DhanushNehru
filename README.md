@@ -1,6 +1,6 @@
 ### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I am Dhanush N</p> 
 
-Tech Autodidact, Engineer & Programmer who loves to solve technology problems by code and build scalable applications around various technologies
+Tech Autodidact, Engineer & Programmer who loves to solve technology problems by code and build scalable secure applications around various technologies
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
