@@ -43,8 +43,8 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 - [The Language Gap | How Humans &amp;  Computers Communicate ?](https://dhanushnehru.hashnode.dev/the-language-gap-how-humans-computers-communicate)
 <!-- HASHNODE-BLOG-LIST:END -->
  
-:star: GitHub Stats         |  📚  📚  📚  📚  📚
-:--------------------------:|:-------------------------: 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+:star: GitHub Stats       |  📚  📚  📚  📚  📚
+:------------------------:|:----------------------: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
