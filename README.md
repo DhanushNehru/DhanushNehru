@@ -37,10 +37,10 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Understanding Kubernetes: Detailed Look at the Essential Elements](https://dhanushnehru.hashnode.dev/understanding-kubernetes-detailed-look-at-the-essential-elements)
 - [Hacktoberfest: A Journey of Continuous Learning](https://dhanushnehru.hashnode.dev/hacktoberfest-a-journey-of-continuous-learning)
 - [Javascript Deobfuscation](https://dhanushnehru.hashnode.dev/javascript-deobfuscation)
 - [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dhanushnehru.hashnode.dev/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to)
-- [A Comprehensive Guide to JSON Web Tokens](https://dhanushnehru.hashnode.dev/a-comprehensive-guide-to-json-web-tokens)
 <!-- HASHNODE-BLOG-LIST:END -->
  
 :star: GitHub Stats       |  📚  📚  📚  📚  📚
