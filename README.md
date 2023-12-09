@@ -49,9 +49,9 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo"><img width="140px" src="https://i.ytimg.com/vi/2xM-ZPdkxqo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo">Avoid These 10 Programming Mistakes and Become a Better Programmer👨🏻‍💻</a> (Dec 9, 2023)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo">Avoid These 10 Programming Mistakes and Become a Better Programmer👨🏻‍💻</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WSukTqbcuc0"><img width="140px" src="https://i.ytimg.com/vi/WSukTqbcuc0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WSukTqbcuc0">Should you install a cracked version of any software in your PC ❓ #softwaretips</a> (Oct 6, 2023)<br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=WSukTqbcuc0">Should you install a cracked version of any software in your PC ❓ #softwaretips</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
