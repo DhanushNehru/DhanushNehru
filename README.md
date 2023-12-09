@@ -43,7 +43,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 - [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dhanushnehru.hashnode.dev/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to)
 <!-- HASHNODE-BLOG-LIST:END -->
 
-### 🎥 [Latest YouTube Video](https://youtube.com/@dhanushnehru?sub_confirmation=1)
+### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo"><img width="140px" src="https://i.ytimg.com/vi/2xM-ZPdkxqo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo">Avoid These 10 Programming Mistakes and Become a Better Programmer👨🏻‍💻</a> (Dec 9, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WSukTqbcuc0"><img width="140px" src="https://i.ytimg.com/vi/WSukTqbcuc0/mqdefault.jpg"></a></td>
