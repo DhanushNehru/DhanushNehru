@@ -10,9 +10,10 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
 - ⚡ Fun fact: Chess Champ
 
+---
+
 ### Connect with me via 👇
 <p align="left">
-
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
@@ -43,12 +44,18 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 - [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dhanushnehru.hashnode.dev/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to)
 <!-- HASHNODE-BLOG-LIST:END -->
 
+---
+
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
+<table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo"><img width="140px" src="https://i.ytimg.com/vi/2xM-ZPdkxqo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo">Avoid These 10 Programming Mistakes and Become a Better Programmer👨🏻‍💻</a> (Dec 9, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WSukTqbcuc0"><img width="140px" src="https://i.ytimg.com/vi/WSukTqbcuc0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WSukTqbcuc0">Should you install a cracked version of any software in your PC ❓ #softwaretips</a> (Oct 6, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
+
+---
 
 :star: GitHub Stats       |  📚  📚  📚  📚  📚
 :------------------------:|:----------------------: 
