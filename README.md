@@ -42,7 +42,11 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 - [Javascript Deobfuscation](https://dhanushnehru.hashnode.dev/javascript-deobfuscation)
 - [Celebrate Hacktoberfest with these Exciting Open Source Repositories to contribute to](https://dhanushnehru.hashnode.dev/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to)
 <!-- HASHNODE-BLOG-LIST:END -->
- 
+
+### 🎥 [Latest YouTube Video](https://youtube.com/@dhanushnehru?sub_confirmation=1)
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
 :star: GitHub Stats       |  📚  📚  📚  📚  📚
 :------------------------:|:----------------------: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
