@@ -48,12 +48,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=8HJ4GCXKMjY"><img width="140px" src="https://i.ytimg.com/vi/8HJ4GCXKMjY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=GQgsFFOMB3s"><img width="140px" src="https://i.ytimg.com/vi/GQgsFFOMB3s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GQgsFFOMB3s">Why do companies do layoff ? #layoffs2023 #layoffs2024</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=8HJ4GCXKMjY"><img width="140px" src="https://i.ytimg.com/vi/8HJ4GCXKMjY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8HJ4GCXKMjY">Hate coding ⁉️ 🤬 | Reasons why some hate coding 👨‍💻 | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fAMPT4vrni8"><img width="140px" src="https://i.ytimg.com/vi/fAMPT4vrni8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fAMPT4vrni8">❌ DONT WASTE TIME ⏳ When you are learning to code 💻 | Dhanush N</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo"><img width="140px" src="https://i.ytimg.com/vi/2xM-ZPdkxqo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2xM-ZPdkxqo">10 Programming Mistakes to Avoid and Become a Better Programmer👨🏻‍💻 | Dhanush N</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
