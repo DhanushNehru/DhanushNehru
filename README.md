@@ -39,9 +39,9 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
 - [How to write code fast and efficiently ❓](https://dhanushnehru.hashnode.dev/how-to-write-code-fast-and-efficiently)
+- [Dev Retro 2023: Journey in review](https://dhanushnehru.hashnode.dev/dev-retro-2023-journey-in-review)
 - [Understanding Kubernetes: Detailed Look at the Essential Elements](https://dhanushnehru.hashnode.dev/understanding-kubernetes-detailed-look-at-the-essential-elements)
 - [Hacktoberfest: A Journey of Continuous Learning](https://dhanushnehru.hashnode.dev/hacktoberfest-a-journey-of-continuous-learning)
-- [Javascript Deobfuscation](https://dhanushnehru.hashnode.dev/javascript-deobfuscation)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 ---
