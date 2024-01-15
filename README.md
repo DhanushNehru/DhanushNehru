@@ -53,7 +53,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 <tr><td><a href="https://www.youtube.com/watch?v=X3Z_-lu4TVY"><img width="140px" src="https://i.ytimg.com/vi/X3Z_-lu4TVY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X3Z_-lu4TVY">How to write code fast and efficiently ❓ Productivity Tips 💙 | Keep struggling or follow this 🙂</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GQgsFFOMB3s"><img width="140px" src="https://i.ytimg.com/vi/GQgsFFOMB3s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GQgsFFOMB3s">WHY do companies do layoffs 😢 🔴❓| Recession 2023 🔄 2024 😱 !</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=GQgsFFOMB3s">Why do Companies do Layoffs 😢 🔴❓| Recession 2023 🔄 2024 😱 !</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
