@@ -48,12 +48,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=H3r_lIBxaA4"><img width="140px" src="https://i.ytimg.com/vi/H3r_lIBxaA4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=WczdLPXP8zQ"><img width="140px" src="https://i.ytimg.com/vi/WczdLPXP8zQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WczdLPXP8zQ">How to hack and crack passwords ?!</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=H3r_lIBxaA4"><img width="140px" src="https://i.ytimg.com/vi/H3r_lIBxaA4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H3r_lIBxaA4">Stop Using Node.js like this 🚫 Tips and Best Practices 💡</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=J-hDaEU8smE"><img width="140px" src="https://i.ytimg.com/vi/J-hDaEU8smE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J-hDaEU8smE">A Year Of Solving Daily LeetCode Problems 🧠 My Journey 🚀</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=X3Z_-lu4TVY"><img width="140px" src="https://i.ytimg.com/vi/X3Z_-lu4TVY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X3Z_-lu4TVY">How to write code fast and efficiently ❓ Productivity Tips 💙 | Keep struggling or follow this 🙂</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
