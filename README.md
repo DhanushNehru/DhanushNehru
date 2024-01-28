@@ -49,7 +49,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=WczdLPXP8zQ"><img width="140px" src="https://i.ytimg.com/vi/WczdLPXP8zQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WczdLPXP8zQ">How to hack and crack passwords ?!</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=WczdLPXP8zQ">How to hack and crack passwords ? 🧛‍♂️ How password stored ? 🌈 Best practices &amp; hacking techniques 🖤</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=H3r_lIBxaA4"><img width="140px" src="https://i.ytimg.com/vi/H3r_lIBxaA4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H3r_lIBxaA4">Stop Using Node.js like this 🚫 Tips and Best Practices 💡</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=J-hDaEU8smE"><img width="140px" src="https://i.ytimg.com/vi/J-hDaEU8smE/mqdefault.jpg"></a></td>
