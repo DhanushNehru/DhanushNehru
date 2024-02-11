@@ -49,7 +49,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0"><img width="140px" src="https://i.ytimg.com/vi/a3kuXRQshN0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0">Which is the Best Programming Language should one learn in 2024 ? For Beginners &amp; Experienced Devs</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0">Which is the Best Programming Language should one learn ? 👨‍💻 For Beginners &amp; Experienced Devs</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ply3St68c_s"><img width="140px" src="https://i.ytimg.com/vi/Ply3St68c_s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ply3St68c_s">Most Hated Programming Languages on Planet Earth 🌍 !!! ⛔ &lpar; Explained With Code Snippets &rpar; 👨‍💻</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WczdLPXP8zQ"><img width="140px" src="https://i.ytimg.com/vi/WczdLPXP8zQ/mqdefault.jpg"></a></td>
