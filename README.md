@@ -49,7 +49,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=tK8-o2x1XGs"><img width="140px" src="https://i.ytimg.com/vi/tK8-o2x1XGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tK8-o2x1XGs">Types of Stereotype Programming Programmers ! 😳</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=tK8-o2x1XGs">Types of Programmer Stereotypes ! 😳</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0"><img width="140px" src="https://i.ytimg.com/vi/a3kuXRQshN0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0">What is the Best Programming Language to start learning❓ 👨‍💻 For Beginners &amp; Experienced Devs</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ply3St68c_s"><img width="140px" src="https://i.ytimg.com/vi/Ply3St68c_s/mqdefault.jpg"></a></td>
