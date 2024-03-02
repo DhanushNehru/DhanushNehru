@@ -51,7 +51,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=CdncjOhZykU"><img width="140px" src="https://i.ytimg.com/vi/CdncjOhZykU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CdncjOhZykU">Javascript or Python | The Ultimate Programming Comparison 🧑‍💻</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tK8-o2x1XGs"><img width="140px" src="https://i.ytimg.com/vi/tK8-o2x1XGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tK8-o2x1XGs">Types of Programmer Stereotypes ! 👀</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=tK8-o2x1XGs">Types of Programmers on Planet Earth 🌍 👀</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0"><img width="140px" src="https://i.ytimg.com/vi/a3kuXRQshN0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a3kuXRQshN0">What is the Best Programming Language to start learning❓ 👨‍💻 For Beginners &amp; Experienced Devs</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
