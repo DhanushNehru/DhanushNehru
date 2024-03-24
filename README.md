@@ -48,12 +48,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=_4XLCSDP8_Y"><img width="140px" src="https://i.ytimg.com/vi/_4XLCSDP8_Y/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=OHIMVDS_bJs"><img width="140px" src="https://i.ytimg.com/vi/OHIMVDS_bJs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OHIMVDS_bJs">Is Engineering dead ? Is AI going to take your coding job ?🥺 Meet Devin First AI Software Engineer 😳</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_4XLCSDP8_Y"><img width="140px" src="https://i.ytimg.com/vi/_4XLCSDP8_Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_4XLCSDP8_Y">How To Think Like A Programmer ?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kacHQaM9iRQ"><img width="140px" src="https://i.ytimg.com/vi/kacHQaM9iRQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kacHQaM9iRQ">OMG 😳 This video has 283 views and 34 likes and 2 dislikes and 14 comments !!!</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=tLWIo3VWMno"><img width="140px" src="https://i.ytimg.com/vi/tLWIo3VWMno/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tLWIo3VWMno">How to Convert Text to Speech ? Easy Simple Way &amp; FREE &lpar; Without AI &rpar;</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
