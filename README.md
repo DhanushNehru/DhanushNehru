@@ -18,13 +18,14 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
 
-<a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=0072b1&style=for-the-badge" /></a>
-<a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-gray.svg?colorA=FF5733&colorB=152437&style=for-the-badge" /></a>
-<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-black.svg?colorA=F6F8FA&colorB=80DBDD&style=for-the-badge" alt="dev.to"/>
-<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/TWITTER-blue.svg?colorA=12A4DB&colorB=1D9BF0&style=for-the-badge" /></a>
-<a href="https://instagram.com/dhanush_nehru" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-gray.svg?colorA=E4405F&colorB=d62976&style=for-the-badge" /></a>
-<a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-gray.svg?colorA=2962FF&colorB=2962FF&style=for-the-badge" title="Hashnode"/></a>
-<a href="https://github.com/DhanushNehru"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorA=f5f5f5&colorB=4078c0&style=for-the-badge" title="GitHub"/></a>
+<a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" /></a>
+<a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-greenblue.svg?logo=codepen&style=for-the-badge" /></a>
+<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-black.svg?logo=dev.to&style=for-the-badge" alt="dev.to"/>
+<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/TWITTER-lightblue.svg?logo=twitter&style=for-the-badge" /></a>
+<a href="https://instagram.com/dhanush_nehru" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-orange.svg?logo=instagram&style=for-the-badge" /></a>
+<a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-darkblue.svg?logo=hashnode&style=for-the-badge" title="Hashnode"/></a>
+<a href="https://github.com/DhanushNehru"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-black.svg?logo=github&logoColor=white&style=for-the-badge" title="GitHub"/></a>
+<a href="https://discord.gg/Yn9g6KuWyA"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-gray.svg?logo=discord&logoColor=white&style=for-the-badge" title="Discord"/></a>
 </p>
 
 ### Support 👇
