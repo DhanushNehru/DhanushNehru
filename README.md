@@ -49,12 +49,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=OHIMVDS_bJs"><img width="140px" src="https://i.ytimg.com/vi/OHIMVDS_bJs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=HNqv_vuM31E"><img width="140px" src="https://i.ytimg.com/vi/HNqv_vuM31E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HNqv_vuM31E">Can Hacking Be Stopped ? Hacker &lpar; Hats &rpar; Types Exposed &lpar; Watch in 2x Speed &rpar;</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=OHIMVDS_bJs"><img width="140px" src="https://i.ytimg.com/vi/OHIMVDS_bJs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OHIMVDS_bJs">Is AI going to replace your job ? Devil or Devin First AI Software Engineer 😳</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_4XLCSDP8_Y"><img width="140px" src="https://i.ytimg.com/vi/_4XLCSDP8_Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_4XLCSDP8_Y">How To Think Like A Programmer ?</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kacHQaM9iRQ"><img width="140px" src="https://i.ytimg.com/vi/kacHQaM9iRQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kacHQaM9iRQ">OMG 😳 This video has 286 views and 34 likes and 2 dislikes and 14 comments !!!</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
