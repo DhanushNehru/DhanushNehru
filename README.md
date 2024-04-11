@@ -50,7 +50,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=gQA_YblZXO8"><img width="140px" src="https://i.ytimg.com/vi/gQA_YblZXO8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gQA_YblZXO8">Coding Vs Programming</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=gQA_YblZXO8">Coding Vs Programming 🦸🏽‍♂️ The work difference ?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HNqv_vuM31E"><img width="140px" src="https://i.ytimg.com/vi/HNqv_vuM31E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HNqv_vuM31E">Types of Hackers &lpar; Hats &rpar; Exposed 💲 [ Watch in 2x Speed ]</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OHIMVDS_bJs"><img width="140px" src="https://i.ytimg.com/vi/OHIMVDS_bJs/mqdefault.jpg"></a></td>
