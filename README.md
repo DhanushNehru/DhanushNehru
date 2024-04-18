@@ -28,6 +28,9 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 <a href="https://discord.gg/Yn9g6KuWyA"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-gray.svg?logo=discord&logoColor=white&style=for-the-badge" title="Discord"/></a>
 </p>
 
+### GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=juicyfresh&no-bg=true" />
+
 ### Support 👇
 <p><a href="https://ko-fi.com/dhanushnehru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="dhanushnehru" /></a></p>
 
@@ -60,8 +63,10 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ---
 
-:star: GitHub Stats       |  📚  📚  📚  📚  📚
-:------------------------:|:----------------------: 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanushNehru)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
- 
+![Dhanush Nehru's Github Stats](https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=dracula) 
+
+![Dhanush Nehru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
