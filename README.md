@@ -63,9 +63,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ---
 
-![Dhanush Nehru's Github Stats](https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=dracula) 
-
-![Dhanush Nehru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
+![Dhanush Nehru's Github Stats](https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=dracula)  &nbsp; &nbsp; ![Dhanush Nehru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
