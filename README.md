@@ -53,7 +53,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=d8VB6znntkU"><img width="140px" src="https://i.ytimg.com/vi/d8VB6znntkU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d8VB6znntkU">SQL Vs NoSQL | Which Database to Choose ?</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=d8VB6znntkU">SQL Vs NoSQL | What is the difference ? | Which Database to Choose ? | Part 1</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mAw0ZxdgOiw"><img width="140px" src="https://i.ytimg.com/vi/mAw0ZxdgOiw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mAw0ZxdgOiw">What happens when you type a url in your browser and press Enter ?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gQA_YblZXO8"><img width="140px" src="https://i.ytimg.com/vi/gQA_YblZXO8/mqdefault.jpg"></a></td>
