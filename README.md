@@ -53,7 +53,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=S7k0thIosKI"><img width="140px" src="https://i.ytimg.com/vi/S7k0thIosKI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S7k0thIosKI">Coding Was Very Hard Until I Knew These Things !!!</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=S7k0thIosKI">Programming Was Hard Until I Knew THESE Things !!!</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=d8VB6znntkU"><img width="140px" src="https://i.ytimg.com/vi/d8VB6znntkU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=d8VB6znntkU">SQL Vs NoSQL | Which Database to Choose ? | What is the difference ? Part 1</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mAw0ZxdgOiw"><img width="140px" src="https://i.ytimg.com/vi/mAw0ZxdgOiw/mqdefault.jpg"></a></td>
