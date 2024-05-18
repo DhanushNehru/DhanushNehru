@@ -42,10 +42,10 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [I created an Open Source Custom Code Editor](https://dhanushnehru.hashnode.dev/i-created-an-open-source-custom-code-editor)
 - [Most Important Linux Commands You Need To Know !!!](https://dhanushnehru.hashnode.dev/most-important-linux-commands-you-need-to-know)
 - [What happens when you type a URL into your browser ?](https://dhanushnehru.hashnode.dev/what-happens-when-you-type-a-url-into-your-browser)
 - [Devil or Devin : The World’s First AI Software Engineer](https://dhanushnehru.hashnode.dev/devil-or-devin-the-worlds-first-ai-software-engineer)
-- [A Year of Consistent Leetcode 🏆](https://dhanushnehru.hashnode.dev/a-year-of-consistent-leetcode)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 ---
