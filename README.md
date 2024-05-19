@@ -52,12 +52,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=sIG3ForhRRI"><img width="140px" src="https://i.ytimg.com/vi/sIG3ForhRRI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Q31lGIqOevU"><img width="140px" src="https://i.ytimg.com/vi/Q31lGIqOevU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q31lGIqOevU">Should We Stop Playing and Quit Chess ???</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=sIG3ForhRRI"><img width="140px" src="https://i.ytimg.com/vi/sIG3ForhRRI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sIG3ForhRRI">Linux Commands That You Need To Know ‼️ | Rarely Used Commands 🧐 | Linux Tips and Tricks | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=VXjRK1SP_IY"><img width="140px" src="https://i.ytimg.com/vi/VXjRK1SP_IY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VXjRK1SP_IY">How To Make Your Own Web Server For Free ? | Free Hosting | Linux Tips and Tricks | Dhanush N</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=S7k0thIosKI"><img width="140px" src="https://i.ytimg.com/vi/S7k0thIosKI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S7k0thIosKI">CODING Was HARD Until I Knew THESE Things !!!</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
