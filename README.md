@@ -53,7 +53,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=qUPSqFyPqWQ"><img width="140px" src="https://i.ytimg.com/vi/qUPSqFyPqWQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qUPSqFyPqWQ">How to Properly Log Your Applications ? Best Practices and Tips for Logging💡 Follow this or Struggle</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=qUPSqFyPqWQ">How to Log Your Software Applications Efficiently | Best Practices &amp; Tips for Logging 💡 | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Q31lGIqOevU"><img width="140px" src="https://i.ytimg.com/vi/Q31lGIqOevU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q31lGIqOevU">Should We Stop Playing and Quit Chess ??? Elon Musk | Hans Niemann | Kasparov ♟️| Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sIG3ForhRRI"><img width="140px" src="https://i.ytimg.com/vi/sIG3ForhRRI/mqdefault.jpg"></a></td>
