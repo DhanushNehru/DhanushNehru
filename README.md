@@ -42,11 +42,11 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Super useful console.log tricks](https://dhanushnehru.hashnode.dev/super-useful-consolelog-tricks)
 - [Announcing runtime-environment: A Rust Crate for Detecting Operating Systems at Runtime](https://dhanushnehru.hashnode.dev/announcing-runtime-environment-a-rust-crate-for-detecting-operating-systems-at-runtime)
 - [Introducing sudoku-puzzle: Simplify your Sudoku experience with this new NPM Package](https://dhanushnehru.hashnode.dev/introducing-sudoku-puzzle-simplify-your-sudoku-experience-with-this-new-npm-package)
 - [I created an Open Source Custom Code Editor](https://dhanushnehru.hashnode.dev/i-created-an-open-source-custom-code-editor)
 - [Most Important Linux Commands You Need To Know !!!](https://dhanushnehru.hashnode.dev/most-important-linux-commands-you-need-to-know)
-- [What happens when you type a URL into your browser ?](https://dhanushnehru.hashnode.dev/what-happens-when-you-type-a-url-into-your-browser)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 ---
