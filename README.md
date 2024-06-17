@@ -40,7 +40,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
 
-### 📕 [My Latest Hashnode Articles](https://hashnode.com/@dhanushnehru)
+### 📕 [My Latest Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
 - [Super useful console.log tricks](https://dhanushnehru.hashnode.dev/super-useful-consolelog-tricks)
 - [Announcing runtime-environment: A Rust Crate for Detecting Operating Systems at Runtime](https://dhanushnehru.hashnode.dev/announcing-runtime-environment-a-rust-crate-for-detecting-operating-systems-at-runtime)
