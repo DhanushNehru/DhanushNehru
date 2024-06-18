@@ -12,11 +12,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ---
 
-### Connect with me via 👇
+### Connect 👇
 <p align="left">
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw)](https://youtube.com/@dhanushnehru/?sub_confirmation=1) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkPSG_rUGJqAXmcajZ0mNMw?style=social)](https://youtube.com/@dhanushnehru/?sub_confirmation=1)
+
 
 <a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-greenblue.svg?logo=codepen&style=for-the-badge" /></a>
