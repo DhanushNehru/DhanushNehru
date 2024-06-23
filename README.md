@@ -55,7 +55,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=JIw0QVk5yiw"><img width="140px" src="https://i.ytimg.com/vi/JIw0QVk5yiw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JIw0QVk5yiw">My Complete 100 Days Of Code Journey ⭐ Day 1 to Day 100 #100daysofcodechallenge</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=JIw0QVk5yiw">My 100 Days Of Code Journey ⭐ #100daysofcodechallenge</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ziD7-7yoqfo"><img width="140px" src="https://i.ytimg.com/vi/ziD7-7yoqfo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ziD7-7yoqfo">Why is Programming / Coding Important to Learn ? 🙅‍♂️ | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=T_4EEU13y1c"><img width="140px" src="https://i.ytimg.com/vi/T_4EEU13y1c/mqdefault.jpg"></a></td>
