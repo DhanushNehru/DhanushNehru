@@ -12,10 +12,9 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ---
 
-### Connect 👇
 <p align="left">
 
-<a href="http://youtube.com/dhanushnehru?sub_confirmation=1">
+<a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
 </a>
 
@@ -32,10 +31,9 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=juicyfresh&no-bg=true" />
 
-### Support 👇
-<p><a href="https://ko-fi.com/dhanushnehru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="dhanushnehru" /></a></p>
-
-<br></br>
+<p align="center">
+<a href="https://ko-fi.com/dhanushnehru"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="dhanushnehru" /></a>
+</p>
 
 <!-- **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)** -->
 <!-- DEVTO-BLOG-LIST:START -->
