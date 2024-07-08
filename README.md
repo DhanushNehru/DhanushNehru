@@ -74,3 +74,13 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ---
 
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
+
+<a href="https://www.google.com/search?q=Dhanush+Nehru">
+  <table align="left">
+      <tr>
+          <td>
+            🙂&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
