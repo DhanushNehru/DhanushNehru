@@ -55,7 +55,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA"><img width="140px" src="https://i.ytimg.com/vi/FXjbcNiEVzA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA">Programming WAR Crimes</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA">Programming Crimes</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=CUE_IoNBSCw"><img width="140px" src="https://i.ytimg.com/vi/CUE_IoNBSCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CUE_IoNBSCw">‎</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JIw0QVk5yiw"><img width="140px" src="https://i.ytimg.com/vi/JIw0QVk5yiw/mqdefault.jpg"></a></td>
