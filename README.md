@@ -52,7 +52,9 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=WgngcxccN3s"><img width="140px" src="https://i.ytimg.com/vi/WgngcxccN3s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA"><img width="140px" src="https://i.ytimg.com/vi/GgP0EyuN8GA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA">Billions of Computers Not Working - Microsoft Crowdstrike Crash - The Global Outage Explained 🤬</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=WgngcxccN3s"><img width="140px" src="https://i.ytimg.com/vi/WgngcxccN3s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WgngcxccN3s">How to find or gather information about anyone ? | Open Source INTelligence | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA"><img width="140px" src="https://i.ytimg.com/vi/FXjbcNiEVzA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA">Programming Crimes</a><br/></td></tr>
@@ -60,8 +62,6 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 <td><a href="https://www.youtube.com/watch?v=CUE_IoNBSCw">‎</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JIw0QVk5yiw"><img width="140px" src="https://i.ytimg.com/vi/JIw0QVk5yiw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JIw0QVk5yiw">100 Days Of Code Challenge 🧠 My Journey 🚀</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ziD7-7yoqfo"><img width="140px" src="https://i.ytimg.com/vi/ziD7-7yoqfo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ziD7-7yoqfo">Why is Programming / Coding Important to Learn ? 🙅‍♂️ | Dhanush N</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
