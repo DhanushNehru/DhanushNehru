@@ -53,7 +53,7 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA"><img width="140px" src="https://i.ytimg.com/vi/GgP0EyuN8GA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA">Trillions of Computers Not Working - Microsoft Crowdstrike Issue &amp; Fix - Global Outage Explained 🤬</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA">Billions of Computers Not Working - Microsoft Crowdstrike Issue &amp; Fix - Global Outage Explained 🤬</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WgngcxccN3s"><img width="140px" src="https://i.ytimg.com/vi/WgngcxccN3s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WgngcxccN3s">How to find or gather information about anyone ? | Open Source INTelligence | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA"><img width="140px" src="https://i.ytimg.com/vi/FXjbcNiEVzA/mqdefault.jpg"></a></td>
