@@ -32,7 +32,12 @@ Tech Autodidact, Engineer & Programmer who loves to solve technology problems by
 <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=juicyfresh&no-bg=true" />
 
 <p align="center">
-<a href="https://ko-fi.com/dhanushnehru"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="dhanushnehru" /></a>
+  <a href="https://ko-fi.com/dhanushnehru"> 
+    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee at ko-fi.com" />
+  </a>
+  <a href="https://www.buymeacoffee.com/dhanushnehru"> 
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee at buymeacoffee.com" />
+  </a>
 </p>
 
 <!-- **📕 Latest dev.to posts [@dhanushnehru](https://dev.to/dhanushnehru)** -->
