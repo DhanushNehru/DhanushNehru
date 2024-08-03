@@ -1,6 +1,6 @@
 ### <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I am Dhanush N</p> 
 
-Tech Autodidact, Engineer & Programmer who loves to solve technology problems by code and build scalable secure applications around various technologies
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
