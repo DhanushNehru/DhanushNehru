@@ -57,7 +57,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=JF7Rin9OD3A"><img width="140px" src="https://i.ytimg.com/vi/JF7Rin9OD3A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=3gON6pBtJbk"><img width="140px" src="https://i.ytimg.com/vi/3gON6pBtJbk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3gON6pBtJbk">FREE Game Changing Websites On The Internet To Visit When You Are Bored !</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=JF7Rin9OD3A"><img width="140px" src="https://i.ytimg.com/vi/JF7Rin9OD3A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JF7Rin9OD3A">Top Useful FREE Websites On The Internet You Never Knew Existed ! | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA"><img width="140px" src="https://i.ytimg.com/vi/GgP0EyuN8GA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GgP0EyuN8GA">Billions of Computers Not Working - Microsoft Crowdstrike Outage Issue &amp; Fix Explained | Dhanush N</a><br/></td></tr>
@@ -65,8 +67,6 @@
 <td><a href="https://www.youtube.com/watch?v=WgngcxccN3s">How to find or gather information about anyone ? | Open Source INTelligence | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA"><img width="140px" src="https://i.ytimg.com/vi/FXjbcNiEVzA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FXjbcNiEVzA">Programming Crimes</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=CUE_IoNBSCw"><img width="140px" src="https://i.ytimg.com/vi/CUE_IoNBSCw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CUE_IoNBSCw">‎</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
