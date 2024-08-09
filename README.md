@@ -77,7 +77,8 @@
 ---
 
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
-<img src="https://tryhackme-badges.s3.amazonaws.com/dhanushnehru.png" alt="TryHackMe">
+![TryHackMe Badge](https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png)
+
 
 <a href="https://www.google.com/search?q=Dhanush+Nehru">
   <table align="left">
