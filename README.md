@@ -15,7 +15,7 @@
 <p align="left">
 
 <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
+    <img src="https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube Views&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" /></a>
