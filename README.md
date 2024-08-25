@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-greenblue.svg?logo=codepen&style=for-the-badge" /></a>
 <a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-black.svg?logo=dev.to&style=for-the-badge" alt="dev.to"/>
-<a href="https://twitter.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/TWITTER-lightblue.svg?logo=twitter&style=for-the-badge" /></a>
+<a href="https://x.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/Twitter-lightblue.svg?logo=X&style=for-the-badge" /></a>
 <a href="https://instagram.com/dhanush_nehru" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-orange.svg?logo=instagram&style=for-the-badge" /></a>
 <a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-darkblue.svg?logo=hashnode&style=for-the-badge" title="Hashnode"/></a>
 <a href="https://github.com/DhanushNehru"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-black.svg?logo=github&logoColor=white&style=for-the-badge" title="GitHub"/></a>
