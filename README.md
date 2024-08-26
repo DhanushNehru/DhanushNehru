@@ -46,11 +46,11 @@
 
 ### 📕 [My Latest Articles](https://hashnode.com/@dhanushnehru)
 <!-- HASHNODE-BLOG-LIST:START -->
+- [Insights and Tips from a Lead Engineer](https://dhanushnehru.hashnode.dev/insights-and-tips-from-a-lead-engineer)
 - [Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://dhanushnehru.hashnode.dev/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display)
 - [Super useful console.log tricks](https://dhanushnehru.hashnode.dev/super-useful-consolelog-tricks)
 - [Announcing runtime-environment: A Rust Crate for Detecting Operating Systems at Runtime](https://dhanushnehru.hashnode.dev/announcing-runtime-environment-a-rust-crate-for-detecting-operating-systems-at-runtime)
 - [Introducing sudoku-puzzle: Simplify your Sudoku experience with this new NPM Package](https://dhanushnehru.hashnode.dev/introducing-sudoku-puzzle-simplify-your-sudoku-experience-with-this-new-npm-package)
-- [I created an Open Source Custom Code Editor](https://dhanushnehru.hashnode.dev/i-created-an-open-source-custom-code-editor)
 <!-- HASHNODE-BLOG-LIST:END -->
 
 ---
