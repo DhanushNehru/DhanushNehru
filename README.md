@@ -28,7 +28,7 @@
 <a href="https://discord.gg/Yn9g6KuWyA"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-gray.svg?logo=discord&logoColor=white&style=for-the-badge" title="Discord"/></a>
 </p>
 
-### GitHub Trophies
+### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=juicyfresh&no-bg=true" />
 
 <p align="center">
