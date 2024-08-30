@@ -54,6 +54,11 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Can’t AI count letters ?](https://ai.plainenglish.io/why-cant-ai-count-letters-ef2eff5cc123?source=rss-8b835baaf548------2)
+- [Insights and Tips from a Lead Engineer](https://blog.stackademic.com/insights-and-tips-from-a-lead-engineer-0fe5b3561010?source=rss-8b835baaf548------2)
+- [Introducing the TryHackMe Badge Action Workflow: Automate Your Security Achievements Display](https://levelup.gitconnected.com/introducing-the-tryhackme-badge-action-workflow-automate-your-security-achievements-display-8aa898ce06f0?source=rss-8b835baaf548------2)
+- [Billions of Computers not working | The CrowdStrike Chaos | What happened and the Fix !](https://levelup.gitconnected.com/billions-of-computers-not-working-the-crowdstrike-chaos-what-happened-and-the-fix-c0089580843f?source=rss-8b835baaf548------2)
+- [Super useful console.log tricks](https://blog.stackademic.com/super-useful-console-log-tricks-3debd1252886?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 ---
