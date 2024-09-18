@@ -51,11 +51,11 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Understanding Javascript Shorthands](https://javascript.plainenglish.io/understanding-javascript-shorthands-02e9af92d5b6?source=rss-8b835baaf548------2)
 - [JavaScript Obfuscation](https://javascript.plainenglish.io/javascript-obfuscation-4ee012637ef8?source=rss-8b835baaf548------2)
 - [Top 25 Node.js Interview Questions and Answers](https://javascript.plainenglish.io/top-25-node-js-interview-questions-and-answers-d8109c23d9b6?source=rss-8b835baaf548------2)
 - [Top 25 React Interview Questions and Answers](https://javascript.plainenglish.io/top-25-react-interview-questions-and-answers-e08b532912d7?source=rss-8b835baaf548------2)
 - [How To Avoid Building Products That Fail ?](https://blog.venturemagazine.net/how-to-avoid-building-products-that-fail-96d87de8c042?source=rss-8b835baaf548------2)
-- [Top 25 JavaScript Interview Questions and Answers](https://javascript.plainenglish.io/top-25-javascript-interview-questions-and-answers-89c86de7803c?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 ---
