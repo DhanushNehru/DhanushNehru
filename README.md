@@ -63,7 +63,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY"><img width="140px" src="https://i.ytimg.com/vi/6VxkA_eD6bY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY">Network Protocols Easily Explained | Cybersecurity | DevOps</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY">Network Protocols Explained Easily | Cybersecurity | Hacking | DevOps</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sgwthZeJN90"><img width="140px" src="https://i.ytimg.com/vi/sgwthZeJN90/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sgwthZeJN90">A to Z Cybersecurity Terms You Need To Know | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=e-RfalOKSMI"><img width="140px" src="https://i.ytimg.com/vi/e-RfalOKSMI/mqdefault.jpg"></a></td>
