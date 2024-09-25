@@ -51,7 +51,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [AI News Roundup: Is OpenAI’s o1 a Game-Changer? New Use Cases Explored](https://generativeai.pub/ai-news-roundup-is-openais-o1-a-game-changer-new-use-cases-explored-93683f2031b5?source=rss-8b835baaf548------2)
+- [AI News Roundup: Is OpenAI’s o1 a Game-Changer? New Use Cases Explored](https://dhanushnehru.medium.com/ai-news-roundup-is-openais-o1-a-game-changer-new-use-cases-explored-93683f2031b5?source=rss-8b835baaf548------2)
 - [Will Software Updates lead to Cyberattacks ?](https://infosecwriteups.com/will-software-updates-lead-to-cyberattacks-38d629f565cb?source=rss-8b835baaf548------2)
 - [Understanding Javascript Shorthands](https://javascript.plainenglish.io/understanding-javascript-shorthands-02e9af92d5b6?source=rss-8b835baaf548------2)
 - [JavaScript Obfuscation](https://javascript.plainenglish.io/javascript-obfuscation-4ee012637ef8?source=rss-8b835baaf548------2)
