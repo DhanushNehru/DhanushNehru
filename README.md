@@ -62,7 +62,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY"><img width="140px" src="https://i.ytimg.com/vi/6VxkA_eD6bY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s"><img width="140px" src="https://i.ytimg.com/vi/y9rZvmMQl7s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s">How Hackers Took Over Ranveer Allahbadia&#39;s YouTube Channels | What Happened ? 🧛</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY"><img width="140px" src="https://i.ytimg.com/vi/6VxkA_eD6bY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY">Network Protocols Explained Easily | Cybersecurity | Hacking | DevOps</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sgwthZeJN90"><img width="140px" src="https://i.ytimg.com/vi/sgwthZeJN90/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sgwthZeJN90">A to Z Cybersecurity Terms You Need To Know | Dhanush N</a><br/></td></tr>
@@ -70,8 +72,6 @@
 <td><a href="https://www.youtube.com/watch?v=e-RfalOKSMI">Contributing to Open Source Changes Your Life ✨ | How to Contribute ⭐️ | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ga2R-0SS4E0"><img width="140px" src="https://i.ytimg.com/vi/ga2R-0SS4E0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ga2R-0SS4E0">IPv4 Vs IPv6 | The Networking Shutdown | Dhanush N</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=hXFk7EJfZhY"><img width="140px" src="https://i.ytimg.com/vi/hXFk7EJfZhY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hXFk7EJfZhY">TCP Vs UDP | The Networking Comparison | Dhanush N</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
