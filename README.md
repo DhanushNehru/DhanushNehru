@@ -51,7 +51,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [JavaScript concepts every Node.js developer must master](https://dhanushnehru.medium.com/javascript-concepts-every-node-js-developer-must-master-5aded814dbed?source=rss-8b835baaf548------2)
+- [JavaScript concepts every Node.js developer must master](https://javascript.plainenglish.io/javascript-concepts-every-node-js-developer-must-master-5aded814dbed?source=rss-8b835baaf548------2)
 - [Kickstart Hacktoberfest with These Exciting Open Source Projects to Contribute To!](https://levelup.gitconnected.com/kickstart-hacktoberfest-with-these-exciting-open-source-projects-to-contribute-to-03a61cc43d0d?source=rss-8b835baaf548------2)
 - [Docker Explained: A Deep Dive into Containerization](https://aws.plainenglish.io/docker-explained-a-deep-dive-into-containerization-bda41d710a8f?source=rss-8b835baaf548------2)
 - [Ranveer Allahbadia’s YouTube Channels Hacked: What Happened and What’s Next?](https://infosecwriteups.com/ranveer-allahbadias-youtube-channels-hacked-what-happened-and-what-s-next-6482a3805a1b?source=rss-8b835baaf548------2)
