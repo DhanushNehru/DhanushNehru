@@ -63,7 +63,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY"><img width="140px" src="https://i.ytimg.com/vi/bI8hwl-dTuY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY">Open Source: Why Everyone Should Contribute &lpar; Even If You Can’t Code! &rpar;</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY">Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s"><img width="140px" src="https://i.ytimg.com/vi/y9rZvmMQl7s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s">Ranveer Allahbadia&#39;s YouTube Channel Hacked | How Hackers Hack YouTube Channels ? 🧛</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY"><img width="140px" src="https://i.ytimg.com/vi/6VxkA_eD6bY/mqdefault.jpg"></a></td>
