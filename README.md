@@ -62,7 +62,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY"><img width="140px" src="https://i.ytimg.com/vi/bI8hwl-dTuY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=5iZduvhOpPA"><img width="140px" src="https://i.ytimg.com/vi/5iZduvhOpPA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5iZduvhOpPA">How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Developer</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY"><img width="140px" src="https://i.ytimg.com/vi/bI8hwl-dTuY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY">Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s"><img width="140px" src="https://i.ytimg.com/vi/y9rZvmMQl7s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s">Ranveer Allahbadia&#39;s YouTube Channel Hacked | How Hackers Hack YouTube Channels ? 🧛</a><br/></td></tr>
@@ -70,8 +72,6 @@
 <td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY">Network Protocols Explained Easily | Cybersecurity | Hacking | DevOps</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sgwthZeJN90"><img width="140px" src="https://i.ytimg.com/vi/sgwthZeJN90/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sgwthZeJN90">A to Z Cybersecurity Terms You Need To Know | Dhanush N</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=e-RfalOKSMI"><img width="140px" src="https://i.ytimg.com/vi/e-RfalOKSMI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e-RfalOKSMI">Contributing to Open Source Changes Your Life ✨ | How to Contribute ⭐️ | Dhanush N</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
