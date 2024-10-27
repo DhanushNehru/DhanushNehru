@@ -51,11 +51,11 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Web Developer](https://medium.com/illumination-on-youtube/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-web-developer-196d02fee35c?source=rss-8b835baaf548------2)
+- [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://infosecwriteups.com/meta-fined-91-million-for-storing-millions-of-facebook-and-instagram-passwords-in-plaintext-e82a66c24f46?source=rss-8b835baaf548------2)
+- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Web Developer](https://javascript.plainenglish.io/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-web-developer-196d02fee35c?source=rss-8b835baaf548------2)
 - [JavaScript concepts every Node.js developer must master](https://javascript.plainenglish.io/javascript-concepts-every-node-js-developer-must-master-5aded814dbed?source=rss-8b835baaf548------2)
 - [Kickstart Hacktoberfest with These Exciting Open Source Projects to Contribute To!](https://levelup.gitconnected.com/kickstart-hacktoberfest-with-these-exciting-open-source-projects-to-contribute-to-03a61cc43d0d?source=rss-8b835baaf548------2)
 - [Docker Explained: A Deep Dive into Containerization](https://aws.plainenglish.io/docker-explained-a-deep-dive-into-containerization-bda41d710a8f?source=rss-8b835baaf548------2)
-- [Ranveer Allahbadia’s YouTube Channels Hacked: What Happened and What’s Next?](https://infosecwriteups.com/ranveer-allahbadias-youtube-channels-hacked-what-happened-and-what-s-next-6482a3805a1b?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 ---
