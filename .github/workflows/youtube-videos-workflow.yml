@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
-          max_post_count: 5
+          max_post_count: 10
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCkPSG_rUGJqAXmcajZ0mNMw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
