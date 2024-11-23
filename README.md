@@ -67,7 +67,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w"><img width="140px" src="https://i.ytimg.com/vi/1ar1ZaFV47w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU"><img width="140px" src="https://i.ytimg.com/vi/qi0CpcMrjMU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU">Free Open Source WAF SafeLine</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w"><img width="140px" src="https://i.ytimg.com/vi/1ar1ZaFV47w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w">OSI Model Explained Easily | Computer Networking | Dhanush N</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE"><img width="140px" src="https://i.ytimg.com/vi/8x1cFT9T-nE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE">50+ Cybersecurity Terms You Must Know In 2025</a><br/></td></tr>
@@ -85,8 +87,6 @@
 <td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY">Network Protocols Explained Easily | Cybersecurity | Hacking | DevOps</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sgwthZeJN90"><img width="140px" src="https://i.ytimg.com/vi/sgwthZeJN90/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sgwthZeJN90">A to Z Cybersecurity Terms You Need To Know | Dhanush N</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=e-RfalOKSMI"><img width="140px" src="https://i.ytimg.com/vi/e-RfalOKSMI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e-RfalOKSMI">Contributing to Open Source Changes Your Life ✨ | How to Contribute ⭐️ | Dhanush N</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
