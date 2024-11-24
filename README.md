@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
-- 🔭 I’m currently working on Cybersecurity, Ethical Hacking, PostgreSQL, Rust
+- 🔭 I’m currently working on DevOps, DevSecOps, Cybersecurity, Ethical Hacking
 - 🌱 I’m currently learning various tech that interests me
 - 💬 Ask me about Node Js, Cube Js, React Js, Python, MongoDB, Redis, Elasticsearch
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
