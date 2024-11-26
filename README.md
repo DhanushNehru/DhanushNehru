@@ -51,6 +51,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How to Build a Strong Cybersecurity Strategy ?](https://infosecwriteups.com/how-to-build-a-strong-cybersecurity-strategy-67e235beca6e?source=rss-8b835baaf548------2)
 - [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://infosecwriteups.com/meta-fined-91-million-for-storing-millions-of-facebook-and-instagram-passwords-in-plaintext-e82a66c24f46?source=rss-8b835baaf548------2)
 - [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Web Developer](https://javascript.plainenglish.io/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-web-developer-196d02fee35c?source=rss-8b835baaf548------2)
 - [JavaScript concepts every Node.js developer must master](https://javascript.plainenglish.io/javascript-concepts-every-node-js-developer-must-master-5aded814dbed?source=rss-8b835baaf548------2)
@@ -60,7 +61,6 @@
 - [AI News Roundup: Is OpenAI’s o1 a Game-Changer? New Use Cases Explored](https://ai.plainenglish.io/ai-news-roundup-is-openais-o1-a-game-changer-new-use-cases-explored-93683f2031b5?source=rss-8b835baaf548------2)
 - [Will Software Updates lead to Cyberattacks ?](https://infosecwriteups.com/will-software-updates-lead-to-cyberattacks-38d629f565cb?source=rss-8b835baaf548------2)
 - [Understanding Javascript Shorthands](https://javascript.plainenglish.io/understanding-javascript-shorthands-02e9af92d5b6?source=rss-8b835baaf548------2)
-- [JavaScript Obfuscation](https://javascript.plainenglish.io/javascript-obfuscation-4ee012637ef8?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 ---
