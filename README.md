@@ -68,7 +68,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0"><img width="140px" src="https://i.ytimg.com/vi/n0o-pSULCr0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0">Types of Cyberattacks You Must Know About | Cyber Attacks Explained ⚠️</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0">Types of Cyberattacks You Need To Know About</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU"><img width="140px" src="https://i.ytimg.com/vi/qi0CpcMrjMU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU">Free Open Source WAF SafeLine</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w"><img width="140px" src="https://i.ytimg.com/vi/1ar1ZaFV47w/mqdefault.jpg"></a></td>
