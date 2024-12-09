@@ -67,7 +67,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0"><img width="140px" src="https://i.ytimg.com/vi/n0o-pSULCr0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=60q7Zdyvdf4"><img width="140px" src="https://i.ytimg.com/vi/60q7Zdyvdf4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=60q7Zdyvdf4">Top 15 Must Known Docker Best Practices for Production Applications</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0"><img width="140px" src="https://i.ytimg.com/vi/n0o-pSULCr0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0">Types of Cyberattacks You Need To Know About</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU"><img width="140px" src="https://i.ytimg.com/vi/qi0CpcMrjMU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU">Free Open Source WAF SafeLine</a><br/></td></tr>
@@ -85,8 +87,6 @@
 <td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY">Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s"><img width="140px" src="https://i.ytimg.com/vi/y9rZvmMQl7s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s">Ranveer Allahbadia&#39;s YouTube Channel Hacked | How Hackers Hack YouTube Channels ? 🧛</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY"><img width="140px" src="https://i.ytimg.com/vi/6VxkA_eD6bY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6VxkA_eD6bY">Network Protocols Explained Easily | Cybersecurity | Hacking | DevOps</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
