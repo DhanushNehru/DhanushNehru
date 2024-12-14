@@ -74,7 +74,7 @@
 <tr><td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU"><img width="140px" src="https://i.ytimg.com/vi/qi0CpcMrjMU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU">Free Open Source WAF SafeLine</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w"><img width="140px" src="https://i.ytimg.com/vi/1ar1ZaFV47w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w">OSI Model Explained Easily | Computer Networking | Dhanush N</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w">OSI Model Explained Easily | Computer Networking</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE"><img width="140px" src="https://i.ytimg.com/vi/8x1cFT9T-nE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE">50+ Cybersecurity Terms You Must Know In 2025</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=s25RjATkRE4"><img width="140px" src="https://i.ytimg.com/vi/s25RjATkRE4/mqdefault.jpg"></a></td>
@@ -86,7 +86,7 @@
 <tr><td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY"><img width="140px" src="https://i.ytimg.com/vi/bI8hwl-dTuY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bI8hwl-dTuY">Why Everyone Should Contribute to Open Source &lpar; Even If You Can’t Code! &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s"><img width="140px" src="https://i.ytimg.com/vi/y9rZvmMQl7s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s">Ranveer Allahbadia&#39;s YouTube Channel Hacked | How Hackers Hack YouTube Channels ? 🧛</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=y9rZvmMQl7s">How Hackers Hack YouTube Channels ? Ranveer Allahbadia&#39;s YouTube Channel Hacked 🧛</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
