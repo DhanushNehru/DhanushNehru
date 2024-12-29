@@ -67,7 +67,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Ei7eJR8ivLU"><img width="140px" src="https://i.ytimg.com/vi/Ei7eJR8ivLU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=FZLX7yKc88Y"><img width="140px" src="https://i.ytimg.com/vi/FZLX7yKc88Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FZLX7yKc88Y">Must Known Top Hacker Tools for 2025 | Kali Linux | Cybersecurity</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Ei7eJR8ivLU"><img width="140px" src="https://i.ytimg.com/vi/Ei7eJR8ivLU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ei7eJR8ivLU">What is Kubernetes ? for Kids: Simplified Explanation for Everyone</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IZH4eVcAQbk"><img width="140px" src="https://i.ytimg.com/vi/IZH4eVcAQbk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IZH4eVcAQbk">Should you STOP using VPN for Privacy ?</a><br/></td></tr>
@@ -85,8 +87,6 @@
 <td><a href="https://www.youtube.com/watch?v=s25RjATkRE4">Why you should not mistype a website name ?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fSCnHRWsxGA"><img width="140px" src="https://i.ytimg.com/vi/fSCnHRWsxGA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fSCnHRWsxGA">Should we STOP using Node.js 🚫 | Node.js Vs Deno | Which Javascript Runtime to Choose ?</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5iZduvhOpPA"><img width="140px" src="https://i.ytimg.com/vi/5iZduvhOpPA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5iZduvhOpPA">How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a WEB Developer ?</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
