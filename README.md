@@ -51,7 +51,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Dev Retro 2024: Journey in review](https://dhanushnehru.medium.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
+- [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
 - [TryHackMe Advent of Cyber 2024 &lpar;Day 21–24&rpar;](https://dhanushnehru.medium.com/tryhackme-advent-of-cyber-2024-day-21-24-a69d31244358?source=rss-8b835baaf548------2)
 - [Why Every Developer Should Start Content Creation Today ?](https://levelup.gitconnected.com/why-every-developer-should-start-content-creation-today-19a6b6684f7f?source=rss-8b835baaf548------2)
 - [The OSI Model: Networking Simplified](https://aws.plainenglish.io/the-osi-model-networking-simplified-6f8fa9e1656b?source=rss-8b835baaf548------2)
