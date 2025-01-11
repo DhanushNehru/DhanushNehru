@@ -21,14 +21,28 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube Subscribers&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dhanushnehru/"><img alt="LinkedIn @dhanushnehru" align="center" src="https://img.shields.io/badge/LINKEDIN-blue.svg?logo=linkedin&style=for-the-badge" /></a>
-<a href="https://codepen.io/dhanushnehru" target="blank"><img alt="Codepen @dhanushnehru" align="center" src="https://img.shields.io/badge/CODEPEN-greenblue.svg?logo=codepen&style=for-the-badge" /></a>
-<a href="https://dev.to/dhanushnehru" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-black.svg?logo=dev.to&style=for-the-badge" alt="dev.to"/>
-<a href="https://x.com/Dhanush_Nehru" target="blank"><img alt="Twitter" align="center" src="https://img.shields.io/badge/Twitter-lightblue.svg?logo=X&style=for-the-badge" /></a>
-<a href="https://instagram.com/dhanush_nehru" target="blank"><img alt="Instagram" align="center" src="https://img.shields.io/badge/INSTAGRAM-orange.svg?logo=instagram&style=for-the-badge" /></a>
-<a href="https://hashnode.com/@dhanushnehru"><img alt="Hashnode" align="center" src="https://img.shields.io/badge/HASHNODE-darkblue.svg?logo=hashnode&style=for-the-badge" title="Hashnode"/></a>
-<a href="https://github.com/DhanushNehru"><img alt="GitHub" align="center" src="https://img.shields.io/badge/GITHUB-black.svg?logo=github&logoColor=white&style=for-the-badge" title="GitHub"/></a>
-<a href="https://discord.gg/Yn9g6KuWyA"><img alt="Discord" align="center" src="https://img.shields.io/badge/Discord-gray.svg?logo=discord&logoColor=white&style=for-the-badge" title="Discord"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhanushnehru/" target="_blank">
+    <img alt="LinkedIn @dhanushnehru" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://codepen.io/dhanushnehru" target="_blank">
+    <img alt="CodePen @dhanushnehru" src="https://img.shields.io/badge/CodePen-000000.svg?logo=codepen&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/Dhanush_Nehru" target="_blank">
+    <img alt="X Profile" src="https://img.shields.io/badge/X-1DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/dhanush_nehru" target="_blank">
+    <img alt="Instagram @dhanush_nehru" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://hashnode.com/@dhanushnehru" target="_blank">
+    <img alt="Hashnode @dhanushnehru" src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://dev.to/dhanushnehru" target="_blank">
+    <img alt="Dev.to @dhanushnehru" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=dev.to&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/Yn9g6KuWyA" target="_blank">
+    <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ### 🏆 GitHub Trophies
