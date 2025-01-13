@@ -108,8 +108,8 @@
 <td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE">50+ Cybersecurity Terms You Must Know In 2025</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=s25RjATkRE4"><img width="140px" src="https://i.ytimg.com/vi/s25RjATkRE4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s25RjATkRE4">Why you should not mistype a website name ?</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kLjUd1uhxic"><img width="140px" src="https://i.ytimg.com/vi/kLjUd1uhxic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kLjUd1uhxic">Your Cyber Security Career Starts Here! 🔒  @RealTryHackMe  #THMCyberSecurity101</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=fSCnHRWsxGA"><img width="140px" src="https://i.ytimg.com/vi/fSCnHRWsxGA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fSCnHRWsxGA">Should we STOP using Node.js 🚫 | Node.js Vs Deno | Which Javascript Runtime to Choose ?</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
