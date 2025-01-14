@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on DevOps, DevSecOps, Cybersecurity, Ethical Hacking
 - 🌱 I’m currently learning various tech that interests me
-- 💬 Ask me about Node Js, Cube Js, React Js, Python, MongoDB, Redis, Elasticsearch
+- 💬 Ask me about Node Js, React Js, Python, MongoDB, Redis, ELK, Opensearch
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
 - ⚡ Fun fact: Chess Champ
 
