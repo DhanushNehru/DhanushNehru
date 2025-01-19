@@ -65,6 +65,16 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
+- [TryHackMe Advent of Cyber 2024 &lpar;Day 21–24&rpar;](https://dhanushnehru.medium.com/tryhackme-advent-of-cyber-2024-day-21-24-a69d31244358?source=rss-8b835baaf548------2)
+- [Why Every Developer Should Start Content Creation Today ?](https://levelup.gitconnected.com/why-every-developer-should-start-content-creation-today-19a6b6684f7f?source=rss-8b835baaf548------2)
+- [The OSI Model: Networking Simplified](https://aws.plainenglish.io/the-osi-model-networking-simplified-6f8fa9e1656b?source=rss-8b835baaf548------2)
+- [How to Build a Strong Cybersecurity Strategy ?](https://infosecwriteups.com/how-to-build-a-strong-cybersecurity-strategy-67e235beca6e?source=rss-8b835baaf548------2)
+- [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://infosecwriteups.com/meta-fined-91-million-for-storing-millions-of-facebook-and-instagram-passwords-in-plaintext-e82a66c24f46?source=rss-8b835baaf548------2)
+- [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Web Developer](https://javascript.plainenglish.io/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-web-developer-196d02fee35c?source=rss-8b835baaf548------2)
+- [JavaScript concepts every Node.js developer must master](https://javascript.plainenglish.io/javascript-concepts-every-node-js-developer-must-master-5aded814dbed?source=rss-8b835baaf548------2)
+- [Kickstart Hacktoberfest with These Exciting Open Source Projects to Contribute To!](https://levelup.gitconnected.com/kickstart-hacktoberfest-with-these-exciting-open-source-projects-to-contribute-to-03a61cc43d0d?source=rss-8b835baaf548------2)
+- [Docker Explained: A Deep Dive into Containerization](https://aws.plainenglish.io/docker-explained-a-deep-dive-into-containerization-bda41d710a8f?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
