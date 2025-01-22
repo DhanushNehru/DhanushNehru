@@ -131,7 +131,7 @@
 </p>
 
 <div>
-  <table>
+  <table align="left">
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Dhanush Nehru's Github Stats" />
