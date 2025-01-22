@@ -12,7 +12,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
 
 <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube Views&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube Subscribers&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
 </a>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dhanushnehru/" target="_blank">
     <img alt="LinkedIn @dhanushnehru" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -45,17 +45,16 @@
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=juicyfresh&no-bg=true" />
-
 <p align="center">
-  <a href="https://ko-fi.com/dhanushnehru"> 
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee at ko-fi.com" />
+  <a href="https://ko-fi.com/dhanushnehru" target="_blank" style="text-decoration:none;">
+    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.buymeacoffee.com/dhanushnehru"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee at buymeacoffee.com" />
+  <a href="https://www.buymeacoffee.com/dhanushnehru" target="_blank" style="text-decoration:none;">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me on BuyMeACoffee" />
   </a>
 </p>
+
+---
 
 ### 🖊️ My Latest Articles
 <!-- DEVTO-BLOG-LIST:START -->
@@ -126,10 +125,25 @@
 </table>
 
 ---
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=matrix&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Experience,Repositories" alt="GitHub Trophies" />
+</p>
 
-![Dhanush Nehru's Github Stats](https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=dracula)  &nbsp; &nbsp; ![Dhanush Nehru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=dracula&include_all_commits=true&count_private=true&layout=compact)
+<div>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Dhanush Nehru's Github Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=github_dark&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&layout=compact" alt="Dhanush Nehru's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushNehru&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
 ![TryHackMe Badge](https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png)
