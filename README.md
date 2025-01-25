@@ -45,14 +45,17 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://ko-fi.com/dhanushnehru" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.buymeacoffee.com/dhanushnehru" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me on BuyMeACoffee" />
-  </a>
-</p>
+<div align="center" style="margin-top: 20px;">
+  <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://ko-fi.com/dhanushnehru" target="_blank" style="text-decoration: none;">
+      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+    </a>
+    <a href="https://www.buymeacoffee.com/dhanushnehru" target="_blank" style="text-decoration: none;">
+      <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=dhanushnehru&button_colour=24292e&font_colour=ffffff&font_family=Poppins&outline_colour=6cc644&coffee_colour=58a6ff" 
+      alt="Buy me a coffee" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.2s;" />
+    </a>
+  </p>
+</div>
 
 ---
 
