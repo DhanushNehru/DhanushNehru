@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Don’t Become a Cybersecurity Engineer in 2025!](https://dhanushnehru.medium.com/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
+- [Don’t Become a Cybersecurity Engineer in 2025!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
 - [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
 - [TryHackMe Advent of Cyber 2024 &lpar;Day 21–24&rpar;](https://dhanushnehru.medium.com/tryhackme-advent-of-cyber-2024-day-21-24-a69d31244358?source=rss-8b835baaf548------2)
 - [Why Every Developer Should Start Content Creation Today ?](https://levelup.gitconnected.com/why-every-developer-should-start-content-creation-today-19a6b6684f7f?source=rss-8b835baaf548------2)
