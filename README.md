@@ -67,6 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
 - [Don’t Become a Cybersecurity Engineer in 2025!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
 - [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
 - [TryHackMe Advent of Cyber 2024 &lpar;Day 21–24&rpar;](https://dhanushnehru.medium.com/tryhackme-advent-of-cyber-2024-day-21-24-a69d31244358?source=rss-8b835baaf548------2)
@@ -76,7 +77,6 @@
 - [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://infosecwriteups.com/meta-fined-91-million-for-storing-millions-of-facebook-and-instagram-passwords-in-plaintext-e82a66c24f46?source=rss-8b835baaf548------2)
 - [How Much HTML, CSS &amp; JavaScript You Need to Know to Get Hired as a Web Developer](https://javascript.plainenglish.io/how-much-html-css-javascript-you-need-to-know-to-get-hired-as-a-web-developer-196d02fee35c?source=rss-8b835baaf548------2)
 - [JavaScript concepts every Node.js developer must master](https://javascript.plainenglish.io/javascript-concepts-every-node-js-developer-must-master-5aded814dbed?source=rss-8b835baaf548------2)
-- [Kickstart Hacktoberfest with These Exciting Open Source Projects to Contribute To!](https://levelup.gitconnected.com/kickstart-hacktoberfest-with-these-exciting-open-source-projects-to-contribute-to-03a61cc43d0d?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
