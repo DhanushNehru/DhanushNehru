@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" /> </p>
 
-- 🔭 I’m currently working on DevOps, DevSecOps, Cybersecurity, Ethical Hacking
+- 🔭 I’m currently working on Cybersecurity, DevSecOps, Ethical Hacking, DevOps
 - 🌱 I’m currently learning various tech that interests me
-- 💬 Ask me about Node Js, React Js, Python, MongoDB, Redis, ELK, Opensearch
+- 💬 Ask me about Node Js, React Js, Python, MongoDB, Redis, ELK, Opensearch, Penetration Testing
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
-- ⚡ Fun fact: Chess Champ
+- ⚡ Fun fact: Chess Champ ♟️
 
 ---
 
