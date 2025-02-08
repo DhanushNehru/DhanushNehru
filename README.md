@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://dhanushnehru.medium.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
+- [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
 - [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
 - [Don’t Become a Cybersecurity Engineer in 2025!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
 - [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
