@@ -114,16 +114,6 @@
 <td><a href="https://www.youtube.com/watch?v=60q7Zdyvdf4">Top 15 Must Known Docker Best Practices for Production Applications</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0"><img width="140px" src="https://i.ytimg.com/vi/n0o-pSULCr0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n0o-pSULCr0">Types of Cyberattacks You Need To Know About</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU"><img width="140px" src="https://i.ytimg.com/vi/qi0CpcMrjMU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qi0CpcMrjMU">Free Open Source WAF SafeLine</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w"><img width="140px" src="https://i.ytimg.com/vi/1ar1ZaFV47w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ar1ZaFV47w">OSI Model Explained Easily | Computer Networking</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE"><img width="140px" src="https://i.ytimg.com/vi/8x1cFT9T-nE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8x1cFT9T-nE">50+ Cybersecurity Terms You Must Know In 2025</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=s25RjATkRE4"><img width="140px" src="https://i.ytimg.com/vi/s25RjATkRE4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s25RjATkRE4">Why you should not mistype a website name ?</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=fSCnHRWsxGA"><img width="140px" src="https://i.ytimg.com/vi/fSCnHRWsxGA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fSCnHRWsxGA">Should we STOP using Node.js 🚫 | Node.js Vs Deno | Which Javascript Runtime to Choose ?</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
