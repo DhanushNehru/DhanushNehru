@@ -67,6 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Seven Hard Truths About Programming That You Need to Hear](https://dhanushnehru.medium.com/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
 - [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
 - [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
@@ -76,7 +77,6 @@
 - [Why Every Developer Should Start Content Creation Today ?](https://levelup.gitconnected.com/why-every-developer-should-start-content-creation-today-19a6b6684f7f?source=rss-8b835baaf548------2)
 - [The OSI Model: Networking Simplified](https://aws.plainenglish.io/the-osi-model-networking-simplified-6f8fa9e1656b?source=rss-8b835baaf548------2)
 - [How to Build a Strong Cybersecurity Strategy ?](https://infosecwriteups.com/how-to-build-a-strong-cybersecurity-strategy-67e235beca6e?source=rss-8b835baaf548------2)
-- [Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext](https://infosecwriteups.com/meta-fined-91-million-for-storing-millions-of-facebook-and-instagram-passwords-in-plaintext-e82a66c24f46?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
