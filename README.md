@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Seven Hard Truths About Programming That You Need to Hear](https://medium.com/developersglobal/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
+- [Seven Hard Truths About Programming That You Need to Hear](https://levelup.gitconnected.com/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
 - [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
 - [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
