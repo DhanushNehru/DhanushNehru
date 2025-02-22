@@ -67,16 +67,16 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Hello, World! in 50 Programming Languages — How Many Can You Recognize?](https://dhanushnehru.medium.com/hello-world-in-50-programming-languages-how-many-can-you-recognize-c006ee607e50?source=rss-8b835baaf548------2)
 - [Seven Hard Truths About Programming That You Need to Hear](https://levelup.gitconnected.com/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
 - [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
 - [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
-- [Don’t Become a Cybersecurity Engineer in 2025!](https://dhanushnehru.medium.com/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
+- [Don’t Become a Cybersecurity Engineer in 2025!](https://osintteam.blog/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
 - [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
 - [TryHackMe Advent of Cyber 2024 &lpar;Day 21–24&rpar;](https://dhanushnehru.medium.com/tryhackme-advent-of-cyber-2024-day-21-24-a69d31244358?source=rss-8b835baaf548------2)
 - [Why Every Developer Should Start Content Creation Today ?](https://levelup.gitconnected.com/why-every-developer-should-start-content-creation-today-19a6b6684f7f?source=rss-8b835baaf548------2)
 - [The OSI Model: Networking Simplified](https://aws.plainenglish.io/the-osi-model-networking-simplified-6f8fa9e1656b?source=rss-8b835baaf548------2)
-- [How to Build a Strong Cybersecurity Strategy ?](https://infosecwriteups.com/how-to-build-a-strong-cybersecurity-strategy-67e235beca6e?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
