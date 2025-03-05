@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Don’t Be a DevOps Engineer in 2025!](https://dhanushnehru.medium.com/dont-be-a-devops-engineer-in-2025-9229aa799bd3?source=rss-8b835baaf548------2)
+- [Don’t Be a DevOps Engineer in 2025!](https://medium.com/technology-hits/dont-be-a-devops-engineer-in-2025-9229aa799bd3?source=rss-8b835baaf548------2)
 - [Hello, World! in 50 Programming Languages — How Many Can You Recognize?](https://levelup.gitconnected.com/hello-world-in-50-programming-languages-how-many-can-you-recognize-c006ee607e50?source=rss-8b835baaf548------2)
 - [Seven Hard Truths About Programming That You Need to Hear](https://levelup.gitconnected.com/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
