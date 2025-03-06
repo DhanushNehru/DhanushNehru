@@ -139,7 +139,11 @@
 ![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushNehru&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
-![TryHackMe Badge](https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png)
+
+<p align="left">
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge">
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" height="88">
+</p>
 
 
 <a href="https://www.google.com/search?q=Dhanush+Nehru">
