@@ -67,6 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Comprehensive Guide to Essential Linux Directories and Commands](https://dhanushnehru.medium.com/comprehensive-guide-to-essential-linux-directories-and-commands-21f344f6d158?source=rss-8b835baaf548------2)
 - [Surprises of Writing an Article on a Mobile Phone](https://medium.com/illumination-curators-on-substack/surprises-of-writing-an-article-on-a-mobile-phone-91e33f8989fc?source=rss-8b835baaf548------2)
 - [Don’t Be a DevOps Engineer in 2025!](https://towardsaws.com/dont-be-a-devops-engineer-in-2025-9229aa799bd3?source=rss-8b835baaf548------2)
 - [Hello, World! in 50 Programming Languages — How Many Can You Recognize?](https://levelup.gitconnected.com/hello-world-in-50-programming-languages-how-many-can-you-recognize-c006ee607e50?source=rss-8b835baaf548------2)
@@ -76,7 +77,6 @@
 - [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
 - [Don’t Become a Cybersecurity Engineer in 2025!](https://osintteam.blog/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
 - [Dev Retro 2024: Journey in review](https://levelup.gitconnected.com/dev-retro-2024-journey-in-review-cae966e8841d?source=rss-8b835baaf548------2)
-- [TryHackMe Advent of Cyber 2024 &lpar;Day 21–24&rpar;](https://dhanushnehru.medium.com/tryhackme-advent-of-cyber-2024-day-21-24-a69d31244358?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
