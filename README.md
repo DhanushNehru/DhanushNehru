@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The Future of Work: Skills You’ll Need to Thrive](https://dhanushnehru.medium.com/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
+- [The Future of Work: Skills You’ll Need to Thrive](https://medium.com/developersglobal/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
 - [Comprehensive Guide to Essential Linux Directories and Commands](https://levelup.gitconnected.com/comprehensive-guide-to-essential-linux-directories-and-commands-21f344f6d158?source=rss-8b835baaf548------2)
 - [Surprises of Writing an Article on a Mobile Phone](https://medium.com/illumination-curators-on-substack/surprises-of-writing-an-article-on-a-mobile-phone-91e33f8989fc?source=rss-8b835baaf548------2)
 - [Don’t Be a DevOps Engineer in 2025!](https://towardsaws.com/dont-be-a-devops-engineer-in-2025-9229aa799bd3?source=rss-8b835baaf548------2)
