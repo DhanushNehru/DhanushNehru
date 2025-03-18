@@ -145,10 +145,6 @@
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" height="88">
 </p>
 
-
-
-
-
 <a href="https://www.google.com/search?q=Dhanush+Nehru">
   <table align="left">
       <tr>
