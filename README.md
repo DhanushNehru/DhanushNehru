@@ -67,7 +67,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The Future of Work: Skills You’ll Need to Thrive](https://medium.com/developersglobal/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
+- [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss-8b835baaf548------2)
+- [The Future of Work: Skills You’ll Need to Thrive](https://medium.com/technical-excellence/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
 - [Comprehensive Guide to Essential Linux Directories and Commands](https://levelup.gitconnected.com/comprehensive-guide-to-essential-linux-directories-and-commands-21f344f6d158?source=rss-8b835baaf548------2)
 - [Surprises of Writing an Article on a Mobile Phone](https://medium.com/illumination-curators-on-substack/surprises-of-writing-an-article-on-a-mobile-phone-91e33f8989fc?source=rss-8b835baaf548------2)
 - [Don’t Be a DevOps Engineer in 2025!](https://towardsaws.com/dont-be-a-devops-engineer-in-2025-9229aa799bd3?source=rss-8b835baaf548------2)
@@ -76,7 +77,6 @@
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
 - [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
 - [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
-- [Don’t Become a Cybersecurity Engineer in 2025!](https://osintteam.blog/dont-become-a-cybersecurity-engineer-in-2025-2d7a91fd46af?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
