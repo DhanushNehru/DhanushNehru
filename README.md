@@ -67,6 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://levelup.gitconnected.com/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss-8b835baaf548------2)
 - [The Future of Work: Skills You’ll Need to Thrive](https://dhanushnehru.medium.com/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
 - [Comprehensive Guide to Essential Linux Directories and Commands](https://levelup.gitconnected.com/comprehensive-guide-to-essential-linux-directories-and-commands-21f344f6d158?source=rss-8b835baaf548------2)
@@ -76,7 +77,6 @@
 - [Seven Hard Truths About Programming That You Need to Hear](https://levelup.gitconnected.com/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
 - [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
-- [How to Install DeepSeek On Linux ?](https://generativeai.pub/how-to-install-deepseek-on-linux-b1c080fddaa3?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
