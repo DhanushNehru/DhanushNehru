@@ -28,12 +28,12 @@
   <a href="https://codepen.io/dhanushnehru" target="_blank">
     <img alt="CodePen @dhanushnehru" src="https://img.shields.io/badge/CodePen-000000.svg?logo=codepen&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://x.com/Dhanush_Nehru" target="_blank">
+<!--   <a href="https://x.com/Dhanush_Nehru" target="_blank">
     <img alt="X Profile" src="https://img.shields.io/badge/X-1DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/dhanush_nehru" target="_blank">
     <img alt="Instagram @dhanush_nehru" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
+  </a> -->
   <a href="https://hashnode.com/@dhanushnehru" target="_blank">
     <img alt="Hashnode @dhanushnehru" src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge" />
   </a>
