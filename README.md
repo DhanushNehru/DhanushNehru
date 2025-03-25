@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Understanding Kubernetes Namespaces: A Beginner’s Guide](https://dhanushnehru.medium.com/understanding-kubernetes-namespaces-a-beginners-guide-e1adce3b4ac2?source=rss-8b835baaf548------2)
+- [Understanding Kubernetes Namespaces: A Beginner’s Guide](https://towardsaws.com/understanding-kubernetes-namespaces-a-beginners-guide-e1adce3b4ac2?source=rss-8b835baaf548------2)
 - [How to Get Published on Developers Global](https://medium.com/developersglobal/how-to-get-published-on-developers-global-c192171e630a?source=rss-8b835baaf548------2)
 - [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://javascript.plainenglish.io/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss-8b835baaf548------2)
