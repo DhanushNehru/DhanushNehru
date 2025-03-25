@@ -67,6 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Understanding Kubernetes Namespaces: A Beginner’s Guide](https://dhanushnehru.medium.com/understanding-kubernetes-namespaces-a-beginners-guide-e1adce3b4ac2?source=rss-8b835baaf548------2)
 - [How to Get Published on Developers Global](https://medium.com/developersglobal/how-to-get-published-on-developers-global-c192171e630a?source=rss-8b835baaf548------2)
 - [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://javascript.plainenglish.io/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss-8b835baaf548------2)
@@ -76,7 +77,6 @@
 - [Hello, World! in 50 Programming Languages — How Many Can You Recognize?](https://levelup.gitconnected.com/hello-world-in-50-programming-languages-how-many-can-you-recognize-c006ee607e50?source=rss-8b835baaf548------2)
 - [Seven Hard Truths About Programming That You Need to Hear](https://levelup.gitconnected.com/seven-hard-truths-about-programming-that-you-need-to-hear-8f7791746532?source=rss-8b835baaf548------2)
 - [Supercharge Your JavaScript Project with These 50 Utilities](https://javascript.plainenglish.io/supercharge-your-javascript-project-with-these-50-utilities-d3ce70dd6086?source=rss-8b835baaf548------2)
-- [Kubernetes: A Comprehensive Beginner Overview to Container Orchestration](https://towardsaws.com/kubernetes-a-comprehensive-beginner-overview-to-container-orchestration-25b128979535?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
