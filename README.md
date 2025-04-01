@@ -67,7 +67,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Why Discord Switched from Go to Rust](https://dhanushnehru.medium.com/why-discord-switched-from-go-to-rust-2eef59321a3b?source=rss-8b835baaf548------2)
+- [Why Discord Switched from Go to Rust](https://medium.com/developersglobal/why-discord-switched-from-go-to-rust-2eef59321a3b?source=rss-8b835baaf548------2)
 - [Understanding Kubernetes Namespaces: A Beginner’s Guide](https://towardsaws.com/understanding-kubernetes-namespaces-a-beginners-guide-e1adce3b4ac2?source=rss-8b835baaf548------2)
 - [How to Get Published on Developers Global](https://medium.com/developersglobal/how-to-get-published-on-developers-global-c192171e630a?source=rss-8b835baaf548------2)
 - [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://javascript.plainenglish.io/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
