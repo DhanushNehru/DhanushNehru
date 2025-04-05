@@ -65,6 +65,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [AI-Generated Images: Are They Stealing Hayao Miyazaki’s Magic?](https://dhanushnehru.medium.com/ai-generated-images-are-they-stealing-hayao-miyazakis-magic-f5b198c1ac48?source=rss-8b835baaf548------2)
 - [Why Every Developer Is Switching to Rust &lpar;And You Should Too&rpar;](https://medium.com/developersglobal/why-every-developer-is-switching-to-rust-and-you-should-too-098fa4b92b18?source=rss-8b835baaf548------2)
 - [Why Discord Switched from Go to Rust](https://medium.com/developersglobal/why-discord-switched-from-go-to-rust-2eef59321a3b?source=rss-8b835baaf548------2)
 - [Understanding Kubernetes Namespaces: A Beginner’s Guide](https://towardsaws.com/understanding-kubernetes-namespaces-a-beginners-guide-e1adce3b4ac2?source=rss-8b835baaf548------2)
@@ -74,7 +75,6 @@
 - [The Future of Work: Skills You’ll Need to Thrive](https://medium.com/developersglobal/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
 - [Comprehensive Guide to Essential Linux Directories and Commands](https://levelup.gitconnected.com/comprehensive-guide-to-essential-linux-directories-and-commands-21f344f6d158?source=rss-8b835baaf548------2)
 - [Don’t Be a DevOps Engineer in 2025!](https://towardsaws.com/dont-be-a-devops-engineer-in-2025-9229aa799bd3?source=rss-8b835baaf548------2)
-- [Hello, World! in 50 Programming Languages — How Many Can You Recognize?](https://levelup.gitconnected.com/hello-world-in-50-programming-languages-how-many-can-you-recognize-c006ee607e50?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
