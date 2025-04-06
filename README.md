@@ -65,7 +65,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [SQL, NoSQL and NewSQL: What’s the Difference and Why Should You Care?](https://dhanushnehru.medium.com/sql-nosql-and-newsql-whats-the-difference-and-why-should-you-care-fc008a2abce0?source=rss-8b835baaf548------2)
+- [SQL, NoSQL and NewSQL: What’s the Difference and Why Should You Care?](https://medium.com/technology-hits/sql-nosql-and-newsql-whats-the-difference-and-why-should-you-care-fc008a2abce0?source=rss-8b835baaf548------2)
 - [AI-Generated Images: Are They Stealing Hayao Miyazaki’s Magic?](https://medium.com/technical-excellence/ai-generated-images-are-they-stealing-hayao-miyazakis-magic-f5b198c1ac48?source=rss-8b835baaf548------2)
 - [Why Every Developer Is Switching to Rust &lpar;And You Should Too&rpar;](https://medium.com/developersglobal/why-every-developer-is-switching-to-rust-and-you-should-too-098fa4b92b18?source=rss-8b835baaf548------2)
 - [Why Discord Switched from Go to Rust](https://medium.com/developersglobal/why-discord-switched-from-go-to-rust-2eef59321a3b?source=rss-8b835baaf548------2)
