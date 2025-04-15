@@ -65,6 +65,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Jira Cloud Shifted from JSON to Protobuf ?](https://medium.com/developersglobal/why-jira-cloud-shifted-from-json-to-protobuf-b056f2765974?source=rss-8b835baaf548------2)
 - [SQL, NoSQL and NewSQL: What’s the Difference and Why Should You Care?](https://medium.com/technology-hits/sql-nosql-and-newsql-whats-the-difference-and-why-should-you-care-fc008a2abce0?source=rss-8b835baaf548------2)
 - [AI-Generated Images: Are They Stealing Hayao Miyazaki’s Magic?](https://medium.com/technology-hits/ai-generated-images-are-they-stealing-hayao-miyazakis-magic-f5b198c1ac48?source=rss-8b835baaf548------2)
 - [Why Every Developer Is Switching to Rust &lpar;And You Should Too&rpar;](https://medium.com/developersglobal/why-every-developer-is-switching-to-rust-and-you-should-too-098fa4b92b18?source=rss-8b835baaf548------2)
@@ -74,7 +75,6 @@
 - [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://javascript.plainenglish.io/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss-8b835baaf548------2)
 - [The Future of Work: Skills You’ll Need to Thrive](https://medium.com/developersglobal/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
-- [Comprehensive Guide to Essential Linux Directories and Commands](https://levelup.gitconnected.com/comprehensive-guide-to-essential-linux-directories-and-commands-21f344f6d158?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
