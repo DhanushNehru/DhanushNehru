@@ -65,6 +65,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Linux Networking Made Easy](https://medium.com/developersglobal/linux-networking-made-easy-8f09f7a07a44?source=rss-8b835baaf548------2)
 - [Why Jira Cloud Shifted from JSON to Protobuf ?](https://medium.com/developersglobal/why-jira-cloud-shifted-from-json-to-protobuf-b056f2765974?source=rss-8b835baaf548------2)
 - [SQL, NoSQL and NewSQL: What’s the Difference and Why Should You Care?](https://medium.com/technology-hits/sql-nosql-and-newsql-whats-the-difference-and-why-should-you-care-fc008a2abce0?source=rss-8b835baaf548------2)
 - [AI-Generated Images: Are They Stealing Hayao Miyazaki’s Magic?](https://medium.com/technology-hits/ai-generated-images-are-they-stealing-hayao-miyazakis-magic-f5b198c1ac48?source=rss-8b835baaf548------2)
@@ -74,7 +75,6 @@
 - [How to Get Published on Developers Global](https://medium.com/developersglobal/how-to-get-published-on-developers-global-c192171e630a?source=rss-8b835baaf548------2)
 - [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://javascript.plainenglish.io/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss-8b835baaf548------2)
-- [The Future of Work: Skills You’ll Need to Thrive](https://medium.com/developersglobal/the-future-of-work-skills-youll-need-to-thrive-f3635e105e0d?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
