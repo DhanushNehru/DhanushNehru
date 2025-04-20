@@ -61,7 +61,7 @@
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
 </picture>
 
-### 🖊️ My Latest Articles
+### 🖊️ Latest Articles
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
 
