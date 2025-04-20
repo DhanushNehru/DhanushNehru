@@ -10,7 +10,9 @@
 - 😄 Hobbies: Piano, Mouth Organ, Dance, Cube Solving
 - ⚡ Fun fact: Chess Champ ♟️
 
----
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
 
 <p align="center">
 
@@ -28,7 +30,7 @@
   <a href="https://codepen.io/dhanushnehru" target="_blank">
     <img alt="CodePen @dhanushnehru" src="https://img.shields.io/badge/CodePen-000000.svg?logo=codepen&logoColor=white&style=for-the-badge" />
   </a>
-<!--   <a href="https://x.com/Dhanush_Nehru" target="_blank">
+  <!--   <a href="https://x.com/Dhanush_Nehru" target="_blank">
     <img alt="X Profile" src="https://img.shields.io/badge/X-1DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/dhanush_nehru" target="_blank">
@@ -55,7 +57,9 @@
   </p>
 </div>
 
----
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
 
 ### 🖊️ My Latest Articles
 <!-- DEVTO-BLOG-LIST:START -->
@@ -98,7 +102,9 @@
 </a>
 -->
 
----
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+</picture>
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
@@ -115,7 +121,10 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
----
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+</picture>
+
 ### 🏆 GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=matrix&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Experience,Repositories" alt="GitHub Trophies" />
@@ -153,4 +162,6 @@
   </table>
 </a>
 
----
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+</picture>
