@@ -103,7 +103,7 @@
 -->
 
 <picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
 </picture>
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
@@ -125,13 +125,18 @@
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
 
+<div align="center">
+  
 ### 🏆 GitHub Trophies
-<p align="left">
+
+</div>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=matrix&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Experience,Repositories" alt="GitHub Trophies" />
 </p>
 
 <div>
-  <table align="left">
+  <table align="center">
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Dhanush Nehru's Github Stats" />
@@ -145,12 +150,20 @@
 
 ![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushNehru&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
+</picture>
+
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
 
 <p align="center">
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge">
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" height="88">
 </p>
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
+</picture>
 
 <a href="https://www.google.com/search?q=Dhanush+Nehru">
   <table align="left">
