@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss-8b835baaf548------2)
 - [How Your Email Gets From You to Your Friend ?](https://levelup.gitconnected.com/how-your-email-gets-from-you-to-your-friend-3aa796051350?source=rss-8b835baaf548------2)
 - [Linux Networking Made Easy](https://medium.com/developersglobal/linux-networking-made-easy-8f09f7a07a44?source=rss-8b835baaf548------2)
 - [Why Jira Cloud Shifted from JSON to Protobuf ?](https://medium.com/developersglobal/why-jira-cloud-shifted-from-json-to-protobuf-b056f2765974?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Why Discord Switched from Go to Rust](https://medium.com/developersglobal/why-discord-switched-from-go-to-rust-2eef59321a3b?source=rss-8b835baaf548------2)
 - [Understanding Kubernetes Namespaces: A Beginner’s Guide](https://towardsaws.com/understanding-kubernetes-namespaces-a-beginners-guide-e1adce3b4ac2?source=rss-8b835baaf548------2)
 - [How to Get Published on Developers Global](https://medium.com/developersglobal/how-to-get-published-on-developers-global-c192171e630a?source=rss-8b835baaf548------2)
-- [Microsoft’s Big Change: Rewriting TypeScript in Go for a 10x Speed Boost](https://javascript.plainenglish.io/microsofts-big-change-rewriting-typescript-in-go-for-a-10x-speed-boost-4be68ce8a460?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
