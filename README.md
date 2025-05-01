@@ -69,8 +69,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [All About Zero Cost Abstractions in Rust: Explained in Simple English](https://medium.com/developersglobal/all-about-zero-cost-abstractions-in-rust-explained-in-simple-english-d29bcb3cffdd?source=rss-8b835baaf548------2)
-- [How to Defend Your Organization Against Phishing Attacks: A Step-by-Step Guide](https://infosecwriteups.com/how-to-defend-your-organization-against-phishing-attacks-a-step-by-step-guide-653f367eb45b?source=rss-8b835baaf548------2)
+- [Zero Cost Abstractions: The Mind-Blowing Rust Feature You NEED to Know!](https://medium.com/developersglobal/all-about-zero-cost-abstractions-in-rust-explained-in-simple-english-d29bcb3cffdd?source=rss-8b835baaf548------2)
+- [How to Defend Your Organization Against Phishing Attacks: A Step-by-Step Guide](https://osintteam.blog/how-to-defend-your-organization-against-phishing-attacks-a-step-by-step-guide-653f367eb45b?source=rss-8b835baaf548------2)
 - [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss-8b835baaf548------2)
 - [How Your Email Gets From You to Your Friend ?](https://levelup.gitconnected.com/how-your-email-gets-from-you-to-your-friend-3aa796051350?source=rss-8b835baaf548------2)
 - [Linux Networking Made Easy](https://medium.com/developersglobal/linux-networking-made-easy-8f09f7a07a44?source=rss-8b835baaf548------2)
