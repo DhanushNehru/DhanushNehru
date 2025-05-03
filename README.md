@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [This Simple Domain Hack Is Fooling Millions: Don’t Be Next!](https://dhanushnehru.medium.com/this-simple-domain-hack-is-fooling-millions-dont-be-next-ee18e902cf64?source=rss-8b835baaf548------2)
+- [This Simple Domain Hack Is Fooling Millions: Don’t Be Next!](https://infosecwriteups.com/this-simple-domain-hack-is-fooling-millions-dont-be-next-ee18e902cf64?source=rss-8b835baaf548------2)
 - [Why You Can’t Stop Online Scams &lpar;Fast Flux Secrets Revealed&rpar;](https://infosecwriteups.com/why-you-cant-stop-online-scams-fast-flux-secrets-revealed-e09f3d02fee3?source=rss-8b835baaf548------2)
 - [Zero Cost Abstractions: The Mind-Blowing Rust Feature You NEED to Know!](https://medium.com/developersglobal/all-about-zero-cost-abstractions-in-rust-explained-in-simple-english-d29bcb3cffdd?source=rss-8b835baaf548------2)
 - [How to Defend Your Organization Against Phishing Attacks: A Step-by-Step Guide](https://osintteam.blog/how-to-defend-your-organization-against-phishing-attacks-a-step-by-step-guide-653f367eb45b?source=rss-8b835baaf548------2)
