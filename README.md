@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://infosecwriteups.com/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
 - [This Simple Domain Hack Is Fooling Millions: Don’t Be Next!](https://infosecwriteups.com/this-simple-domain-hack-is-fooling-millions-dont-be-next-ee18e902cf64?source=rss-8b835baaf548------2)
 - [Why You Can’t Stop Online Scams &lpar;Fast Flux Secrets Revealed&rpar;](https://infosecwriteups.com/why-you-cant-stop-online-scams-fast-flux-secrets-revealed-e09f3d02fee3?source=rss-8b835baaf548------2)
 - [Zero Cost Abstractions: The Mind-Blowing Rust Feature You NEED to Know!](https://medium.com/developersglobal/all-about-zero-cost-abstractions-in-rust-explained-in-simple-english-d29bcb3cffdd?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Linux Networking Made Easy](https://medium.com/developersglobal/linux-networking-made-easy-8f09f7a07a44?source=rss-8b835baaf548------2)
 - [Why Jira Cloud Shifted from JSON to Protobuf ?](https://medium.com/developersglobal/why-jira-cloud-shifted-from-json-to-protobuf-b056f2765974?source=rss-8b835baaf548------2)
 - [SQL, NoSQL and NewSQL: What’s the Difference and Why Should You Care?](https://medium.com/technology-hits/sql-nosql-and-newsql-whats-the-difference-and-why-should-you-care-fc008a2abce0?source=rss-8b835baaf548------2)
-- [AI-Generated Images: Are They Stealing Hayao Miyazaki’s Magic?](https://medium.com/technology-hits/ai-generated-images-are-they-stealing-hayao-miyazakis-magic-f5b198c1ac48?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
