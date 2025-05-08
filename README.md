@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss-8b835baaf548------2)
 - [Why Everyone Should Learn SQL &lpar;And How to Start&rpar;](https://levelup.gitconnected.com/why-everyone-should-learn-sql-and-how-to-start-034ae994f747?source=rss-8b835baaf548------2)
 - [Secrets HACKERS Don’t Want You to Know About OSINT!](https://osintteam.blog/secrets-hackers-dont-want-you-to-know-about-osint-0db5a3e66943?source=rss-8b835baaf548------2)
 - [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://infosecwriteups.com/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [How to Defend Your Organization Against Phishing Attacks: A Step-by-Step Guide](https://osintteam.blog/how-to-defend-your-organization-against-phishing-attacks-a-step-by-step-guide-653f367eb45b?source=rss-8b835baaf548------2)
 - [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss-8b835baaf548------2)
 - [How Your Email Gets From You to Your Friend ?](https://levelup.gitconnected.com/how-your-email-gets-from-you-to-your-friend-3aa796051350?source=rss-8b835baaf548------2)
-- [Linux Networking Made Easy](https://medium.com/developersglobal/linux-networking-made-easy-8f09f7a07a44?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
