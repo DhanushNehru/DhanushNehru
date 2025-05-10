@@ -72,7 +72,7 @@
 - [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss-8b835baaf548------2)
 - [Why Everyone Should Learn SQL &lpar;And How to Start&rpar;](https://levelup.gitconnected.com/why-everyone-should-learn-sql-and-how-to-start-034ae994f747?source=rss-8b835baaf548------2)
 - [Secrets HACKERS Don’t Want You to Know About OSINT!](https://osintteam.blog/secrets-hackers-dont-want-you-to-know-about-osint-0db5a3e66943?source=rss-8b835baaf548------2)
-- [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://infosecwriteups.com/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
+- [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://medium.com/developersglobal/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
 - [This Simple Domain Hack Is Fooling Millions: Don’t Be Next!](https://infosecwriteups.com/this-simple-domain-hack-is-fooling-millions-dont-be-next-ee18e902cf64?source=rss-8b835baaf548------2)
 - [Why You Can’t Stop Online Scams &lpar;Fast Flux Secrets Revealed&rpar;](https://infosecwriteups.com/why-you-cant-stop-online-scams-fast-flux-secrets-revealed-e09f3d02fee3?source=rss-8b835baaf548------2)
 - [Zero Cost Abstractions: The Mind-Blowing Rust Feature You NEED to Know!](https://medium.com/developersglobal/all-about-zero-cost-abstractions-in-rust-explained-in-simple-english-d29bcb3cffdd?source=rss-8b835baaf548------2)
