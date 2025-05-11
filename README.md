@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [How Hackers Exploit NoSQL Injections And How to Stop Them](https://dhanushnehru.medium.com/how-hackers-exploit-nosql-injections-and-how-to-stop-them-b49611b17aa2?source=rss-8b835baaf548------2)
+- [How Hackers Exploit NoSQL Injections And How to Stop Them](https://medium.com/developersglobal/how-hackers-exploit-nosql-injections-and-how-to-stop-them-b49611b17aa2?source=rss-8b835baaf548------2)
 - [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss-8b835baaf548------2)
 - [Why Everyone Should Learn SQL &lpar;And How to Start&rpar;](https://levelup.gitconnected.com/why-everyone-should-learn-sql-and-how-to-start-034ae994f747?source=rss-8b835baaf548------2)
 - [Secrets HACKERS Don’t Want You to Know About OSINT!](https://osintteam.blog/secrets-hackers-dont-want-you-to-know-about-osint-0db5a3e66943?source=rss-8b835baaf548------2)
