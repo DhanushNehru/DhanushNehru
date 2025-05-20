@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Why Does Zoom Have Offices? My Curious Exploration](https://dhanushnehru.medium.com/why-does-zoom-have-offices-my-curious-exploration-7a179513a009?source=rss-8b835baaf548------2)
+- [Why Does Zoom Have Offices? My Curious Exploration](https://medium.com/illumination-curators-on-substack/why-does-zoom-have-offices-my-curious-exploration-7a179513a009?source=rss-8b835baaf548------2)
 - [Exciting Cybersecurity Careers That Don’t Require Coding](https://infosecwriteups.com/exciting-cybersecurity-careers-that-dont-require-coding-9e22ac87cc5f?source=rss-8b835baaf548------2)
 - [What is SOC 2 Compliance?](https://infosecwriteups.com/what-is-soc-2-compliance-0187b02a714c?source=rss-8b835baaf548------2)
 - [How Hackers Exploit NoSQL Injections And How to Stop Them](https://medium.com/developersglobal/how-hackers-exploit-nosql-injections-and-how-to-stop-them-b49611b17aa2?source=rss-8b835baaf548------2)
