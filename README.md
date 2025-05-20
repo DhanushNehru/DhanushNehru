@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Does Zoom Have Offices? My Curious Exploration](https://dhanushnehru.medium.com/why-does-zoom-have-offices-my-curious-exploration-7a179513a009?source=rss-8b835baaf548------2)
 - [Exciting Cybersecurity Careers That Don’t Require Coding](https://infosecwriteups.com/exciting-cybersecurity-careers-that-dont-require-coding-9e22ac87cc5f?source=rss-8b835baaf548------2)
 - [What is SOC 2 Compliance?](https://infosecwriteups.com/what-is-soc-2-compliance-0187b02a714c?source=rss-8b835baaf548------2)
 - [How Hackers Exploit NoSQL Injections And How to Stop Them](https://medium.com/developersglobal/how-hackers-exploit-nosql-injections-and-how-to-stop-them-b49611b17aa2?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://medium.com/developersglobal/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
 - [This Simple Domain Hack Is Fooling Millions: Don’t Be Next!](https://infosecwriteups.com/this-simple-domain-hack-is-fooling-millions-dont-be-next-ee18e902cf64?source=rss-8b835baaf548------2)
 - [Why You Can’t Stop Online Scams &lpar;Fast Flux Secrets Revealed&rpar;](https://infosecwriteups.com/why-you-cant-stop-online-scams-fast-flux-secrets-revealed-e09f3d02fee3?source=rss-8b835baaf548------2)
-- [Zero Cost Abstractions: The Mind-Blowing Rust Feature You NEED to Know!](https://medium.com/developersglobal/all-about-zero-cost-abstractions-in-rust-explained-in-simple-english-d29bcb3cffdd?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
