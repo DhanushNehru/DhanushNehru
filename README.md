@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [I Posted YouTube Shorts Daily for Over 75 Days and Here’s What Happened](https://dhanushnehru.medium.com/i-posted-youtube-shorts-daily-for-over-75-days-and-heres-what-happened-518c3153c806?source=rss-8b835baaf548------2)
 - [Google I/O 2025: Revealing AI’s Future with Google Beam, Gemini 2.5 Pro and More](https://ai.plainenglish.io/google-i-o-2025-revealing-ais-future-with-google-beam-gemini-2-5-pro-and-more-b171ada8acbd?source=rss-8b835baaf548------2)
 - [Why Does Zoom Have Offices? My Curious Exploration](https://medium.com/developersglobal/why-does-zoom-have-offices-my-curious-exploration-7a179513a009?source=rss-8b835baaf548------2)
 - [Exciting Cybersecurity Careers That Don’t Require Coding](https://infosecwriteups.com/exciting-cybersecurity-careers-that-dont-require-coding-9e22ac87cc5f?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Why Everyone Should Learn SQL &lpar;And How to Start&rpar;](https://levelup.gitconnected.com/why-everyone-should-learn-sql-and-how-to-start-034ae994f747?source=rss-8b835baaf548------2)
 - [Secrets HACKERS Don’t Want You to Know About OSINT!](https://osintteam.blog/secrets-hackers-dont-want-you-to-know-about-osint-0db5a3e66943?source=rss-8b835baaf548------2)
 - [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://medium.com/developersglobal/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
-- [This Simple Domain Hack Is Fooling Millions: Don’t Be Next!](https://infosecwriteups.com/this-simple-domain-hack-is-fooling-millions-dont-be-next-ee18e902cf64?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
