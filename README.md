@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Best Practices for Writing Better Go &lpar;Golang&rpar; Code: A Beginner’s Journey](https://dhanushnehru.medium.com/best-practices-for-writing-better-go-golang-code-a-beginners-journey-730e1aa59dfe?source=rss-8b835baaf548------2)
 - [I Posted YouTube Shorts Daily for Over 75 Days and Here’s What Happened](https://dhanushnehru.medium.com/i-posted-youtube-shorts-daily-for-over-75-days-and-heres-what-happened-518c3153c806?source=rss-8b835baaf548------2)
 - [Google I/O 2025: Revealing AI’s Future with Google Beam, Gemini 2.5 Pro and More](https://ai.plainenglish.io/google-i-o-2025-revealing-ais-future-with-google-beam-gemini-2-5-pro-and-more-b171ada8acbd?source=rss-8b835baaf548------2)
 - [Why Does Zoom Have Offices? My Curious Exploration](https://medium.com/developersglobal/why-does-zoom-have-offices-my-curious-exploration-7a179513a009?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss-8b835baaf548------2)
 - [Why Everyone Should Learn SQL &lpar;And How to Start&rpar;](https://levelup.gitconnected.com/why-everyone-should-learn-sql-and-how-to-start-034ae994f747?source=rss-8b835baaf548------2)
 - [Secrets HACKERS Don’t Want You to Know About OSINT!](https://osintteam.blog/secrets-hackers-dont-want-you-to-know-about-osint-0db5a3e66943?source=rss-8b835baaf548------2)
-- [Your Password Isn’t Enough: How Pass-the-Hash Attacks Bypass Traditional Security](https://medium.com/developersglobal/your-password-isnt-enough-how-pass-the-hash-attacks-bypass-traditional-security-7173f6e90980?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
