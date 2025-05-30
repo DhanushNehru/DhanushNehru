@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Chess and Coding: Two Sides of the Same Coin](https://dhanushnehru.medium.com/chess-and-coding-two-sides-of-the-same-coin-407ffdf6dc5b?source=rss-8b835baaf548------2)
 - [Best Practices for Writing Better Go &lpar;Golang&rpar; Code: A Beginner’s Journey](https://dhanushnehru.medium.com/best-practices-for-writing-better-go-golang-code-a-beginners-journey-730e1aa59dfe?source=rss-8b835baaf548------2)
 - [I Posted YouTube Shorts Daily for Over 75 Days and Here’s What Happened](https://dhanushnehru.medium.com/i-posted-youtube-shorts-daily-for-over-75-days-and-heres-what-happened-518c3153c806?source=rss-8b835baaf548------2)
 - [Google I/O 2025: Revealing AI’s Future with Google Beam, Gemini 2.5 Pro and More](https://ai.plainenglish.io/google-i-o-2025-revealing-ais-future-with-google-beam-gemini-2-5-pro-and-more-b171ada8acbd?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [How Hackers Exploit NoSQL Injections And How to Stop Them](https://medium.com/developersglobal/how-hackers-exploit-nosql-injections-and-how-to-stop-them-b49611b17aa2?source=rss-8b835baaf548------2)
 - [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss-8b835baaf548------2)
 - [Why Everyone Should Learn SQL &lpar;And How to Start&rpar;](https://levelup.gitconnected.com/why-everyone-should-learn-sql-and-how-to-start-034ae994f747?source=rss-8b835baaf548------2)
-- [Secrets HACKERS Don’t Want You to Know About OSINT!](https://osintteam.blog/secrets-hackers-dont-want-you-to-know-about-osint-0db5a3e66943?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
