@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Mastering AWS Like a Pro: A Practical Guide to Building Real-World Solutions](https://dhanushnehru.medium.com/mastering-aws-like-a-pro-a-practical-guide-to-building-real-world-solutions-134244b761cc?source=rss-8b835baaf548------2)
+- [Mastering AWS Like a Pro: A Practical Guide to Building Real-World Solutions](https://towardsaws.com/mastering-aws-like-a-pro-a-practical-guide-to-building-real-world-solutions-134244b761cc?source=rss-8b835baaf548------2)
 - [Top Vibe Coding Tools to Boost Your Productivity](https://medium.com/developersglobal/top-vibe-coding-tools-to-boost-your-productivity-c5644d2548f8?source=rss-8b835baaf548------2)
 - [Chess and Coding: Two Sides of the Same Coin](https://medium.com/illumination-curators-on-substack/chess-and-coding-two-sides-of-the-same-coin-407ffdf6dc5b?source=rss-8b835baaf548------2)
 - [Best Practices for Writing Better Go &lpar;Golang&rpar; Code: A Beginner’s Journey](https://medium.com/technology-hits/best-practices-for-writing-better-go-golang-code-a-beginners-journey-730e1aa59dfe?source=rss-8b835baaf548------2)
