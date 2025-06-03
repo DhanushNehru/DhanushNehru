@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Mastering AWS Like a Pro: A Practical Guide to Building Real-World Solutions](https://dhanushnehru.medium.com/mastering-aws-like-a-pro-a-practical-guide-to-building-real-world-solutions-134244b761cc?source=rss-8b835baaf548------2)
 - [Top Vibe Coding Tools to Boost Your Productivity](https://medium.com/developersglobal/top-vibe-coding-tools-to-boost-your-productivity-c5644d2548f8?source=rss-8b835baaf548------2)
 - [Chess and Coding: Two Sides of the Same Coin](https://medium.com/illumination-curators-on-substack/chess-and-coding-two-sides-of-the-same-coin-407ffdf6dc5b?source=rss-8b835baaf548------2)
 - [Best Practices for Writing Better Go &lpar;Golang&rpar; Code: A Beginner’s Journey](https://medium.com/technology-hits/best-practices-for-writing-better-go-golang-code-a-beginners-journey-730e1aa59dfe?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Exciting Cybersecurity Careers That Don’t Require Coding](https://infosecwriteups.com/exciting-cybersecurity-careers-that-dont-require-coding-9e22ac87cc5f?source=rss-8b835baaf548------2)
 - [What is SOC 2 Compliance?](https://infosecwriteups.com/what-is-soc-2-compliance-0187b02a714c?source=rss-8b835baaf548------2)
 - [How Hackers Exploit NoSQL Injections And How to Stop Them](https://medium.com/developersglobal/how-hackers-exploit-nosql-injections-and-how-to-stop-them-b49611b17aa2?source=rss-8b835baaf548------2)
-- [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
