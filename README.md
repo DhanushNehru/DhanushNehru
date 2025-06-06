@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Go Was Built for Speed and Simplicity](https://dhanushnehru.medium.com/why-go-was-built-for-speed-and-simplicity-4153faecb84d?source=rss-8b835baaf548------2)
 - [Are People Becoming Dumber Because of AI ?](https://dhanushnehru.medium.com/are-people-becoming-dumber-because-of-ai-460edf58d5ef?source=rss-8b835baaf548------2)
 - [The Secret Engine That Makes Go 10x Faster Than You Think](https://dhanushnehru.medium.com/the-secret-engine-that-makes-go-10x-faster-than-you-think-5d3317334a27?source=rss-8b835baaf548------2)
 - [Mastering AWS Like a Pro: A Practical Guide to Building Real-World Solutions](https://towardsaws.com/mastering-aws-like-a-pro-a-practical-guide-to-building-real-world-solutions-134244b761cc?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [I Posted YouTube Shorts Daily for Over 75 Days and Here’s What Happened](https://dhanushnehru.medium.com/i-posted-youtube-shorts-daily-for-over-75-days-and-heres-what-happened-518c3153c806?source=rss-8b835baaf548------2)
 - [Google I/O 2025: Revealing AI’s Future with Google Beam, Gemini 2.5 Pro and More](https://ai.plainenglish.io/google-i-o-2025-revealing-ais-future-with-google-beam-gemini-2-5-pro-and-more-b171ada8acbd?source=rss-8b835baaf548------2)
 - [Why Does Zoom Have Offices? My Curious Exploration](https://medium.com/developersglobal/why-does-zoom-have-offices-my-curious-exploration-7a179513a009?source=rss-8b835baaf548------2)
-- [Exciting Cybersecurity Careers That Don’t Require Coding](https://infosecwriteups.com/exciting-cybersecurity-careers-that-dont-require-coding-9e22ac87cc5f?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
