@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Go or Rust: How to Pick the Right Language](https://dhanushnehru.medium.com/go-or-rust-how-to-pick-the-right-language-ab5525a3026a?source=rss-8b835baaf548------2)
 - [Concurrency vs Parallelism in Go: The Difference That Will Transform Your Code](https://dhanushnehru.medium.com/concurrency-vs-parallelism-in-go-the-difference-that-will-transform-your-code-342dfc97112a?source=rss-8b835baaf548------2)
 - [Why Go Was Built for Speed and Simplicity](https://dhanushnehru.medium.com/why-go-was-built-for-speed-and-simplicity-4153faecb84d?source=rss-8b835baaf548------2)
 - [Are People Becoming Dumber Because of AI ?](https://dhanushnehru.medium.com/are-people-becoming-dumber-because-of-ai-460edf58d5ef?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Chess and Coding: Two Sides of the Same Coin](https://medium.com/illumination-curators-on-substack/chess-and-coding-two-sides-of-the-same-coin-407ffdf6dc5b?source=rss-8b835baaf548------2)
 - [Best Practices for Writing Better Go &lpar;Golang&rpar; Code: A Beginner’s Journey](https://dhanushnehru.medium.com/best-practices-for-writing-better-go-golang-code-a-beginners-journey-730e1aa59dfe?source=rss-8b835baaf548------2)
 - [I Posted YouTube Shorts Daily for Over 75 Days and Here’s What Happened](https://dhanushnehru.medium.com/i-posted-youtube-shorts-daily-for-over-75-days-and-heres-what-happened-518c3153c806?source=rss-8b835baaf548------2)
-- [Google I/O 2025: Revealing AI’s Future with Google Beam, Gemini 2.5 Pro and More](https://ai.plainenglish.io/google-i-o-2025-revealing-ais-future-with-google-beam-gemini-2-5-pro-and-more-b171ada8acbd?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
