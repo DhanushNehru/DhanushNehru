@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [7 Essential Cybersecurity Tools I Wish I’d Learned From Day One &lpar;Beginner’s Guide&rpar;](https://dhanushnehru.medium.com/7-essential-cybersecurity-tools-i-wish-id-learned-from-day-one-beginner-s-guide-a9cc7fe5da98?source=rss-8b835baaf548------2)
 - [What New Developers Should Really Focus On](https://dhanushnehru.medium.com/what-new-developers-should-really-focus-on-000cc23d26ab?source=rss-8b835baaf548------2)
 - [Go or Rust: How to Pick the Right Language](https://dhanushnehru.medium.com/go-or-rust-how-to-pick-the-right-language-ab5525a3026a?source=rss-8b835baaf548------2)
 - [Concurrency vs Parallelism in Go: The Difference That Will Transform Your Code](https://dhanushnehru.medium.com/concurrency-vs-parallelism-in-go-the-difference-that-will-transform-your-code-342dfc97112a?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Mastering AWS Like a Pro: A Practical Guide to Building Real-World Solutions](https://towardsaws.com/mastering-aws-like-a-pro-a-practical-guide-to-building-real-world-solutions-134244b761cc?source=rss-8b835baaf548------2)
 - [Top Vibe Coding Tools to Boost Your Productivity](https://medium.com/developersglobal/top-vibe-coding-tools-to-boost-your-productivity-c5644d2548f8?source=rss-8b835baaf548------2)
 - [Chess and Coding: Two Sides of the Same Coin](https://medium.com/illumination-curators-on-substack/chess-and-coding-two-sides-of-the-same-coin-407ffdf6dc5b?source=rss-8b835baaf548------2)
-- [Best Practices for Writing Better Go &lpar;Golang&rpar; Code: A Beginner’s Journey](https://dhanushnehru.medium.com/best-practices-for-writing-better-go-golang-code-a-beginners-journey-730e1aa59dfe?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
