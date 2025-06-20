@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Hackers Just Leaked 16 BILLION Logins, Are You at Risk?](https://dhanushnehru.medium.com/hackers-just-leaked-16-billion-logins-are-you-at-risk-84cc351cd0d7?source=rss-8b835baaf548------2)
 - [Mastering JSON in Golang](https://dhanushnehru.medium.com/mastering-json-in-golang-d711999bd71c?source=rss-8b835baaf548------2)
 - [A Single Line of Code Crashed the Internet: Google Cloud Outage of June 2025](https://dhanushnehru.medium.com/a-single-line-of-code-crashed-the-internet-google-cloud-outage-of-june-2025-86b58a9d67e8?source=rss-8b835baaf548------2)
 - [7 Essential Cybersecurity Tools I Wish I’d Learned From Day One](https://dhanushnehru.medium.com/7-essential-cybersecurity-tools-i-wish-id-learned-from-day-one-beginner-s-guide-a9cc7fe5da98?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Why Go Was Built for Speed and Simplicity](https://dhanushnehru.medium.com/why-go-was-built-for-speed-and-simplicity-4153faecb84d?source=rss-8b835baaf548------2)
 - [Are People Becoming Dumber Because of AI ?](https://dhanushnehru.medium.com/are-people-becoming-dumber-because-of-ai-460edf58d5ef?source=rss-8b835baaf548------2)
 - [The Secret Engine That Makes Go 10x Faster Than You Think](https://dhanushnehru.medium.com/the-secret-engine-that-makes-go-10x-faster-than-you-think-5d3317334a27?source=rss-8b835baaf548------2)
-- [Mastering AWS Like a Pro: A Practical Guide to Building Real-World Solutions](https://towardsaws.com/mastering-aws-like-a-pro-a-practical-guide-to-building-real-world-solutions-134244b761cc?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
