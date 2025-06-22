@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://dhanushnehru.medium.com/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
 - [Hackers Just Leaked 16 BILLION Logins, Are You at Risk?](https://dhanushnehru.medium.com/hackers-just-leaked-16-billion-logins-are-you-at-risk-84cc351cd0d7?source=rss-8b835baaf548------2)
 - [Mastering JSON in Golang](https://dhanushnehru.medium.com/mastering-json-in-golang-d711999bd71c?source=rss-8b835baaf548------2)
 - [A Single Line of Code Crashed the Internet: Google Cloud Outage of June 2025](https://dhanushnehru.medium.com/a-single-line-of-code-crashed-the-internet-google-cloud-outage-of-june-2025-86b58a9d67e8?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Concurrency vs Parallelism in Go: The Difference That Will Transform Your Code](https://dhanushnehru.medium.com/concurrency-vs-parallelism-in-go-the-difference-that-will-transform-your-code-342dfc97112a?source=rss-8b835baaf548------2)
 - [Why Go Was Built for Speed and Simplicity](https://dhanushnehru.medium.com/why-go-was-built-for-speed-and-simplicity-4153faecb84d?source=rss-8b835baaf548------2)
 - [Are People Becoming Dumber Because of AI ?](https://dhanushnehru.medium.com/are-people-becoming-dumber-because-of-ai-460edf58d5ef?source=rss-8b835baaf548------2)
-- [The Secret Engine That Makes Go 10x Faster Than You Think](https://dhanushnehru.medium.com/the-secret-engine-that-makes-go-10x-faster-than-you-think-5d3317334a27?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
