@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [MongoDB Local Bangalore 2025 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2025-key-highlights-and-insights-4753d66ef9fc?source=rss-8b835baaf548------2)
 - [Power of AJAX: Transform Your Website in Minutes](https://dhanushnehru.medium.com/power-of-ajax-transform-your-website-in-minutes-81547c58a369?source=rss-8b835baaf548------2)
 - [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://dhanushnehru.medium.com/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
 - [Hackers Just Leaked 16 BILLION Logins, Are You at Risk?](https://dhanushnehru.medium.com/hackers-just-leaked-16-billion-logins-are-you-at-risk-84cc351cd0d7?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [What New Developers Should Really Focus On](https://dhanushnehru.medium.com/what-new-developers-should-really-focus-on-000cc23d26ab?source=rss-8b835baaf548------2)
 - [Go or Rust: How to Pick the Right Language](https://dhanushnehru.medium.com/go-or-rust-how-to-pick-the-right-language-ab5525a3026a?source=rss-8b835baaf548------2)
 - [Concurrency vs Parallelism in Go: The Difference That Will Transform Your Code](https://dhanushnehru.medium.com/concurrency-vs-parallelism-in-go-the-difference-that-will-transform-your-code-342dfc97112a?source=rss-8b835baaf548------2)
-- [Why Go Was Built for Speed and Simplicity](https://dhanushnehru.medium.com/why-go-was-built-for-speed-and-simplicity-4153faecb84d?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
