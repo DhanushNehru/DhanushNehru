@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Microsoft Just Open-Sourced GitHub Copilot Chat Extension Under MIT License And It Changes…](https://dhanushnehru.medium.com/microsoft-just-open-sourced-github-copilot-chat-extension-under-mit-license-and-it-changes-8a7fb97f7b66?source=rss-8b835baaf548------2)
 - [From Zero to Hero: My 365-Day TryHackMe Journey](https://infosecwriteups.com/from-zero-to-hero-my-365-day-tryhackme-journey-212deb7f5810?source=rss-8b835baaf548------2)
 - [MongoDB Local Bangalore 2025 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2025-key-highlights-and-insights-4753d66ef9fc?source=rss-8b835baaf548------2)
 - [Power of AJAX: Transform Your Website in Minutes](https://dhanushnehru.medium.com/power-of-ajax-transform-your-website-in-minutes-81547c58a369?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [A Single Line of Code Crashed the Internet: Google Cloud Outage of June 2025](https://dhanushnehru.medium.com/a-single-line-of-code-crashed-the-internet-google-cloud-outage-of-june-2025-86b58a9d67e8?source=rss-8b835baaf548------2)
 - [7 Essential Cybersecurity Tools I Wish I’d Learned From Day One](https://dhanushnehru.medium.com/7-essential-cybersecurity-tools-i-wish-id-learned-from-day-one-beginner-s-guide-a9cc7fe5da98?source=rss-8b835baaf548------2)
 - [What New Developers Should Really Focus On](https://dhanushnehru.medium.com/what-new-developers-should-really-focus-on-000cc23d26ab?source=rss-8b835baaf548------2)
-- [Go or Rust: How to Pick the Right Language](https://dhanushnehru.medium.com/go-or-rust-how-to-pick-the-right-language-ab5525a3026a?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
