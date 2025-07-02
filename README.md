@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [How I Became an AWS Community Builder](https://dhanushnehru.medium.com/how-i-became-an-aws-community-builder-eb3c384a0fe3?source=rss-8b835baaf548------2)
+- [How I Became an AWS Community Builder](https://aws.plainenglish.io/how-i-became-an-aws-community-builder-eb3c384a0fe3?source=rss-8b835baaf548------2)
 - [Microsoft Just Open-Sourced GitHub Copilot Chat Extension Under MIT License And It Changes…](https://medium.com/developersglobal/microsoft-just-open-sourced-github-copilot-chat-extension-under-mit-license-and-it-changes-8a7fb97f7b66?source=rss-8b835baaf548------2)
 - [From Zero to Hero: My 365 Day TryHackMe Journey](https://infosecwriteups.com/from-zero-to-hero-my-365-day-tryhackme-journey-212deb7f5810?source=rss-8b835baaf548------2)
 - [MongoDB Local Bangalore 2025 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2025-key-highlights-and-insights-4753d66ef9fc?source=rss-8b835baaf548------2)
