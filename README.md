@@ -158,7 +158,7 @@
 
 <p align="center">
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge">
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" height="88">
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" height="30%" width="30%">
 </p>
 
 <picture>
