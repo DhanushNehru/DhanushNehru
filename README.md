@@ -157,8 +157,8 @@
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
 
 <p align="center">
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge">
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" height="30%" width="30%">
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge" style="height:60px;"/>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" style="height:60px;"/>
 </p>
 
 <picture>
