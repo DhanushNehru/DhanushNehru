@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The End of YouTubers? YouTube’s July 15, 2025 Monetization Policy Update](https://dhanushnehru.medium.com/the-end-of-youtubers-youtubes-july-15-2025-monetization-policy-update-e42b9ce2cdf9?source=rss-8b835baaf548------2)
 - [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://dhanushnehru.medium.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
 - [Context Engineering: The Secret Behind Smarter AI Coding](https://dhanushnehru.medium.com/context-engineering-the-secret-behind-smarter-ai-coding-e978914b4932?source=rss-8b835baaf548------2)
 - [How I Became an AWS Community Builder](https://aws.plainenglish.io/how-i-became-an-aws-community-builder-eb3c384a0fe3?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Power of AJAX: Transform Your Website in Minutes](https://dhanushnehru.medium.com/power-of-ajax-transform-your-website-in-minutes-81547c58a369?source=rss-8b835baaf548------2)
 - [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://dhanushnehru.medium.com/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
 - [Hackers Just Leaked 16 BILLION Logins, Are You at Risk?](https://dhanushnehru.medium.com/hackers-just-leaked-16-billion-logins-are-you-at-risk-84cc351cd0d7?source=rss-8b835baaf548------2)
-- [Mastering JSON in Golang](https://dhanushnehru.medium.com/mastering-json-in-golang-d711999bd71c?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
