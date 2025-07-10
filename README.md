@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://dhanushnehru.medium.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
 - [Context Engineering: The Secret Behind Smarter AI Coding](https://dhanushnehru.medium.com/context-engineering-the-secret-behind-smarter-ai-coding-e978914b4932?source=rss-8b835baaf548------2)
 - [How I Became an AWS Community Builder](https://aws.plainenglish.io/how-i-became-an-aws-community-builder-eb3c384a0fe3?source=rss-8b835baaf548------2)
 - [Microsoft Just Open-Sourced GitHub Copilot Chat Extension Under MIT License And It Changes…](https://medium.com/developersglobal/microsoft-just-open-sourced-github-copilot-chat-extension-under-mit-license-and-it-changes-8a7fb97f7b66?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://dhanushnehru.medium.com/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
 - [Hackers Just Leaked 16 BILLION Logins, Are You at Risk?](https://dhanushnehru.medium.com/hackers-just-leaked-16-billion-logins-are-you-at-risk-84cc351cd0d7?source=rss-8b835baaf548------2)
 - [Mastering JSON in Golang](https://dhanushnehru.medium.com/mastering-json-in-golang-d711999bd71c?source=rss-8b835baaf548------2)
-- [A Single Line of Code Crashed the Internet: Google Cloud Outage of June 2025](https://dhanushnehru.medium.com/a-single-line-of-code-crashed-the-internet-google-cloud-outage-of-june-2025-86b58a9d67e8?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
