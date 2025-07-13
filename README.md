@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Security Awareness Training is Dead: The Behavioral Security Revolution](https://dhanushnehru.medium.com/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
 - [The End of YouTubers? YouTube’s July 15, 2025 Monetization Policy Update](https://dhanushnehru.medium.com/the-end-of-youtubers-youtubes-july-15-2025-monetization-policy-update-e42b9ce2cdf9?source=rss-8b835baaf548------2)
 - [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://infosecwriteups.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
 - [Context Engineering: The Secret Behind Smarter AI Coding](https://generativeai.pub/context-engineering-the-secret-behind-smarter-ai-coding-e978914b4932?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [MongoDB Local Bangalore 2025 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2025-key-highlights-and-insights-4753d66ef9fc?source=rss-8b835baaf548------2)
 - [Power of AJAX: Transform Your Website in Minutes](https://dhanushnehru.medium.com/power-of-ajax-transform-your-website-in-minutes-81547c58a369?source=rss-8b835baaf548------2)
 - [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://dhanushnehru.medium.com/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
-- [Hackers Just Leaked 16 BILLION Logins, Are You at Risk?](https://dhanushnehru.medium.com/hackers-just-leaked-16-billion-logins-are-you-at-risk-84cc351cd0d7?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
