@@ -69,16 +69,16 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Security Awareness Training is Dead: The Behavioral Security Revolution](https://dhanushnehru.medium.com/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
-- [The End of YouTubers? YouTube’s July 15, 2025 Monetization Policy Update](https://dhanushnehru.medium.com/the-end-of-youtubers-youtubes-july-15-2025-monetization-policy-update-e42b9ce2cdf9?source=rss-8b835baaf548------2)
+- [Security Awareness Training is Dead: The Behavioral Security Revolution](https://medium.com/@dhanushnehru/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
+- [The End of YouTubers? YouTube’s July 15, 2025 Monetization Policy Update](https://medium.com/@dhanushnehru/the-end-of-youtubers-youtubes-july-15-2025-monetization-policy-update-e42b9ce2cdf9?source=rss-8b835baaf548------2)
 - [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://infosecwriteups.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
 - [Context Engineering: The Secret Behind Smarter AI Coding](https://generativeai.pub/context-engineering-the-secret-behind-smarter-ai-coding-e978914b4932?source=rss-8b835baaf548------2)
 - [How I Became an AWS Community Builder](https://aws.plainenglish.io/how-i-became-an-aws-community-builder-eb3c384a0fe3?source=rss-8b835baaf548------2)
 - [Microsoft Just Open-Sourced GitHub Copilot Chat Extension Under MIT License And It Changes…](https://medium.com/developersglobal/microsoft-just-open-sourced-github-copilot-chat-extension-under-mit-license-and-it-changes-8a7fb97f7b66?source=rss-8b835baaf548------2)
 - [From Zero to Hero: My 365 Day TryHackMe Journey](https://infosecwriteups.com/from-zero-to-hero-my-365-day-tryhackme-journey-212deb7f5810?source=rss-8b835baaf548------2)
-- [MongoDB Local Bangalore 2025 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2025-key-highlights-and-insights-4753d66ef9fc?source=rss-8b835baaf548------2)
-- [Power of AJAX: Transform Your Website in Minutes](https://dhanushnehru.medium.com/power-of-ajax-transform-your-website-in-minutes-81547c58a369?source=rss-8b835baaf548------2)
-- [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://dhanushnehru.medium.com/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
+- [MongoDB Local Bangalore 2025 — Key Highlights and Insights](https://medium.com/@dhanushnehru/mongodb-local-bangalore-2025-key-highlights-and-insights-4753d66ef9fc?source=rss-8b835baaf548------2)
+- [Power of AJAX: Transform Your Website in Minutes](https://medium.com/@dhanushnehru/power-of-ajax-transform-your-website-in-minutes-81547c58a369?source=rss-8b835baaf548------2)
+- [Why Young Engineers Are Turning Away from ISRO: A Wake-Up Call for India’s Space Dream](https://medium.com/@dhanushnehru/why-young-engineers-are-turning-away-from-isro-a-wake-up-call-for-indias-space-dream-06974d0d8ca0?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
