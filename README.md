@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Ultimate Guide to Logging Practices](https://dhanushnehru.medium.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
 - [Microsoft Launches Github Spark for Full Stack Applications](https://dhanushnehru.medium.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
 - [Why Juspay Switched from Kubernetes to EC2](https://dhanushnehru.medium.com/why-juspay-switched-from-kubernetes-to-ec2-37cc97e27179?source=rss-8b835baaf548------2)
 - [5 Habits I Built by Playing Chess](https://dhanushnehru.medium.com/5-habits-i-built-by-playing-chess-9659a1193dd7?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://infosecwriteups.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
 - [Context Engineering: The Secret Behind Smarter AI Coding](https://generativeai.pub/context-engineering-the-secret-behind-smarter-ai-coding-e978914b4932?source=rss-8b835baaf548------2)
 - [How I Became an AWS Community Builder](https://aws.plainenglish.io/how-i-became-an-aws-community-builder-eb3c384a0fe3?source=rss-8b835baaf548------2)
-- [Microsoft Just Open-Sourced GitHub Copilot Chat Extension Under MIT License And It Changes…](https://medium.com/developersglobal/microsoft-just-open-sourced-github-copilot-chat-extension-under-mit-license-and-it-changes-8a7fb97f7b66?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
