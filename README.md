@@ -69,9 +69,9 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The Ultimate Guide to Logging Practices](https://dhanushnehru.medium.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
-- [Microsoft Launches Github Spark for Full Stack Applications](https://dhanushnehru.medium.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
-- [Why Juspay Switched from Kubernetes to EC2](https://dhanushnehru.medium.com/why-juspay-switched-from-kubernetes-to-ec2-37cc97e27179?source=rss-8b835baaf548------2)
+- [The Ultimate Guide to Logging Practices](https://medium.com/devmap/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
+- [Microsoft Launches Github Spark for Full Stack Applications](https://levelup.gitconnected.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
+- [Why Juspay Switched from Kubernetes to EC2](https://towardsaws.com/why-juspay-switched-from-kubernetes-to-ec2-37cc97e27179?source=rss-8b835baaf548------2)
 - [5 Habits I Built by Playing Chess](https://dhanushnehru.medium.com/5-habits-i-built-by-playing-chess-9659a1193dd7?source=rss-8b835baaf548------2)
 - [Why You Should NOT Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/why-you-should-not-choose-cybersecurity-as-a-career-315141247b6e?source=rss-8b835baaf548------2)
 - [Security Awareness Training is Dead: The Behavioral Security Revolution](https://dhanushnehru.medium.com/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
