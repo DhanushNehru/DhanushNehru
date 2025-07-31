@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://dhanushnehru.medium.com/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
 - [This Node.js Package Changes Everything About Running Shell Commands](https://levelup.gitconnected.com/this-node-js-package-changes-everything-about-running-shell-commands-4c0a53b98a8c?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Logging Practices](https://levelup.gitconnected.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
 - [Microsoft Launches Github Spark for Full Stack Applications](https://levelup.gitconnected.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Security Awareness Training is Dead: The Behavioral Security Revolution](https://dhanushnehru.medium.com/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
 - [The End of YouTubers? YouTube’s July 15, 2025 Monetization Policy Update](https://dhanushnehru.medium.com/the-end-of-youtubers-youtubes-july-15-2025-monetization-policy-update-e42b9ce2cdf9?source=rss-8b835baaf548------2)
 - [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://infosecwriteups.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
-- [Context Engineering: The Secret Behind Smarter AI Coding](https://generativeai.pub/context-engineering-the-secret-behind-smarter-ai-coding-e978914b4932?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
