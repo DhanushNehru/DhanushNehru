@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://dhanushnehru.medium.com/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
+- [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://medium.com/developersglobal/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
 - [This Node.js Package Changes Everything About Running Shell Commands](https://levelup.gitconnected.com/this-node-js-package-changes-everything-about-running-shell-commands-4c0a53b98a8c?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Logging Practices](https://levelup.gitconnected.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
 - [Microsoft Launches Github Spark for Full Stack Applications](https://levelup.gitconnected.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
