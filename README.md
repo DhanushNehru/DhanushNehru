@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Handling Different Node Versions on Mac](https://javascript.plainenglish.io/handling-different-node-versions-on-mac-3b6b7e58d7e6?source=rss-8b835baaf548------2)
 - [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://medium.com/developersglobal/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
 - [This Node.js Package Changes Everything About Running Shell Commands](https://levelup.gitconnected.com/this-node-js-package-changes-everything-about-running-shell-commands-4c0a53b98a8c?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Logging Practices](https://levelup.gitconnected.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Why You Should NOT Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/why-you-should-not-choose-cybersecurity-as-a-career-315141247b6e?source=rss-8b835baaf548------2)
 - [Security Awareness Training is Dead: The Behavioral Security Revolution](https://dhanushnehru.medium.com/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
 - [The End of YouTubers? YouTube’s July 15, 2025 Monetization Policy Update](https://dhanushnehru.medium.com/the-end-of-youtubers-youtubes-july-15-2025-monetization-policy-update-e42b9ce2cdf9?source=rss-8b835baaf548------2)
-- [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://infosecwriteups.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
