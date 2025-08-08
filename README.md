@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [ChatGPT-5 is Here: OpenAI Most Powerful AI Model](https://dhanushnehru.medium.com/chatgpt-5-is-here-openai-most-powerful-ai-model-238a2084a475?source=rss-8b835baaf548------2)
 - [Stop Using JSON and Save Money: The Hidden Cost of Structured Output in LLMs](https://ai.plainenglish.io/stop-using-json-and-save-money-the-hidden-cost-of-structured-output-in-llms-2a270aa1aae2?source=rss-8b835baaf548------2)
 - [Handling Different Node Versions on Mac](https://javascript.plainenglish.io/handling-different-node-versions-on-mac-3b6b7e58d7e6?source=rss-8b835baaf548------2)
 - [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://medium.com/developersglobal/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Why Juspay Switched from Kubernetes to EC2](https://towardsaws.com/why-juspay-switched-from-kubernetes-to-ec2-37cc97e27179?source=rss-8b835baaf548------2)
 - [5 Habits I Built by Playing Chess](https://dhanushnehru.medium.com/5-habits-i-built-by-playing-chess-9659a1193dd7?source=rss-8b835baaf548------2)
 - [Why You Should NOT Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/why-you-should-not-choose-cybersecurity-as-a-career-315141247b6e?source=rss-8b835baaf548------2)
-- [Security Awareness Training is Dead: The Behavioral Security Revolution](https://dhanushnehru.medium.com/security-awareness-training-is-dead-the-behavioral-security-revolution-3a4e9b51ee79?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
