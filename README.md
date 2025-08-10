@@ -69,7 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [ChatGPT-5 is Here: OpenAI Most Powerful AI Model](https://dhanushnehru.medium.com/chatgpt-5-is-here-openai-most-powerful-ai-model-238a2084a475?source=rss-8b835baaf548------2)
+- [ChatGPT-5 is Here: OpenAI Most Powerful AI Model](https://generativeai.pub/chatgpt-5-is-here-openai-most-powerful-ai-model-238a2084a475?source=rss-8b835baaf548------2)
 - [Stop Using JSON and Save Money: The Hidden Cost of Structured Output in LLMs](https://ai.plainenglish.io/stop-using-json-and-save-money-the-hidden-cost-of-structured-output-in-llms-2a270aa1aae2?source=rss-8b835baaf548------2)
 - [Handling Different Node Versions on Mac](https://javascript.plainenglish.io/handling-different-node-versions-on-mac-3b6b7e58d7e6?source=rss-8b835baaf548------2)
 - [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://medium.com/developersglobal/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
