@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Largest NPM Compromise in History: Supply Chain Attack](https://infosecwriteups.com/largest-npm-compromise-in-history-supply-chain-attack-908c343ca1a4?source=rss-8b835baaf548------2)
 - [Choosing Between Server-Sent Events &lpar;SSE&rpar; and WebSockets for Real-Time Apps](https://levelup.gitconnected.com/choosing-between-server-sent-events-sse-and-websockets-for-real-time-apps-8fc09f44a735?source=rss-8b835baaf548------2)
 - [HTTP/1 vs HTTP/2 vs HTTP/3](https://levelup.gitconnected.com/http-1-vs-http-2-vs-http-3-8361f7a1e79a?source=rss-8b835baaf548------2)
 - [ChatGPT-5 is Here: OpenAI Most Powerful AI Model](https://levelup.gitconnected.com/chatgpt-5-is-here-openai-most-powerful-ai-model-238a2084a475?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [This Node.js Package Changes Everything About Running Shell Commands](https://levelup.gitconnected.com/this-node-js-package-changes-everything-about-running-shell-commands-4c0a53b98a8c?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Logging Practices](https://levelup.gitconnected.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
 - [Microsoft Launches Github Spark for Full Stack Applications](https://levelup.gitconnected.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
-- [Why Juspay Switched from Kubernetes to EC2](https://towardsaws.com/why-juspay-switched-from-kubernetes-to-ec2-37cc97e27179?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
