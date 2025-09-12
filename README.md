@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [SMS vs Authenticator App: Which One Should You Choose for Two-Factor Authentication?](https://infosecwriteups.com/sms-vs-authenticator-app-which-one-should-you-choose-for-two-factor-authentication-7236d897d705?source=rss-8b835baaf548------2)
 - [Largest NPM Compromise in History: Supply Chain Attack](https://infosecwriteups.com/largest-npm-compromise-in-history-supply-chain-attack-908c343ca1a4?source=rss-8b835baaf548------2)
 - [Choosing Between Server-Sent Events &lpar;SSE&rpar; and WebSockets for Real-Time Apps](https://levelup.gitconnected.com/choosing-between-server-sent-events-sse-and-websockets-for-real-time-apps-8fc09f44a735?source=rss-8b835baaf548------2)
 - [HTTP/1 vs HTTP/2 vs HTTP/3](https://levelup.gitconnected.com/http-1-vs-http-2-vs-http-3-8361f7a1e79a?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://medium.com/developersglobal/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
 - [This Node.js Package Changes Everything About Running Shell Commands](https://levelup.gitconnected.com/this-node-js-package-changes-everything-about-running-shell-commands-4c0a53b98a8c?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Logging Practices](https://levelup.gitconnected.com/the-ultimate-guide-to-logging-practices-871871bb9665?source=rss-8b835baaf548------2)
-- [Microsoft Launches Github Spark for Full Stack Applications](https://levelup.gitconnected.com/microsoft-launches-github-spark-for-full-stack-applications-59df2689b885?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
