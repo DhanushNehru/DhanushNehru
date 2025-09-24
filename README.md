@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Myth of Talent: Why You’re Not Born Great But Built That Way](https://dhanushnehru.medium.com/the-myth-of-talent-why-youre-not-born-great-but-built-that-way-4dcb49eec64f?source=rss-8b835baaf548------2)
 - [Cypher 2025 Bengaluru— India’s Biggest AI Summit &amp; Expo](https://dhanushnehru.medium.com/cypher-2025-bengaluru-indias-biggest-ai-summit-expo-a711399a5cf0?source=rss-8b835baaf548------2)
 - [SMS vs Authenticator App: Which One Should You Choose for Two-Factor Authentication?](https://infosecwriteups.com/sms-vs-authenticator-app-which-one-should-you-choose-for-two-factor-authentication-7236d897d705?source=rss-8b835baaf548------2)
 - [Largest NPM Compromise in History: Supply Chain Attack](https://infosecwriteups.com/largest-npm-compromise-in-history-supply-chain-attack-908c343ca1a4?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Stop Using JSON and Save Money: The Hidden Cost of Structured Output in LLMs](https://ai.plainenglish.io/stop-using-json-and-save-money-the-hidden-cost-of-structured-output-in-llms-2a270aa1aae2?source=rss-8b835baaf548------2)
 - [Handling Different Node Versions on Mac](https://javascript.plainenglish.io/handling-different-node-versions-on-mac-3b6b7e58d7e6?source=rss-8b835baaf548------2)
 - [TCS Layoffs: What Every Tech Professional in India Needs to Know](https://medium.com/developersglobal/tcs-layoffs-what-every-tech-professional-in-india-needs-to-know-f3490d7d7cd1?source=rss-8b835baaf548------2)
-- [This Node.js Package Changes Everything About Running Shell Commands](https://levelup.gitconnected.com/this-node-js-package-changes-everything-about-running-shell-commands-4c0a53b98a8c?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
