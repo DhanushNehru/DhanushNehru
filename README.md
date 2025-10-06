@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System](https://towardsaws.com/journey-of-linux-from-a-students-dream-to-the-world-s-favourite-operating-system-252cd271451f?source=rss-8b835baaf548------2)
 - [Open Source Repositories and Projects for Hacktoberfest 2025](https://dhanushnehru.medium.com/open-source-repsitories-and-projects-for-hacktoberfest-2025-93e8c0459b04?source=rss-8b835baaf548------2)
 - [The Myth of Talent: Why You’re Not Born Great But Built That Way](https://medium.com/developersglobal/the-myth-of-talent-why-youre-not-born-great-but-built-that-way-4dcb49eec64f?source=rss-8b835baaf548------2)
 - [Cypher 2025 Bengaluru— India’s Biggest AI Summit &amp; Expo](https://dhanushnehru.medium.com/cypher-2025-bengaluru-indias-biggest-ai-summit-expo-a711399a5cf0?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [HTTP/1 vs HTTP/2 vs HTTP/3](https://levelup.gitconnected.com/http-1-vs-http-2-vs-http-3-8361f7a1e79a?source=rss-8b835baaf548------2)
 - [ChatGPT-5 is Here: OpenAI Most Powerful AI Model](https://levelup.gitconnected.com/chatgpt-5-is-here-openai-most-powerful-ai-model-238a2084a475?source=rss-8b835baaf548------2)
 - [Stop Using JSON and Save Money: The Hidden Cost of Structured Output in LLMs](https://ai.plainenglish.io/stop-using-json-and-save-money-the-hidden-cost-of-structured-output-in-llms-2a270aa1aae2?source=rss-8b835baaf548------2)
-- [Handling Different Node Versions on Mac](https://javascript.plainenglish.io/handling-different-node-versions-on-mac-3b6b7e58d7e6?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
