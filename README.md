@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [OpenAI DevDay 2025: Everything You Need to Know](https://dhanushnehru.medium.com/openai-devday-2025-everything-you-need-to-know-3859d78a3e3a?source=rss-8b835baaf548------2)
 - [Make Your Linux Terminal Your Own: The Complete $PS1 Customization Guide](https://infosecwriteups.com/make-your-linux-terminal-your-own-the-complete-ps1-customization-guide-ef684bada08d?source=rss-8b835baaf548------2)
 - [Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System](https://towardsaws.com/journey-of-linux-from-a-students-dream-to-the-world-s-favourite-operating-system-252cd271451f?source=rss-8b835baaf548------2)
 - [Open Source Repositories and Projects for Hacktoberfest 2025](https://dhanushnehru.medium.com/open-source-repsitories-and-projects-for-hacktoberfest-2025-93e8c0459b04?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Largest NPM Compromise in History: Supply Chain Attack](https://infosecwriteups.com/largest-npm-compromise-in-history-supply-chain-attack-908c343ca1a4?source=rss-8b835baaf548------2)
 - [Choosing Between Server-Sent Events &lpar;SSE&rpar; and WebSockets for Real-Time Apps](https://levelup.gitconnected.com/choosing-between-server-sent-events-sse-and-websockets-for-real-time-apps-8fc09f44a735?source=rss-8b835baaf548------2)
 - [HTTP/1 vs HTTP/2 vs HTTP/3](https://levelup.gitconnected.com/http-1-vs-http-2-vs-http-3-8361f7a1e79a?source=rss-8b835baaf548------2)
-- [ChatGPT-5 is Here: OpenAI Most Powerful AI Model](https://levelup.gitconnected.com/chatgpt-5-is-here-openai-most-powerful-ai-model-238a2084a475?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
