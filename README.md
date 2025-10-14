@@ -69,6 +69,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why We Still Need Junior Developers](https://levelup.gitconnected.com/why-we-still-need-junior-developers-b697d0973354?source=rss-8b835baaf548------2)
 - [OpenAI just killed n8n](https://levelup.gitconnected.com/openai-just-killed-n8n-65fb311be107?source=rss-8b835baaf548------2)
 - [OpenAI DevDay 2025: Everything You Need to Know](https://dhanushnehru.medium.com/openai-devday-2025-everything-you-need-to-know-3859d78a3e3a?source=rss-8b835baaf548------2)
 - [Make Your Linux Terminal Your Own: The Complete $PS1 Customization Guide](https://infosecwriteups.com/make-your-linux-terminal-your-own-the-complete-ps1-customization-guide-ef684bada08d?source=rss-8b835baaf548------2)
@@ -78,7 +79,6 @@
 - [Cypher 2025 Bengaluru— India’s Biggest AI Summit &amp; Expo](https://dhanushnehru.medium.com/cypher-2025-bengaluru-indias-biggest-ai-summit-expo-a711399a5cf0?source=rss-8b835baaf548------2)
 - [SMS vs Authenticator App: Which One Should You Choose for Two-Factor Authentication?](https://infosecwriteups.com/sms-vs-authenticator-app-which-one-should-you-choose-for-two-factor-authentication-7236d897d705?source=rss-8b835baaf548------2)
 - [Largest NPM Compromise in History: Supply Chain Attack](https://infosecwriteups.com/largest-npm-compromise-in-history-supply-chain-attack-908c343ca1a4?source=rss-8b835baaf548------2)
-- [Choosing Between Server-Sent Events &lpar;SSE&rpar; and WebSockets for Real-Time Apps](https://levelup.gitconnected.com/choosing-between-server-sent-events-sse-and-websockets-for-real-time-apps-8fc09f44a735?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
