@@ -109,7 +109,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=2lRqBMOHETI"><img width="140px" src="https://i.ytimg.com/vi/2lRqBMOHETI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2lRqBMOHETI">India&#39;s Biggest AI Summit | My Expo Stage Talk | Cypher 2025 | AIM Network</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=2lRqBMOHETI">India&#39;s Biggest AI Summit | Expo Stage Talk | Cypher 2025 | AIM Network</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/fCH33bszqJM"><img width="140px" src="https://i.ytimg.com/vi/fCH33bszqJM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fCH33bszqJM">OpenAI Sora 2 is Scary &lpar; you won&#39;t believe what it can do! &rpar; #chatgpt #openai #sora</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=UaNYT-5fLRw"><img width="140px" src="https://i.ytimg.com/vi/UaNYT-5fLRw/mqdefault.jpg"></a></td>
