@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Cybersecurity Heroes You Meet in Every Major Breach &lpar; And Why One Call Saves the Company &rpar;](https://dhanushnehru.medium.com/cybersecurity-heroes-you-meet-in-every-major-breach-and-why-one-call-saves-the-company-86a116cabe37?source=rss-8b835baaf548------2)
 - [AI vs ML vs DL: A Complete Guide to Understanding the Differences with Real-World Examples](https://dhanushnehru.medium.com/ai-vs-ml-vs-dl-a-complete-guide-to-understanding-the-differences-with-real-world-examples-badbff5daf9a?source=rss-8b835baaf548------2)
 - [How to Recover a Deleted Story on Medium?](https://dhanushnehru.medium.com/how-to-recover-a-deleted-story-on-medium-b1a7aba664b3?source=rss-8b835baaf548------2)
 - [Why We Still Need Junior Developers](https://levelup.gitconnected.com/why-we-still-need-junior-developers-b697d0973354?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Journey of Linux: From a Student’s Dream to the World’s Favourite Operating System](https://towardsaws.com/journey-of-linux-from-a-students-dream-to-the-world-s-favourite-operating-system-252cd271451f?source=rss-8b835baaf548------2)
 - [Open Source Repositories and Projects for Hacktoberfest 2025](https://dhanushnehru.medium.com/open-source-repsitories-and-projects-for-hacktoberfest-2025-93e8c0459b04?source=rss-8b835baaf548------2)
 - [The Myth of Talent: Why You’re Not Born Great But Built That Way](https://dhanushnehru.medium.com/the-myth-of-talent-why-youre-not-born-great-but-built-that-way-4dcb49eec64f?source=rss-8b835baaf548------2)
-- [Cypher 2025 Bengaluru— India’s Biggest AI Summit &amp; Expo](https://dhanushnehru.medium.com/cypher-2025-bengaluru-indias-biggest-ai-summit-expo-a711399a5cf0?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
