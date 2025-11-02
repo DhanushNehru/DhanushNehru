@@ -23,22 +23,30 @@ jobs:
         user_id: '1995656'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit and push badge if changed
-      env:
-        COMMIT_MESSAGE: "Updated THM profile badge"
-      run: |
-        # Ensure file is staged (no-op if missing)
-        git add ./assets/tryhackme-badge.png || true
-    
-        # If there are no staged changes, exit successfully to avoid false failures
-        if git diff --cached --quiet; then
-          echo "No changes to commit"
-          exit 0
-        fi
-    
-        # Commit and push to the current branch
-        git commit -m "$COMMIT_MESSAGE"
-        git push origin "${{ github.ref_name }}"
-    
-    - name: Complete
-      run: echo "TryHackMe badge workflow finished."
+  - name: Configure Git Identity
+    run: |
+      git config --global user.name "GitHub Actions Bot"
+      git config --global user.email "actions@github.com"
+
+  - name: Fetch TryHackMe Badge
+    uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
+    with:
+      image_path: './assets/tryhackme-badge.png'
+      username: 'dhanushnehru'
+      user_id: '1995656'
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Commit and push badge if changed
+    env:
+      COMMIT_MESSAGE: "Updated THM profile badge"
+    run: |
+      git add ./assets/tryhackme-badge.png || true
+
+      # If there are no staged changes, exit successfully
+      if git diff --cached --quiet; then
+        echo "No changes to commit"
+        exit 0
+      fi
+
+      git commit -m "$COMMIT_MESSAGE"
+      git push origin "${{ github.ref_name }}"
