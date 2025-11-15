@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Complete Penetration Testing Guide: 9 Critical Phases Every Security Professional Must Master](https://dhanushnehru.medium.com/complete-penetration-testing-guide-9-critical-phases-every-security-professional-must-master-f5b944bf4d5d?source=rss-8b835baaf548------2)
 - [Strengthening npm Security: What Package Maintainers Need to Know](https://dhanushnehru.medium.com/strengthening-npm-security-what-package-maintainers-need-to-know-0bcdb8b7ad65?source=rss-8b835baaf548------2)
 - [Server Hacked? DON’T Shut It Down!](https://dhanushnehru.medium.com/server-hacked-dont-shut-it-down-50a411e5b803?source=rss-8b835baaf548------2)
 - [How Companies Pay Experts to Break Into Their Own Systems](https://dhanushnehru.medium.com/how-companies-pay-experts-to-break-into-their-own-systems-520d1df1338f?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [How to Recover a Deleted Story on Medium?](https://dhanushnehru.medium.com/how-to-recover-a-deleted-story-on-medium-b1a7aba664b3?source=rss-8b835baaf548------2)
 - [Why We Still Need Junior Developers](https://levelup.gitconnected.com/why-we-still-need-junior-developers-b697d0973354?source=rss-8b835baaf548------2)
 - [OpenAI just killed n8n](https://levelup.gitconnected.com/openai-just-killed-n8n-65fb311be107?source=rss-8b835baaf548------2)
-- [OpenAI DevDay 2025: Everything You Need to Know](https://dhanushnehru.medium.com/openai-devday-2025-everything-you-need-to-know-3859d78a3e3a?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
