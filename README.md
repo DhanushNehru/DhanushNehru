@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [70 GitHub Repos That’ll Make You Look Like a 10x Developer](https://dhanushnehru.medium.com/70-github-repos-thatll-make-you-look-like-a-10x-developer-29c4e5488d13?source=rss-8b835baaf548------2)
 - [The Lottie Player Attack: A Wake-Up Call for Web3 Security](https://dhanushnehru.medium.com/the-lottie-player-attack-a-wake-up-call-for-web3-security-b0a01d308950?source=rss-8b835baaf548------2)
 - [Exam Review: Certified AppSec Practitioner &lpar;CAP&rpar;](https://infosecwriteups.com/exam-review-certified-appsec-practitioner-cap-bf42f9ca5810?source=rss-8b835baaf548------2)
 - [What 500 Days of Cybersecurity Practice Actually Taught Me](https://infosecwriteups.com/what-500-days-of-cybersecurity-practice-actually-taught-me-276f452cf78e?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [How Companies Pay Experts to Break Into Their Own Systems](https://dhanushnehru.medium.com/how-companies-pay-experts-to-break-into-their-own-systems-520d1df1338f?source=rss-8b835baaf548------2)
 - [NIST Cybersecurity Framework for Vulnerability Management: A Simple Guide](https://dhanushnehru.medium.com/nist-cybersecurity-framework-for-vulnerability-management-a-simple-guide-3034db7fe5bb?source=rss-8b835baaf548------2)
 - [Cybersecurity Heroes You Meet in Every Major Breach &lpar; And Why One Call Saves the Company &rpar;](https://dhanushnehru.medium.com/cybersecurity-heroes-you-meet-in-every-major-breach-and-why-one-call-saves-the-company-86a116cabe37?source=rss-8b835baaf548------2)
-- [AI vs ML vs DL: A Complete Guide to Understanding the Differences with Real-World Examples](https://dhanushnehru.medium.com/ai-vs-ml-vs-dl-a-complete-guide-to-understanding-the-differences-with-real-world-examples-badbff5daf9a?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
