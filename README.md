@@ -72,7 +72,7 @@
 <!-- MEDIUM-BLOG-LIST:START -->
 - [Why Your Employees Are Your Biggest Security Risk &lpar;And How Hackers Know It&rpar;](https://dhanushnehru.medium.com/why-your-employees-are-your-biggest-security-risk-and-how-hackers-know-it-613ad1cc05e2?source=rss-8b835baaf548------2)
 - [Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile &amp; More](https://infosecwriteups.com/complete-guide-to-penetration-testing-domains-web-network-cloud-mobile-more-66834579378b?source=rss-8b835baaf548------2)
-- [70 GitHub Repos That’ll Make You Look Like a 10x Developer](https://dhanushnehru.medium.com/70-github-repos-thatll-make-you-look-like-a-10x-developer-29c4e5488d13?source=rss-8b835baaf548------2)
+- [70 GitHub Repos That’ll Make You Look Like a 10x Developer](https://levelup.gitconnected.com/70-github-repos-thatll-make-you-look-like-a-10x-developer-29c4e5488d13?source=rss-8b835baaf548------2)
 - [The Lottie Player Attack: A Wake-Up Call for Web3 Security](https://dhanushnehru.medium.com/the-lottie-player-attack-a-wake-up-call-for-web3-security-b0a01d308950?source=rss-8b835baaf548------2)
 - [Exam Review: Certified AppSec Practitioner &lpar;CAP&rpar;](https://infosecwriteups.com/exam-review-certified-appsec-practitioner-cap-bf42f9ca5810?source=rss-8b835baaf548------2)
 - [What 500 Days of Cybersecurity Practice Actually Taught Me](https://infosecwriteups.com/what-500-days-of-cybersecurity-practice-actually-taught-me-276f452cf78e?source=rss-8b835baaf548------2)
