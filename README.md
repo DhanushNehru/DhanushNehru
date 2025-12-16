@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Your Employees Are Your Biggest Security Risk &lpar;And How Hackers Know It&rpar;](https://dhanushnehru.medium.com/why-your-employees-are-your-biggest-security-risk-and-how-hackers-know-it-613ad1cc05e2?source=rss-8b835baaf548------2)
 - [Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile &amp; More](https://infosecwriteups.com/complete-guide-to-penetration-testing-domains-web-network-cloud-mobile-more-66834579378b?source=rss-8b835baaf548------2)
 - [70 GitHub Repos That’ll Make You Look Like a 10x Developer](https://dhanushnehru.medium.com/70-github-repos-thatll-make-you-look-like-a-10x-developer-29c4e5488d13?source=rss-8b835baaf548------2)
 - [The Lottie Player Attack: A Wake-Up Call for Web3 Security](https://dhanushnehru.medium.com/the-lottie-player-attack-a-wake-up-call-for-web3-security-b0a01d308950?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Strengthening npm Security: What Package Maintainers Need to Know](https://dhanushnehru.medium.com/strengthening-npm-security-what-package-maintainers-need-to-know-0bcdb8b7ad65?source=rss-8b835baaf548------2)
 - [Server Hacked? DON’T Shut It Down!](https://dhanushnehru.medium.com/server-hacked-dont-shut-it-down-50a411e5b803?source=rss-8b835baaf548------2)
 - [How Companies Pay Experts to Break Into Their Own Systems](https://dhanushnehru.medium.com/how-companies-pay-experts-to-break-into-their-own-systems-520d1df1338f?source=rss-8b835baaf548------2)
-- [NIST Cybersecurity Framework for Vulnerability Management: A Simple Guide](https://dhanushnehru.medium.com/nist-cybersecurity-framework-for-vulnerability-management-a-simple-guide-3034db7fe5bb?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
