@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [You’re Using Docker Init Wrong](https://towardsaws.com/youre-using-docker-init-wrong-4277775680b5?source=rss-8b835baaf548------2)
 - [Top 25 DevOps Interview Questions and Answers](https://dhanushnehru.medium.com/top-25-devops-interview-questions-and-answers-a0f143e5883d?source=rss-8b835baaf548------2)
 - [Why Your Employees Are Your Biggest Security Risk &lpar;And How Hackers Know It&rpar;](https://dhanushnehru.medium.com/why-your-employees-are-your-biggest-security-risk-and-how-hackers-know-it-613ad1cc05e2?source=rss-8b835baaf548------2)
 - [Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile &amp; More](https://infosecwriteups.com/complete-guide-to-penetration-testing-domains-web-network-cloud-mobile-more-66834579378b?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [What 500 Days of Cybersecurity Practice Actually Taught Me](https://infosecwriteups.com/what-500-days-of-cybersecurity-practice-actually-taught-me-276f452cf78e?source=rss-8b835baaf548------2)
 - [Complete Penetration Testing Guide: 9 Critical Phases Every Security Professional Must Master](https://dhanushnehru.medium.com/complete-penetration-testing-guide-9-critical-phases-every-security-professional-must-master-f5b944bf4d5d?source=rss-8b835baaf548------2)
 - [Strengthening npm Security: What Package Maintainers Need to Know](https://dhanushnehru.medium.com/strengthening-npm-security-what-package-maintainers-need-to-know-0bcdb8b7ad65?source=rss-8b835baaf548------2)
-- [Server Hacked? DON’T Shut It Down!](https://dhanushnehru.medium.com/server-hacked-dont-shut-it-down-50a411e5b803?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
