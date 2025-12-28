@@ -73,7 +73,7 @@
 - [HTML Applications &lpar;HTA&rpar;: The Double-Edged Sword in Windows Security](https://dhanushnehru.medium.com/html-applications-hta-the-double-edged-sword-in-windows-security-86fbb68690d4?source=rss-8b835baaf548------2)
 - [Spotify’s 300TB Leak: Biggest Music Archive Ever](https://dhanushnehru.medium.com/spotifys-300tb-leak-biggest-music-archive-ever-f9c9e69fa9a4?source=rss-8b835baaf548------2)
 - [You’re Using Docker Init Wrong](https://towardsaws.com/youre-using-docker-init-wrong-4277775680b5?source=rss-8b835baaf548------2)
-- [Top 25 DevOps Interview Questions and Answers](https://dhanushnehru.medium.com/top-25-devops-interview-questions-and-answers-a0f143e5883d?source=rss-8b835baaf548------2)
+- [Top 25 DevOps Interview Questions and Answers](https://towardsaws.com/top-25-devops-interview-questions-and-answers-a0f143e5883d?source=rss-8b835baaf548------2)
 - [Why Your Employees Are Your Biggest Security Risk &lpar;And How Hackers Know It&rpar;](https://dhanushnehru.medium.com/why-your-employees-are-your-biggest-security-risk-and-how-hackers-know-it-613ad1cc05e2?source=rss-8b835baaf548------2)
 - [Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile &amp; More](https://infosecwriteups.com/complete-guide-to-penetration-testing-domains-web-network-cloud-mobile-more-66834579378b?source=rss-8b835baaf548------2)
 - [70 GitHub Repos That’ll Make You Look Like a 10x Developer](https://levelup.gitconnected.com/70-github-repos-thatll-make-you-look-like-a-10x-developer-29c4e5488d13?source=rss-8b835baaf548------2)
