@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Dev Retro 2025: Journey in review](https://dhanushnehru.medium.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
+- [Dev Retro 2025: Journey in review](https://levelup.gitconnected.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
 - [CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms](https://dhanushnehru.medium.com/cve-2025-68613-the-critical-n8n-vulnerability-threatening-103-000-automation-platforms-d1aca3cc9d07?source=rss-8b835baaf548------2)
 - [MongoBleed &lpar;CVE-2025–14847&rpar;: How One Missing Line of Code Exposed 213,000 Databases](https://dhanushnehru.medium.com/mongobleed-cve-2025-14847-how-one-missing-line-of-code-exposed-213-000-databases-7845105836a6?source=rss-8b835baaf548------2)
 - [HTML Applications &lpar;HTA&rpar;: The Double-Edged Sword in Windows Security](https://dhanushnehru.medium.com/html-applications-hta-the-double-edged-sword-in-windows-security-86fbb68690d4?source=rss-8b835baaf548------2)
