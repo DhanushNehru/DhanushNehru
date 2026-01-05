@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Zero-Day Exploits Explained](https://dhanushnehru.medium.com/zero-day-exploits-explained-ceb654aad725?source=rss-8b835baaf548------2)
 - [Dev Retro 2025: Journey in review](https://levelup.gitconnected.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
 - [CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms](https://dhanushnehru.medium.com/cve-2025-68613-the-critical-n8n-vulnerability-threatening-103-000-automation-platforms-d1aca3cc9d07?source=rss-8b835baaf548------2)
 - [MongoBleed &lpar;CVE-2025–14847&rpar;: How One Missing Line of Code Exposed 213,000 Databases](https://dhanushnehru.medium.com/mongobleed-cve-2025-14847-how-one-missing-line-of-code-exposed-213-000-databases-7845105836a6?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Top 25 DevOps Interview Questions and Answers](https://towardsaws.com/top-25-devops-interview-questions-and-answers-a0f143e5883d?source=rss-8b835baaf548------2)
 - [Why Your Employees Are Your Biggest Security Risk &lpar;And How Hackers Know It&rpar;](https://dhanushnehru.medium.com/why-your-employees-are-your-biggest-security-risk-and-how-hackers-know-it-613ad1cc05e2?source=rss-8b835baaf548------2)
 - [Complete Guide to Penetration Testing Domains: Web, Network, Cloud, Mobile &amp; More](https://infosecwriteups.com/complete-guide-to-penetration-testing-domains-web-network-cloud-mobile-more-66834579378b?source=rss-8b835baaf548------2)
-- [70 GitHub Repos That’ll Make You Look Like a 10x Developer](https://levelup.gitconnected.com/70-github-repos-thatll-make-you-look-like-a-10x-developer-29c4e5488d13?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
