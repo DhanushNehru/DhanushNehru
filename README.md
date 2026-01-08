@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Critical n8n Security Vulnerability &lpar;CVE-2026–21858&rpar; Demands Immediate Action](https://dhanushnehru.medium.com/critical-n8n-security-vulnerability-cve-2026-21858-demands-immediate-action-c4bd95b5d93c?source=rss-8b835baaf548------2)
+- [Critical n8n Security Vulnerability &lpar;CVE-2026–21858&rpar; Demands Immediate Action](https://infosecwriteups.com/critical-n8n-security-vulnerability-cve-2026-21858-demands-immediate-action-c4bd95b5d93c?source=rss-8b835baaf548------2)
 - [Zero-Day Exploits Explained](https://infosecwriteups.com/zero-day-exploits-explained-ceb654aad725?source=rss-8b835baaf548------2)
 - [Dev Retro 2025: Journey in review](https://levelup.gitconnected.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
 - [CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms](https://dhanushnehru.medium.com/cve-2025-68613-the-critical-n8n-vulnerability-threatening-103-000-automation-platforms-d1aca3cc9d07?source=rss-8b835baaf548------2)
