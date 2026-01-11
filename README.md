@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Using Kubernetes Dashboard](https://towardsaws.com/stop-using-kubernetes-dashboard-60b16e9beb68?source=rss-8b835baaf548------2)
 - [Critical n8n Security Vulnerability &lpar;CVE-2026–21858&rpar; Demands Immediate Action](https://infosecwriteups.com/critical-n8n-security-vulnerability-cve-2026-21858-demands-immediate-action-c4bd95b5d93c?source=rss-8b835baaf548------2)
 - [Zero-Day Exploits Explained](https://infosecwriteups.com/zero-day-exploits-explained-ceb654aad725?source=rss-8b835baaf548------2)
 - [Dev Retro 2025: Journey in review](https://levelup.gitconnected.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Spotify’s 300TB Leak: Biggest Music Archive Ever](https://dhanushnehru.medium.com/spotifys-300tb-leak-biggest-music-archive-ever-f9c9e69fa9a4?source=rss-8b835baaf548------2)
 - [You’re Using Docker Init Wrong](https://towardsaws.com/youre-using-docker-init-wrong-4277775680b5?source=rss-8b835baaf548------2)
 - [Top 25 DevOps Interview Questions and Answers](https://towardsaws.com/top-25-devops-interview-questions-and-answers-a0f143e5883d?source=rss-8b835baaf548------2)
-- [Why Your Employees Are Your Biggest Security Risk &lpar;And How Hackers Know It&rpar;](https://dhanushnehru.medium.com/why-your-employees-are-your-biggest-security-risk-and-how-hackers-know-it-613ad1cc05e2?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
