@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [SQL Tips That Will Instantly Make You Better at Writing Queries](https://levelup.gitconnected.com/sql-tips-that-will-instantly-make-you-better-at-writing-queries-c0b7038209ab?source=rss-8b835baaf548------2)
 - [Don’t Become a Cybersecurity Engineer in 2026!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2026-dea9f19fb6df?source=rss-8b835baaf548------2)
 - [Why Every Node.js Developer Needs to Update Right Now &lpar;CVE-2025–59466&rpar;](https://javascript.plainenglish.io/why-every-node-js-developer-needs-to-update-right-now-cve-2025-59466-1c1306e3099a?source=rss-8b835baaf548------2)
 - [Stop Using Kubernetes Dashboard](https://towardsaws.com/stop-using-kubernetes-dashboard-60b16e9beb68?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms](https://infosecwriteups.com/cve-2025-68613-the-critical-n8n-vulnerability-threatening-103-000-automation-platforms-d1aca3cc9d07?source=rss-8b835baaf548------2)
 - [MongoBleed &lpar;CVE-2025–14847&rpar;: How One Missing Line of Code Exposed 213,000 Databases](https://dhanushnehru.medium.com/mongobleed-cve-2025-14847-how-one-missing-line-of-code-exposed-213-000-databases-7845105836a6?source=rss-8b835baaf548------2)
 - [HTML Applications &lpar;HTA&rpar;: The Double-Edged Sword in Windows Security](https://dhanushnehru.medium.com/html-applications-hta-the-double-edged-sword-in-windows-security-86fbb68690d4?source=rss-8b835baaf548------2)
-- [Spotify’s 300TB Leak: Biggest Music Archive Ever](https://dhanushnehru.medium.com/spotifys-300tb-leak-biggest-music-archive-ever-f9c9e69fa9a4?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
