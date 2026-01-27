@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Your Email Inbox is Lying to You &lpar;And How to Catch It Red-Handed&rpar;](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss-8b835baaf548------2)
 - [Django for Beginners](https://medium.com/top-python-libraries/django-for-beginners-d3047acb4be8?source=rss-8b835baaf548------2)
 - [SQL Tips That Will Instantly Make You Better at Writing Queries](https://levelup.gitconnected.com/sql-tips-that-will-instantly-make-you-better-at-writing-queries-c0b7038209ab?source=rss-8b835baaf548------2)
 - [Don’t Become a Cybersecurity Engineer in 2026!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2026-dea9f19fb6df?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Zero-Day Exploits Explained](https://infosecwriteups.com/zero-day-exploits-explained-ceb654aad725?source=rss-8b835baaf548------2)
 - [Dev Retro 2025: Journey in review](https://levelup.gitconnected.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
 - [CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms](https://infosecwriteups.com/cve-2025-68613-the-critical-n8n-vulnerability-threatening-103-000-automation-platforms-d1aca3cc9d07?source=rss-8b835baaf548------2)
-- [MongoBleed &lpar;CVE-2025–14847&rpar;: How One Missing Line of Code Exposed 213,000 Databases](https://dhanushnehru.medium.com/mongobleed-cve-2025-14847-how-one-missing-line-of-code-exposed-213-000-databases-7845105836a6?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
