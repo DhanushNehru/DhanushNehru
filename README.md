@@ -113,12 +113,12 @@
 <td><a href="https://www.youtube.com/shorts/VAh5AfGSUSg">When you choose cybersecurity as a career 🐧</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/5jMzBppsxHs"><img width="140px" src="https://i.ytimg.com/vi/5jMzBppsxHs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/5jMzBppsxHs">HAPPY 1000 SUBSCRIBERS ON YOUTUBE 🥹 🎉</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2lRqBMOHETI"><img width="140px" src="https://i.ytimg.com/vi/2lRqBMOHETI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2lRqBMOHETI">India&#39;s Biggest AI Summit | Expo Stage Talk | Cypher 2025 | AIM Network</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/fCH33bszqJM"><img width="140px" src="https://i.ytimg.com/vi/fCH33bszqJM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fCH33bszqJM">OpenAI Sora 2 is Scary &lpar; you won&#39;t believe what it can do! &rpar; #chatgpt #openai #sora</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=UaNYT-5fLRw"><img width="140px" src="https://i.ytimg.com/vi/UaNYT-5fLRw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UaNYT-5fLRw">This Is Me - Short Introduction About Myself</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FZLX7yKc88Y"><img width="140px" src="https://i.ytimg.com/vi/FZLX7yKc88Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FZLX7yKc88Y">Must Known Top Hacker Tools for 2025 | Kali Linux | Cybersecurity</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
