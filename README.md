@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [I Built a Fake Server to Watch Hackers Break In. Here’s What Happened.](https://dhanushnehru.medium.com/i-built-a-fake-server-to-watch-hackers-break-in-heres-what-happened-3834148d2957?source=rss-8b835baaf548------2)
 - [Code is a Liability, Not an Asset](https://medium.com/technology-hits/code-is-a-liability-not-an-asset-1f2a94043c91?source=rss-8b835baaf548------2)
 - [Your Email Inbox is Lying to You &lpar;And How to Catch It Red-Handed&rpar;](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss-8b835baaf548------2)
 - [Django for Beginners](https://medium.com/top-python-libraries/django-for-beginners-d3047acb4be8?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Stop Using Kubernetes Dashboard](https://towardsaws.com/stop-using-kubernetes-dashboard-60b16e9beb68?source=rss-8b835baaf548------2)
 - [Critical n8n Security Vulnerability &lpar;CVE-2026–21858&rpar; Demands Immediate Action](https://infosecwriteups.com/critical-n8n-security-vulnerability-cve-2026-21858-demands-immediate-action-c4bd95b5d93c?source=rss-8b835baaf548------2)
 - [Zero-Day Exploits Explained](https://infosecwriteups.com/zero-day-exploits-explained-ceb654aad725?source=rss-8b835baaf548------2)
-- [Dev Retro 2025: Journey in review](https://levelup.gitconnected.com/dev-retro-2025-journey-in-review-d8a90f52e008?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
