@@ -112,7 +112,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/620UvBT_55o"><img width="140px" src="https://i.ytimg.com/vi/620UvBT_55o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/620UvBT_55o">When you are trying to focus and your brain be like 🧠</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/PSPoRw4KJic"><img width="140px" src="https://i.ytimg.com/vi/PSPoRw4KJic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/PSPoRw4KJic">Hackers randomly guessing passwords be like</a><br/></td></tr>
+<td><a href="https://www.youtube.com/shorts/PSPoRw4KJic">Hackers randomly guessing passwords be like ★</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/VAh5AfGSUSg"><img width="140px" src="https://i.ytimg.com/vi/VAh5AfGSUSg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/VAh5AfGSUSg">When you choose cybersecurity as a career 🐧</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/5jMzBppsxHs"><img width="140px" src="https://i.ytimg.com/vi/5jMzBppsxHs/mqdefault.jpg"></a></td>
