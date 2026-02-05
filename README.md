@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/LO-hkaOfvAw"><img width="140px" src="https://i.ytimg.com/vi/LO-hkaOfvAw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/z32H4bvHPc0"><img width="140px" src="https://i.ytimg.com/vi/z32H4bvHPc0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/z32H4bvHPc0">Google&#39;s top AI scientist skill prediction ⚠️</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/LO-hkaOfvAw"><img width="140px" src="https://i.ytimg.com/vi/LO-hkaOfvAw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/LO-hkaOfvAw">When you finally commit to learning but the roadmap looks like this 🐧 #butwhy</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/620UvBT_55o"><img width="140px" src="https://i.ytimg.com/vi/620UvBT_55o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/620UvBT_55o">When you are trying to focus and your brain be like 🧠</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/PSPoRw4KJic">Hackers randomly guessing passwords be like ★</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/VAh5AfGSUSg"><img width="140px" src="https://i.ytimg.com/vi/VAh5AfGSUSg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/VAh5AfGSUSg">When you choose cybersecurity as a career 🐧</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/5jMzBppsxHs"><img width="140px" src="https://i.ytimg.com/vi/5jMzBppsxHs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/5jMzBppsxHs">HAPPY 1000 SUBSCRIBERS ON YOUTUBE 🥹 🎉</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
