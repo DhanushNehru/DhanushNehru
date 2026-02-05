@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://dhanushnehru.medium.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
 - [How to Shield Your Data in the Cloud](https://dhanushnehru.medium.com/how-to-shield-your-data-in-the-cloud-e1d2676a46bd?source=rss-8b835baaf548------2)
 - [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
 - [When You Choose Cybersecurity as a Career](https://infosecwriteups.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Django for Beginners](https://medium.com/top-python-libraries/django-for-beginners-d3047acb4be8?source=rss-8b835baaf548------2)
 - [SQL Tips That Will Instantly Make You Better at Writing Queries](https://levelup.gitconnected.com/sql-tips-that-will-instantly-make-you-better-at-writing-queries-c0b7038209ab?source=rss-8b835baaf548------2)
 - [Don’t Become a Cybersecurity Engineer in 2026!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2026-dea9f19fb6df?source=rss-8b835baaf548------2)
-- [Why Every Node.js Developer Needs to Update Right Now &lpar;CVE-2025–59466&rpar;](https://javascript.plainenglish.io/why-every-node-js-developer-needs-to-update-right-now-cve-2025-59466-1c1306e3099a?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
