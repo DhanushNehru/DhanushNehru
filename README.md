@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/RH3TzPLkGo0"><img width="140px" src="https://i.ytimg.com/vi/RH3TzPLkGo0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/uWAlc_ICEfs"><img width="140px" src="https://i.ytimg.com/vi/uWAlc_ICEfs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/uWAlc_ICEfs">Love What You Do or Do What You Love</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/RH3TzPLkGo0"><img width="140px" src="https://i.ytimg.com/vi/RH3TzPLkGo0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/RH3TzPLkGo0">Anthropic Claude Opus 4.6 Announcement 🤖 #claudeopus</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/z32H4bvHPc0"><img width="140px" src="https://i.ytimg.com/vi/z32H4bvHPc0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/z32H4bvHPc0">Google&#39;s top AI scientist skill prediction ⚠️</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/LO-hkaOfvAw">When you finally commit to learning but the roadmap looks like this 🐧 #butwhy</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/620UvBT_55o"><img width="140px" src="https://i.ytimg.com/vi/620UvBT_55o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/620UvBT_55o">When you are trying to focus and your brain be like 🧠</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/PSPoRw4KJic"><img width="140px" src="https://i.ytimg.com/vi/PSPoRw4KJic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/PSPoRw4KJic">Hackers randomly guessing passwords be like ★</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
