@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The 3 Types of Cloud &lpar;And How Each Can Ruin Your Day&rpar;](https://dhanushnehru.medium.com/the-3-types-of-cloud-and-how-each-can-ruin-your-day-d4676303e831?source=rss-8b835baaf548------2)
 - [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://dhanushnehru.medium.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
 - [How to Shield Your Data in the Cloud](https://dhanushnehru.medium.com/how-to-shield-your-data-in-the-cloud-e1d2676a46bd?source=rss-8b835baaf548------2)
 - [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Your Email Inbox is Lying to You &lpar;And How to Catch It Red-Handed&rpar;](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss-8b835baaf548------2)
 - [Django for Beginners](https://medium.com/top-python-libraries/django-for-beginners-d3047acb4be8?source=rss-8b835baaf548------2)
 - [SQL Tips That Will Instantly Make You Better at Writing Queries](https://levelup.gitconnected.com/sql-tips-that-will-instantly-make-you-better-at-writing-queries-c0b7038209ab?source=rss-8b835baaf548------2)
-- [Don’t Become a Cybersecurity Engineer in 2026!](https://infosecwriteups.com/dont-become-a-cybersecurity-engineer-in-2026-dea9f19fb6df?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
