@@ -114,7 +114,7 @@
 <tr><td><a href="https://www.youtube.com/shorts/uWAlc_ICEfs"><img width="140px" src="https://i.ytimg.com/vi/uWAlc_ICEfs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/uWAlc_ICEfs">Love What You Do or Do What You Love</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/RH3TzPLkGo0"><img width="140px" src="https://i.ytimg.com/vi/RH3TzPLkGo0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/RH3TzPLkGo0">Anthropic Claude Opus 4.6 Announcement 🤖 #claudeopus</a><br/></td></tr>
+<td><a href="https://www.youtube.com/shorts/RH3TzPLkGo0">Anthropic Claude Code Opus 4.6 Announcement 🤖 #claudeopus</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/z32H4bvHPc0"><img width="140px" src="https://i.ytimg.com/vi/z32H4bvHPc0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/z32H4bvHPc0">Google&#39;s top AI scientist skill prediction ⚠️</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/LO-hkaOfvAw"><img width="140px" src="https://i.ytimg.com/vi/LO-hkaOfvAw/mqdefault.jpg"></a></td>
