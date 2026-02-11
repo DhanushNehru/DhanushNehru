@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/64LyLHmy75c"><img width="140px" src="https://i.ytimg.com/vi/64LyLHmy75c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/4YREdCNa7Hs"><img width="140px" src="https://i.ytimg.com/vi/4YREdCNa7Hs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/4YREdCNa7Hs">love what you do or do what you love 🐉</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/64LyLHmy75c"><img width="140px" src="https://i.ytimg.com/vi/64LyLHmy75c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/64LyLHmy75c">Learning Cybersecurity Be Like</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/twP2ZUc3GDM"><img width="140px" src="https://i.ytimg.com/vi/twP2ZUc3GDM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/twP2ZUc3GDM">That one employee who always clicks on the phishing email 🐧</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/zV9hMDQn6dw">Surprising things that grow your brain 🧠</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/fAvAGZSj6Ic"><img width="140px" src="https://i.ytimg.com/vi/fAvAGZSj6Ic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fAvAGZSj6Ic">What happens after AI replaces all jobs?</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/cZnBKDQNwn8"><img width="140px" src="https://i.ytimg.com/vi/cZnBKDQNwn8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/cZnBKDQNwn8">AI just KILLED the future of software engineering ☠️</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
