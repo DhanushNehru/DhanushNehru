@@ -110,7 +110,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/qpILFFDmDx8"><img width="140px" src="https://i.ytimg.com/vi/qpILFFDmDx8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/qpILFFDmDx8">If AI Replaces Engineers, NO Job is Safe. 🫣</a><br/></td></tr>
+<td><a href="https://www.youtube.com/shorts/qpILFFDmDx8">ai replacing software engineering jobs be like 🫣</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/4YREdCNa7Hs"><img width="140px" src="https://i.ytimg.com/vi/4YREdCNa7Hs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4YREdCNa7Hs">love what you do or do what you love 🐉</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/64LyLHmy75c"><img width="140px" src="https://i.ytimg.com/vi/64LyLHmy75c/mqdefault.jpg"></a></td>
