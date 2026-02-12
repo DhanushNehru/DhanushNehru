@@ -75,7 +75,7 @@
 - [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://dhanushnehru.medium.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
 - [How to Shield Your Data in the Cloud](https://dhanushnehru.medium.com/how-to-shield-your-data-in-the-cloud-e1d2676a46bd?source=rss-8b835baaf548------2)
 - [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
-- [When You Choose Cybersecurity as a Career](https://infosecwriteups.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
+- [When You Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
 - [I Built a Fake Server to Watch Hackers Break In. Here’s What Happened.](https://dhanushnehru.medium.com/i-built-a-fake-server-to-watch-hackers-break-in-heres-what-happened-3834148d2957?source=rss-8b835baaf548------2)
 - [Code is a Liability, Not an Asset](https://medium.com/technology-hits/code-is-a-liability-not-an-asset-1f2a94043c91?source=rss-8b835baaf548------2)
 - [Your Email Inbox is Lying to You &lpar;And How to Catch It Red-Handed&rpar;](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss-8b835baaf548------2)
