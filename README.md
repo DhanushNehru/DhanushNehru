@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/maM-IAbuypI"><img width="140px" src="https://i.ytimg.com/vi/maM-IAbuypI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/BARtBMXMvKU"><img width="140px" src="https://i.ytimg.com/vi/BARtBMXMvKU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/BARtBMXMvKU">When someone asks me to teach Hacking 👾 #cybersecurity</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/maM-IAbuypI"><img width="140px" src="https://i.ytimg.com/vi/maM-IAbuypI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/maM-IAbuypI">My Cat Just Became a Honeypot and Caught a Script Kiddie 😹</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/iFiEq2LuHWQ"><img width="140px" src="https://i.ytimg.com/vi/iFiEq2LuHWQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/iFiEq2LuHWQ">Every developer&#39;s dark secret exposed 💀 #epsteinfiles</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/JnkqZjLkahA">Data Encryption Easily Explained #cybersecurity #encryption #dhanushnehru</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/qpILFFDmDx8"><img width="140px" src="https://i.ytimg.com/vi/qpILFFDmDx8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/qpILFFDmDx8">ai replacing software engineering jobs be like 🫣</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/4YREdCNa7Hs"><img width="140px" src="https://i.ytimg.com/vi/4YREdCNa7Hs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/4YREdCNa7Hs">love what you do or do what you love 🐉</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
