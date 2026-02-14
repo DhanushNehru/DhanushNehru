@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/ggBsWBhfSVk"><img width="140px" src="https://i.ytimg.com/vi/ggBsWBhfSVk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/GfAeNx-slsk"><img width="140px" src="https://i.ytimg.com/vi/GfAeNx-slsk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/GfAeNx-slsk">Most underrated profession in the society 🔍</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/ggBsWBhfSVk"><img width="140px" src="https://i.ytimg.com/vi/ggBsWBhfSVk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ggBsWBhfSVk">Every Cybersecurity Professional Heard This Once 😤</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/BARtBMXMvKU"><img width="140px" src="https://i.ytimg.com/vi/BARtBMXMvKU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BARtBMXMvKU">When someone asks me to teach Hacking 👾 #cybersecurity</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/maM-IAbuypI">My Cat Just Became a Honeypot and Caught a Script Kiddie 😹</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/iFiEq2LuHWQ"><img width="140px" src="https://i.ytimg.com/vi/iFiEq2LuHWQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/iFiEq2LuHWQ">Every developer&#39;s dark secret exposed 💀 #epsteinfiles</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/JnkqZjLkahA"><img width="140px" src="https://i.ytimg.com/vi/JnkqZjLkahA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/JnkqZjLkahA">Data Encryption Easily Explained #cybersecurity #encryption #dhanushnehru</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
