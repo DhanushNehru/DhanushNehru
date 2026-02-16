@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/lZKB7duht0w"><img width="140px" src="https://i.ytimg.com/vi/lZKB7duht0w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/0Jvx56vz6Bs"><img width="140px" src="https://i.ytimg.com/vi/0Jvx56vz6Bs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/0Jvx56vz6Bs">You are Iron Man but The Enemy is a Hacker</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/lZKB7duht0w"><img width="140px" src="https://i.ytimg.com/vi/lZKB7duht0w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lZKB7duht0w">Working in a MNC Vs Startup</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/nsN_bLsbhAQ"><img width="140px" src="https://i.ytimg.com/vi/nsN_bLsbhAQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/nsN_bLsbhAQ">How to Become a Better Full Stack Developer</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/6lZzLM4VqH4">This Is Why Companies Get Hacked 💀</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/GfAeNx-slsk"><img width="140px" src="https://i.ytimg.com/vi/GfAeNx-slsk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/GfAeNx-slsk">Most underrated profession in the society 🔍</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/ggBsWBhfSVk"><img width="140px" src="https://i.ytimg.com/vi/ggBsWBhfSVk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ggBsWBhfSVk">Every Cybersecurity Professional Heard This Once 😤</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
