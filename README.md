@@ -74,7 +74,7 @@
 - [Why Anthropic’s “Coding is Dead” Pitch is Wrong](https://dhanushnehru.medium.com/why-anthropics-coding-is-dead-pitch-is-wrong-3379bfed08b2?source=rss-8b835baaf548------2)
 - [The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery](https://dhanushnehru.medium.com/the-art-of-coming-back-from-the-dead-a-guide-to-cloud-disaster-recovery-af3ff497b7c4?source=rss-8b835baaf548------2)
 - [The 3 Types of Cloud &lpar;And How Each Can Ruin Your Day&rpar;](https://dhanushnehru.medium.com/the-3-types-of-cloud-and-how-each-can-ruin-your-day-d4676303e831?source=rss-8b835baaf548------2)
-- [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://dhanushnehru.medium.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
+- [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://themalwarefiles.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
 - [How to Shield Your Data in the Cloud](https://dhanushnehru.medium.com/how-to-shield-your-data-in-the-cloud-e1d2676a46bd?source=rss-8b835baaf548------2)
 - [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
 - [When You Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
