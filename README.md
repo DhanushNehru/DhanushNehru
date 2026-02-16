@@ -70,6 +70,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://dhanushnehru.medium.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
+- [Why Anthropic’s “Coding is Dead” Pitch is Wrong](https://dhanushnehru.medium.com/why-anthropics-coding-is-dead-pitch-is-wrong-3379bfed08b2?source=rss-8b835baaf548------2)
 - [The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery](https://dhanushnehru.medium.com/the-art-of-coming-back-from-the-dead-a-guide-to-cloud-disaster-recovery-af3ff497b7c4?source=rss-8b835baaf548------2)
 - [The 3 Types of Cloud &lpar;And How Each Can Ruin Your Day&rpar;](https://dhanushnehru.medium.com/the-3-types-of-cloud-and-how-each-can-ruin-your-day-d4676303e831?source=rss-8b835baaf548------2)
 - [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://dhanushnehru.medium.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
@@ -78,8 +80,6 @@
 - [When You Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
 - [I Built a Fake Server to Watch Hackers Break In. Here’s What Happened.](https://dhanushnehru.medium.com/i-built-a-fake-server-to-watch-hackers-break-in-heres-what-happened-3834148d2957?source=rss-8b835baaf548------2)
 - [Code is a Liability, Not an Asset](https://medium.com/technology-hits/code-is-a-liability-not-an-asset-1f2a94043c91?source=rss-8b835baaf548------2)
-- [Your Email Inbox is Lying to You &lpar;And How to Catch It Red-Handed&rpar;](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss-8b835baaf548------2)
-- [Django for Beginners](https://medium.com/top-python-libraries/django-for-beginners-d3047acb4be8?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
