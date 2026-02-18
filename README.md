@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://dhanushnehru.medium.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
+- [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
 - [Why Anthropic’s “Coding is Dead” Pitch is Wrong](https://dhanushnehru.medium.com/why-anthropics-coding-is-dead-pitch-is-wrong-3379bfed08b2?source=rss-8b835baaf548------2)
 - [The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery](https://dhanushnehru.medium.com/the-art-of-coming-back-from-the-dead-a-guide-to-cloud-disaster-recovery-af3ff497b7c4?source=rss-8b835baaf548------2)
 - [The 3 Types of Cloud &lpar;And How Each Can Ruin Your Day&rpar;](https://dhanushnehru.medium.com/the-3-types-of-cloud-and-how-each-can-ruin-your-day-d4676303e831?source=rss-8b835baaf548------2)
