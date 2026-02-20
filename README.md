@@ -109,16 +109,16 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/83io2nzFzYQ"><img width="140px" src="https://i.ytimg.com/vi/83io2nzFzYQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/N16YWmTRD3M"><img width="140px" src="https://i.ytimg.com/vi/N16YWmTRD3M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/N16YWmTRD3M">A bad workout is better than a skipped workout</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/83io2nzFzYQ"><img width="140px" src="https://i.ytimg.com/vi/83io2nzFzYQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/83io2nzFzYQ">You Can Hack AI Models</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/WPomp_KbWcw"><img width="140px" src="https://i.ytimg.com/vi/WPomp_KbWcw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/WPomp_KbWcw">Using AI tools for Coding 🧐</a><br/></td></tr>
+<td><a href="https://www.youtube.com/shorts/WPomp_KbWcw">What AI tool do you use for coding ?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/0Jvx56vz6Bs"><img width="140px" src="https://i.ytimg.com/vi/0Jvx56vz6Bs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/0Jvx56vz6Bs">You are Iron Man but The Enemy is a Hacker</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/lZKB7duht0w"><img width="140px" src="https://i.ytimg.com/vi/lZKB7duht0w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lZKB7duht0w">Working in a MNC Vs Startup</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/nsN_bLsbhAQ"><img width="140px" src="https://i.ytimg.com/vi/nsN_bLsbhAQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/nsN_bLsbhAQ">How to Become a Better Full Stack Developer</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
