@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/g7jFfnPESbM"><img width="140px" src="https://i.ytimg.com/vi/g7jFfnPESbM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/eI38u47-Y24"><img width="140px" src="https://i.ytimg.com/vi/eI38u47-Y24/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/eI38u47-Y24">#programmer #codingmemes #tech #developermemes #developerhumor #coding  #programminglife</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/g7jFfnPESbM"><img width="140px" src="https://i.ytimg.com/vi/g7jFfnPESbM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/g7jFfnPESbM">Coding was hard until I found this</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/h1Edf5X8nCw"><img width="140px" src="https://i.ytimg.com/vi/h1Edf5X8nCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/h1Edf5X8nCw">Is Coding Dead ? | Elon Musk 😮</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/3W9QSz2rGaE">Ctrl C + Ctrl V = Productivity unlocked ✓</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/nyhCQe4d0MM"><img width="140px" src="https://i.ytimg.com/vi/nyhCQe4d0MM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/nyhCQe4d0MM">Changing Your Password Be Like ...</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/N16YWmTRD3M"><img width="140px" src="https://i.ytimg.com/vi/N16YWmTRD3M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/N16YWmTRD3M">A bad workout is better than a skipped workout</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
