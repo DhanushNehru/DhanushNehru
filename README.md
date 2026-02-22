@@ -127,27 +127,6 @@
 </picture>
 
 <div align="center">
-  
-### 🏆 GitHub Trophies
-
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhanushNehru&theme=matrix&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Experience,Repositories" alt="GitHub Trophies" />
-</p>
-
-<div>
-  <table align="center">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=DhanushNehru&show_icons=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Dhanush Nehru's Github Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushNehru&theme=github_dark&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&layout=compact" alt="Dhanush Nehru's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushNehru&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
