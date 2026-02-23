@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us](https://dhanushnehru.medium.com/forget-phishing-the-5-silent-ways-hackers-are-weaponizing-ai-against-us-07d5a4088e35?source=rss-8b835baaf548------2)
 - [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
 - [Why Anthropic’s “Coding is Dead” Pitch is Wrong](https://dhanushnehru.medium.com/why-anthropics-coding-is-dead-pitch-is-wrong-3379bfed08b2?source=rss-8b835baaf548------2)
 - [The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery](https://dhanushnehru.medium.com/the-art-of-coming-back-from-the-dead-a-guide-to-cloud-disaster-recovery-af3ff497b7c4?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
 - [When You Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
 - [I Built a Fake Server to Watch Hackers Break In. Here’s What Happened.](https://dhanushnehru.medium.com/i-built-a-fake-server-to-watch-hackers-break-in-heres-what-happened-3834148d2957?source=rss-8b835baaf548------2)
-- [Code is a Liability, Not an Asset](https://medium.com/technology-hits/code-is-a-liability-not-an-asset-1f2a94043c91?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
