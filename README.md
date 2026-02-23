@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/0FzijVd_M3E"><img width="140px" src="https://i.ytimg.com/vi/0FzijVd_M3E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/8hhT3w1ctW0"><img width="140px" src="https://i.ytimg.com/vi/8hhT3w1ctW0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/8hhT3w1ctW0">Is software engineering dead? #tech</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/0FzijVd_M3E"><img width="140px" src="https://i.ytimg.com/vi/0FzijVd_M3E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/0FzijVd_M3E">Sam Altman just compared YOU to AI… and you lost 💀</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/eI38u47-Y24"><img width="140px" src="https://i.ytimg.com/vi/eI38u47-Y24/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/eI38u47-Y24">#programmer #codingmemes #tech #developermemes #developerhumor #coding  #programminglife</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/g7jFfnPESbM">Coding was hard until I found this</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/h1Edf5X8nCw"><img width="140px" src="https://i.ytimg.com/vi/h1Edf5X8nCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/h1Edf5X8nCw">Is Coding Dead ? | Elon Musk 😮</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/3W9QSz2rGaE"><img width="140px" src="https://i.ytimg.com/vi/3W9QSz2rGaE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/3W9QSz2rGaE">Ctrl C + Ctrl V = Productivity unlocked ✓</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
