@@ -109,16 +109,16 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/O3APQIKhC_U"><img width="140px" src="https://i.ytimg.com/vi/O3APQIKhC_U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/O3APQIKhC_U">Is LeetCode DEAD?</a><br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/dQK3A-7bo3g"><img width="140px" src="https://i.ytimg.com/vi/dQK3A-7bo3g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/dQK3A-7bo3g">AI is taking away everything</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/O3APQIKhC_U"><img width="140px" src="https://i.ytimg.com/vi/O3APQIKhC_U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/O3APQIKhC_U">LEETCODE IS DEAD?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/g9BdlVj7Tb0"><img width="140px" src="https://i.ytimg.com/vi/g9BdlVj7Tb0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/g9BdlVj7Tb0">Claude Al just wiped out over $15 BILLION cybersecurity stocks</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/mudLSFr-DNg"><img width="140px" src="https://i.ytimg.com/vi/mudLSFr-DNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/mudLSFr-DNg">learning cybersecurity be like 👇🏻</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/8hhT3w1ctW0"><img width="140px" src="https://i.ytimg.com/vi/8hhT3w1ctW0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8hhT3w1ctW0">Is software engineering dead? #tech</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/0FzijVd_M3E"><img width="140px" src="https://i.ytimg.com/vi/0FzijVd_M3E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/0FzijVd_M3E">Sam Altman just compared YOU to AI… and you lost 💀</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
