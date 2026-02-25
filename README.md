@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Hacking Networks. Start Hacking Models: A Pentester’s Guide to the Top 10 ML Vulnerabilities](https://dhanushnehru.medium.com/stop-hacking-networks-start-hacking-models-a-pentesters-guide-to-the-top-10-ml-vulnerabilities-b9d978c4a608?source=rss-8b835baaf548------2)
 - [Stop Fearing AI: How to Turn Cybersecurity’s Biggest Threat into Your Greatest Weapon](https://dhanushnehru.medium.com/stop-fearing-ai-how-to-turn-cybersecuritys-biggest-threat-into-your-greatest-weapon-1a0807140ebb?source=rss-8b835baaf548------2)
 - [Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us](https://dhanushnehru.medium.com/forget-phishing-the-5-silent-ways-hackers-are-weaponizing-ai-against-us-07d5a4088e35?source=rss-8b835baaf548------2)
 - [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://themalwarefiles.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
 - [How to Shield Your Data in the Cloud](https://dhanushnehru.medium.com/how-to-shield-your-data-in-the-cloud-e1d2676a46bd?source=rss-8b835baaf548------2)
 - [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
-- [When You Choose Cybersecurity as a Career](https://dhanushnehru.medium.com/when-you-choose-cybersecurity-as-a-career-875dcd9d1d47?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
