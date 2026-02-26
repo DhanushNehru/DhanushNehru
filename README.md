@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/6CkmXYelIU0"><img width="140px" src="https://i.ytimg.com/vi/6CkmXYelIU0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/eO1anitPq4g"><img width="140px" src="https://i.ytimg.com/vi/eO1anitPq4g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/eO1anitPq4g">No one knows how AI works 😅</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/6CkmXYelIU0"><img width="140px" src="https://i.ytimg.com/vi/6CkmXYelIU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/6CkmXYelIU0">The Evolution of AI</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/aE7BK2WyeU8"><img width="140px" src="https://i.ytimg.com/vi/aE7BK2WyeU8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/aE7BK2WyeU8">Hacking Mystery In Cybersecurity</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/zLzfXVyCOqQ">Hacking be like ...</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/dQK3A-7bo3g"><img width="140px" src="https://i.ytimg.com/vi/dQK3A-7bo3g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/dQK3A-7bo3g">AI is taking away everything</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/O3APQIKhC_U"><img width="140px" src="https://i.ytimg.com/vi/O3APQIKhC_U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/O3APQIKhC_U">Is LeetCode DEAD?</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
