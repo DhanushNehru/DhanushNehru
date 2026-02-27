@@ -109,8 +109,8 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/eO1anitPq4g"><img width="140px" src="https://i.ytimg.com/vi/eO1anitPq4g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/eO1anitPq4g">No one knows how AI works 😅</a><br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/ZhNyGHdTEHM"><img width="140px" src="https://i.ytimg.com/vi/ZhNyGHdTEHM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ZhNyGHdTEHM">no one knows why ai works</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/6CkmXYelIU0"><img width="140px" src="https://i.ytimg.com/vi/6CkmXYelIU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/6CkmXYelIU0">The Evolution of AI</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/aE7BK2WyeU8"><img width="140px" src="https://i.ytimg.com/vi/aE7BK2WyeU8/mqdefault.jpg"></a></td>
