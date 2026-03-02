@@ -70,6 +70,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Terrifying Truth About AI: Even Its Creators Don’t Know How It Works](https://dhanushnehru.medium.com/the-terrifying-truth-about-ai-even-its-creators-dont-know-how-it-works-e4dbac8b7aa4?source=rss-8b835baaf548------2)
+- [Don’t Become a DevOps Engineer in 2026!](https://dhanushnehru.medium.com/dont-become-a-devops-engineer-in-2026-f2e94541e700?source=rss-8b835baaf548------2)
 - [Stop Hacking Networks. Start Hacking Models: A Pentester’s Guide to the Top 10 ML Vulnerabilities](https://dhanushnehru.medium.com/stop-hacking-networks-start-hacking-models-a-pentesters-guide-to-the-top-10-ml-vulnerabilities-b9d978c4a608?source=rss-8b835baaf548------2)
 - [Stop Fearing AI: How to Turn Cybersecurity’s Biggest Threat into Your Greatest Weapon](https://dhanushnehru.medium.com/stop-fearing-ai-how-to-turn-cybersecuritys-biggest-threat-into-your-greatest-weapon-1a0807140ebb?source=rss-8b835baaf548------2)
 - [Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us](https://dhanushnehru.medium.com/forget-phishing-the-5-silent-ways-hackers-are-weaponizing-ai-against-us-07d5a4088e35?source=rss-8b835baaf548------2)
@@ -78,8 +80,6 @@
 - [The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery](https://dhanushnehru.medium.com/the-art-of-coming-back-from-the-dead-a-guide-to-cloud-disaster-recovery-af3ff497b7c4?source=rss-8b835baaf548------2)
 - [The 3 Types of Cloud &lpar;And How Each Can Ruin Your Day&rpar;](https://dhanushnehru.medium.com/the-3-types-of-cloud-and-how-each-can-ruin-your-day-d4676303e831?source=rss-8b835baaf548------2)
 - [Why Ransomware is the Crime of the Century &lpar;The $4 Billion Pop-Up&rpar;](https://themalwarefiles.com/why-ransomware-is-the-crime-of-the-century-the-4-billion-pop-up-be9edd4916f0?source=rss-8b835baaf548------2)
-- [How to Shield Your Data in the Cloud](https://dhanushnehru.medium.com/how-to-shield-your-data-in-the-cloud-e1d2676a46bd?source=rss-8b835baaf548------2)
-- [Why Your Linux Anti-Forensics Methods Are Failing &lpar;And How to Fix It&rpar;](https://dhanushnehru.medium.com/why-your-linux-anti-forensics-methods-are-failing-and-how-to-fix-it-d9904f3fcb10?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
