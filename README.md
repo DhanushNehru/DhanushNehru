@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/gcFMotQARus"><img width="140px" src="https://i.ytimg.com/vi/gcFMotQARus/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/qHI5MKoNs8k"><img width="140px" src="https://i.ytimg.com/vi/qHI5MKoNs8k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/qHI5MKoNs8k">ai will replace humans or humans will destroy humans #worldwar3</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/gcFMotQARus"><img width="140px" src="https://i.ytimg.com/vi/gcFMotQARus/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gcFMotQARus">life of a cybersecurity engineer when a security issue occurs</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/ZhNyGHdTEHM"><img width="140px" src="https://i.ytimg.com/vi/ZhNyGHdTEHM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZhNyGHdTEHM">no one knows why ai works</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/6CkmXYelIU0">The Evolution of AI</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/aE7BK2WyeU8"><img width="140px" src="https://i.ytimg.com/vi/aE7BK2WyeU8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/aE7BK2WyeU8">Hacking Mystery In Cybersecurity</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/zLzfXVyCOqQ"><img width="140px" src="https://i.ytimg.com/vi/zLzfXVyCOqQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/zLzfXVyCOqQ">Hacking be like ...</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
