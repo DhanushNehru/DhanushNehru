@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/4z7Ck8R8EqQ"><img width="140px" src="https://i.ytimg.com/vi/4z7Ck8R8EqQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/eu2uYFT9ffk"><img width="140px" src="https://i.ytimg.com/vi/eu2uYFT9ffk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/eu2uYFT9ffk">Claude Code Deleted PROD Database Accidentally ☠️</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/4z7Ck8R8EqQ"><img width="140px" src="https://i.ytimg.com/vi/4z7Ck8R8EqQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4z7Ck8R8EqQ">AI uses our Drinking Water 🤯</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Q_q3mDp6TFg"><img width="140px" src="https://i.ytimg.com/vi/Q_q3mDp6TFg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Q_q3mDp6TFg">job market is cooked</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/DdwbEfL_-tc">developers are cooked</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/ebNMlXYJh30"><img width="140px" src="https://i.ytimg.com/vi/ebNMlXYJh30/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ebNMlXYJh30">Building Claude Opus 5.0</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Nb4J_zmePPw"><img width="140px" src="https://i.ytimg.com/vi/Nb4J_zmePPw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Nb4J_zmePPw">How to get free AI credits? &lpar; comment below &rpar;</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
