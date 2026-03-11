@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [More Than Half the Internet Is Not Human Anymore. Are You Prepared?](https://dhanushnehru.medium.com/more-than-half-the-internet-is-not-human-anymore-are-you-prepared-a31853eb5280?source=rss-8b835baaf548------2)
 - [The 25-Year-Old Flaw That Brought Down the U.S. Government](https://dhanushnehru.medium.com/the-25-year-old-flaw-that-brought-down-the-u-s-government-bee20f30a253?source=rss-8b835baaf548------2)
 - [The Terrifying Truth About Brute Force Attacks and Corporate Security](https://dhanushnehru.medium.com/the-terrifying-truth-about-brute-force-attacks-and-corporate-security-653cae401f22?source=rss-8b835baaf548------2)
 - [Your Bank’s AI Can Be Fooled By a Single Pixel Change. Here’s How.](https://dhanushnehru.medium.com/your-banks-ai-can-be-fooled-by-a-single-pixel-change-here-s-how-1f9f1d0cb90e?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Stop Fearing AI: How to Turn Cybersecurity’s Biggest Threat into Your Greatest Weapon](https://dhanushnehru.medium.com/stop-fearing-ai-how-to-turn-cybersecuritys-biggest-threat-into-your-greatest-weapon-1a0807140ebb?source=rss-8b835baaf548------2)
 - [Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us](https://dhanushnehru.medium.com/forget-phishing-the-5-silent-ways-hackers-are-weaponizing-ai-against-us-07d5a4088e35?source=rss-8b835baaf548------2)
 - [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
-- [Why Anthropic’s “Coding is Dead” Pitch is Wrong](https://dhanushnehru.medium.com/why-anthropics-coding-is-dead-pitch-is-wrong-3379bfed08b2?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
