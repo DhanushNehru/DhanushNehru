@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/z29A7tLl1rg"><img width="140px" src="https://i.ytimg.com/vi/z29A7tLl1rg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/TDZl4Aq2oaQ"><img width="140px" src="https://i.ytimg.com/vi/TDZl4Aq2oaQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/TDZl4Aq2oaQ">Huawei have started to use Iron Man Technology</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/z29A7tLl1rg"><img width="140px" src="https://i.ytimg.com/vi/z29A7tLl1rg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/z29A7tLl1rg">Life without LINUX 🐧</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/eu2uYFT9ffk"><img width="140px" src="https://i.ytimg.com/vi/eu2uYFT9ffk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/eu2uYFT9ffk">Claude Code Deleted PROD Database Accidentally ☠️</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/4z7Ck8R8EqQ">AI uses our Drinking Water 🤯</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Q_q3mDp6TFg"><img width="140px" src="https://i.ytimg.com/vi/Q_q3mDp6TFg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Q_q3mDp6TFg">job market is cooked</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/DdwbEfL_-tc"><img width="140px" src="https://i.ytimg.com/vi/DdwbEfL_-tc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/DdwbEfL_-tc">developers are cooked</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
