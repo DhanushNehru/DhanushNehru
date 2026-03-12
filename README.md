@@ -126,6 +126,22 @@
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhanushNehru&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhanushNehru&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhanushNehru&theme=github_dark" width="32%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushNehru&theme=tokyonight&hide_border=true&font=JetBrains+Mono" width="65%" />
+</div>
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+</picture>
+
 ![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushNehru&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 <picture>
