@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/L23i8zl9qcE"><img width="140px" src="https://i.ytimg.com/vi/L23i8zl9qcE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/U4LFf5YHXXY"><img width="140px" src="https://i.ytimg.com/vi/U4LFf5YHXXY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/U4LFf5YHXXY">Gas Station Robot That Refuels Cars Automatically | Future of Fueling</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/L23i8zl9qcE"><img width="140px" src="https://i.ytimg.com/vi/L23i8zl9qcE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/L23i8zl9qcE">Humanoid Robot moves better than 99% Humans</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/hc3H3ytV-os"><img width="140px" src="https://i.ytimg.com/vi/hc3H3ytV-os/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/hc3H3ytV-os">Evolution of AI</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/sfIWSLmHbps">Google Maps Biggest Update</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/TDZl4Aq2oaQ"><img width="140px" src="https://i.ytimg.com/vi/TDZl4Aq2oaQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TDZl4Aq2oaQ">Huawei have started to use Iron Man Technology</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/z29A7tLl1rg"><img width="140px" src="https://i.ytimg.com/vi/z29A7tLl1rg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/z29A7tLl1rg">Life without LINUX 🐧</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
