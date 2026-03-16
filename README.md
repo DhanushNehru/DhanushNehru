@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [AWS Never Stops Shipping And This One Is Worth Your Attention](https://towardsaws.com/aws-never-stops-shipping-and-this-one-is-worth-your-attention-99f4ebd24dc0?source=rss-8b835baaf548------2)
 - [More Than Half the Internet Is Not Human Anymore. Are You Prepared?](https://dhanushnehru.medium.com/more-than-half-the-internet-is-not-human-anymore-are-you-prepared-a31853eb5280?source=rss-8b835baaf548------2)
 - [The 25-Year-Old Flaw That Brought Down the U.S. Government](https://dhanushnehru.medium.com/the-25-year-old-flaw-that-brought-down-the-u-s-government-bee20f30a253?source=rss-8b835baaf548------2)
 - [The Terrifying Truth About Brute Force Attacks and Corporate Security](https://dhanushnehru.medium.com/the-terrifying-truth-about-brute-force-attacks-and-corporate-security-653cae401f22?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Stop Hacking Networks. Start Hacking Models: A Pentester’s Guide to the Top 10 ML Vulnerabilities](https://dhanushnehru.medium.com/stop-hacking-networks-start-hacking-models-a-pentesters-guide-to-the-top-10-ml-vulnerabilities-b9d978c4a608?source=rss-8b835baaf548------2)
 - [Stop Fearing AI: How to Turn Cybersecurity’s Biggest Threat into Your Greatest Weapon](https://dhanushnehru.medium.com/stop-fearing-ai-how-to-turn-cybersecuritys-biggest-threat-into-your-greatest-weapon-1a0807140ebb?source=rss-8b835baaf548------2)
 - [Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us](https://dhanushnehru.medium.com/forget-phishing-the-5-silent-ways-hackers-are-weaponizing-ai-against-us-07d5a4088e35?source=rss-8b835baaf548------2)
-- [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
