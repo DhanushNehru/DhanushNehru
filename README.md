@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Your Network Security is Still Failing](https://dhanushnehru.medium.com/why-your-network-security-is-still-failing-608abf1c1298?source=rss-8b835baaf548------2)
 - [Exam Review: Certified Social Engineering Defense Practitioner &lpar;CSEDP&rpar;](https://infosecwriteups.com/exam-review-certified-social-engineering-defense-practitioner-csedp-73e4ed1041e6?source=rss-8b835baaf548------2)
 - [AWS Never Stops Shipping And This One Is Worth Your Attention](https://towardsaws.com/aws-never-stops-shipping-and-this-one-is-worth-your-attention-99f4ebd24dc0?source=rss-8b835baaf548------2)
 - [More Than Half the Internet Is Not Human Anymore. Are You Prepared?](https://dhanushnehru.medium.com/more-than-half-the-internet-is-not-human-anymore-are-you-prepared-a31853eb5280?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [The Terrifying Truth About AI: Even Its Creators Don’t Know How It Works](https://dhanushnehru.medium.com/the-terrifying-truth-about-ai-even-its-creators-dont-know-how-it-works-e4dbac8b7aa4?source=rss-8b835baaf548------2)
 - [Don’t Become a DevOps Engineer in 2026!](https://dhanushnehru.medium.com/dont-become-a-devops-engineer-in-2026-f2e94541e700?source=rss-8b835baaf548------2)
 - [Stop Hacking Networks. Start Hacking Models: A Pentester’s Guide to the Top 10 ML Vulnerabilities](https://dhanushnehru.medium.com/stop-hacking-networks-start-hacking-models-a-pentesters-guide-to-the-top-10-ml-vulnerabilities-b9d978c4a608?source=rss-8b835baaf548------2)
-- [Stop Fearing AI: How to Turn Cybersecurity’s Biggest Threat into Your Greatest Weapon](https://dhanushnehru.medium.com/stop-fearing-ai-how-to-turn-cybersecuritys-biggest-threat-into-your-greatest-weapon-1a0807140ebb?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
