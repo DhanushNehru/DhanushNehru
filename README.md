@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [“Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup](https://infosecwriteups.com/compliant-in-4-hours-the-fake-compliance-scandal-that-should-terrify-every-startup-40307cc0aaf8?source=rss-8b835baaf548------2)
 - [If AI Can Write Code, Why Are Software Engineers Still Here?](https://dhanushnehru.medium.com/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
 - [Why Your Network Security is Still Failing](https://dhanushnehru.medium.com/why-your-network-security-is-still-failing-608abf1c1298?source=rss-8b835baaf548------2)
 - [Exam Review: Certified Social Engineering Defense Practitioner &lpar;CSEDP&rpar;](https://infosecwriteups.com/exam-review-certified-social-engineering-defense-practitioner-csedp-73e4ed1041e6?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [The Terrifying Truth About Brute Force Attacks and Corporate Security](https://dhanushnehru.medium.com/the-terrifying-truth-about-brute-force-attacks-and-corporate-security-653cae401f22?source=rss-8b835baaf548------2)
 - [Your Bank’s AI Can Be Fooled By a Single Pixel Change. Here’s How.](https://dhanushnehru.medium.com/your-banks-ai-can-be-fooled-by-a-single-pixel-change-here-s-how-1f9f1d0cb90e?source=rss-8b835baaf548------2)
 - [The Terrifying Truth About AI: Even Its Creators Don’t Know How It Works](https://dhanushnehru.medium.com/the-terrifying-truth-about-ai-even-its-creators-dont-know-how-it-works-e4dbac8b7aa4?source=rss-8b835baaf548------2)
-- [Don’t Become a DevOps Engineer in 2026!](https://dhanushnehru.medium.com/dont-become-a-devops-engineer-in-2026-f2e94541e700?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
