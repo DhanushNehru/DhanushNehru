@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://dhanushnehru.medium.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
 - [“Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup](https://infosecwriteups.com/compliant-in-4-hours-the-fake-compliance-scandal-that-should-terrify-every-startup-40307cc0aaf8?source=rss-8b835baaf548------2)
 - [If AI Can Write Code, Why Are Software Engineers Still Here?](https://dhanushnehru.medium.com/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
 - [Why Your Network Security is Still Failing](https://dhanushnehru.medium.com/why-your-network-security-is-still-failing-608abf1c1298?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [The 25-Year-Old Flaw That Brought Down the U.S. Government](https://dhanushnehru.medium.com/the-25-year-old-flaw-that-brought-down-the-u-s-government-bee20f30a253?source=rss-8b835baaf548------2)
 - [The Terrifying Truth About Brute Force Attacks and Corporate Security](https://dhanushnehru.medium.com/the-terrifying-truth-about-brute-force-attacks-and-corporate-security-653cae401f22?source=rss-8b835baaf548------2)
 - [Your Bank’s AI Can Be Fooled By a Single Pixel Change. Here’s How.](https://dhanushnehru.medium.com/your-banks-ai-can-be-fooled-by-a-single-pixel-change-here-s-how-1f9f1d0cb90e?source=rss-8b835baaf548------2)
-- [The Terrifying Truth About AI: Even Its Creators Don’t Know How It Works](https://dhanushnehru.medium.com/the-terrifying-truth-about-ai-even-its-creators-dont-know-how-it-works-e4dbac8b7aa4?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
