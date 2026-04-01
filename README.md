@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
 - [Ultimate GitHub Repository List to Learn Cybersecurity for Free](https://levelup.gitconnected.com/ultimate-github-repository-list-to-learn-cybersecurity-for-free-b12d1019c602?source=rss-8b835baaf548------2)
 - [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
 - [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://towardsaws.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Exam Review: Certified Social Engineering Defense Practitioner &lpar;CSEDP&rpar;](https://infosecwriteups.com/exam-review-certified-social-engineering-defense-practitioner-csedp-73e4ed1041e6?source=rss-8b835baaf548------2)
 - [AWS Never Stops Shipping And This One Is Worth Your Attention](https://towardsaws.com/aws-never-stops-shipping-and-this-one-is-worth-your-attention-99f4ebd24dc0?source=rss-8b835baaf548------2)
 - [More Than Half the Internet Is Not Human Anymore. Are You Prepared?](https://dhanushnehru.medium.com/more-than-half-the-internet-is-not-human-anymore-are-you-prepared-a31853eb5280?source=rss-8b835baaf548------2)
-- [The 25-Year-Old Flaw That Brought Down the U.S. Government](https://dhanushnehru.medium.com/the-25-year-old-flaw-that-brought-down-the-u-s-government-bee20f30a253?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
