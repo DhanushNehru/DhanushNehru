@@ -70,6 +70,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://dhanushnehru.medium.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
+- [Oracle Just Laid Off 30,000 People With a 6 AM Email.](https://medium.com/developersglobal/oracle-just-laid-off-30-000-people-with-a-6-am-email-52587dc69f82?source=rss-8b835baaf548------2)
 - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
 - [Ultimate GitHub Repository List to Learn Cybersecurity for Free](https://levelup.gitconnected.com/ultimate-github-repository-list-to-learn-cybersecurity-for-free-b12d1019c602?source=rss-8b835baaf548------2)
 - [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
@@ -78,8 +80,6 @@
 - [If AI Can Write Code, Why Are Software Engineers Still Here?](https://dhanushnehru.medium.com/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
 - [Why Your Network Security is Still Failing](https://dhanushnehru.medium.com/why-your-network-security-is-still-failing-608abf1c1298?source=rss-8b835baaf548------2)
 - [Exam Review: Certified Social Engineering Defense Practitioner &lpar;CSEDP&rpar;](https://infosecwriteups.com/exam-review-certified-social-engineering-defense-practitioner-csedp-73e4ed1041e6?source=rss-8b835baaf548------2)
-- [AWS Never Stops Shipping And This One Is Worth Your Attention](https://towardsaws.com/aws-never-stops-shipping-and-this-one-is-worth-your-attention-99f4ebd24dc0?source=rss-8b835baaf548------2)
-- [More Than Half the Internet Is Not Human Anymore. Are You Prepared?](https://dhanushnehru.medium.com/more-than-half-the-internet-is-not-human-anymore-are-you-prepared-a31853eb5280?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
