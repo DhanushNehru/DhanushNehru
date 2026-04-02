@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://dhanushnehru.medium.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
+- [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://generativeai.pub/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
 - [Oracle Just Laid Off 30,000 People With a 6 AM Email.](https://medium.com/developersglobal/oracle-just-laid-off-30-000-people-with-a-6-am-email-52587dc69f82?source=rss-8b835baaf548------2)
 - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
 - [Ultimate GitHub Repository List to Learn Cybersecurity for Free](https://levelup.gitconnected.com/ultimate-github-repository-list-to-learn-cybersecurity-for-free-b12d1019c602?source=rss-8b835baaf548------2)
