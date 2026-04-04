@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/2cgSzimviv4"><img width="140px" src="https://i.ytimg.com/vi/2cgSzimviv4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/fQfsAFi088E"><img width="140px" src="https://i.ytimg.com/vi/fQfsAFi088E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/fQfsAFi088E">CSS is DEAD</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/2cgSzimviv4"><img width="140px" src="https://i.ytimg.com/vi/2cgSzimviv4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/2cgSzimviv4">A.l. is getting savage</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/DJ_l2ocSGwQ"><img width="140px" src="https://i.ytimg.com/vi/DJ_l2ocSGwQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/DJ_l2ocSGwQ">my cybersecurity journey</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/z816apvoH7I">when you finally fixed one bug ... #developerhumor #spiderman</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/PDlNjALW6R4"><img width="140px" src="https://i.ytimg.com/vi/PDlNjALW6R4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/PDlNjALW6R4">Developer Memes #spiderman</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/F9zdm-UasQo"><img width="140px" src="https://i.ytimg.com/vi/F9zdm-UasQo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/F9zdm-UasQo">Have you ever played this game? 🎮 | SUPER MICHAEL JACKSON 🍄 #michaeljackson #dhanushnehru</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
