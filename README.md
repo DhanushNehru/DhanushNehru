@@ -70,7 +70,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [I Built a Security Tool to Stop npm Supply Chain Attacks](https://infosecwriteups.com/i-built-a-security-tool-to-stop-npm-supply-chain-attacks-df1fef31569c?source=rss-8b835baaf548------2)
+- [Why Reading 100 Books a Year is Ruining Your Productivity](https://dhanushnehru.medium.com/why-reading-100-books-a-year-is-ruining-your-productivity-2894c4b10925?source=rss-8b835baaf548------2)
+- [I Built a Security Tool to Stop npm Supply Chain Attacks](https://levelup.gitconnected.com/i-built-a-security-tool-to-stop-npm-supply-chain-attacks-df1fef31569c?source=rss-8b835baaf548------2)
 - [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://dhanushnehru.medium.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
 - [Oracle Just Laid Off 30,000 People With a 6 AM Email.](https://medium.com/developersglobal/oracle-just-laid-off-30-000-people-with-a-6-am-email-52587dc69f82?source=rss-8b835baaf548------2)
 - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://towardsaws.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
 - [“Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup](https://infosecwriteups.com/compliant-in-4-hours-the-fake-compliance-scandal-that-should-terrify-every-startup-40307cc0aaf8?source=rss-8b835baaf548------2)
 - [If AI Can Write Code, Why Are Software Engineers Still Here?](https://dhanushnehru.medium.com/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
-- [Why Your Network Security is Still Failing](https://dhanushnehru.medium.com/why-your-network-security-is-still-failing-608abf1c1298?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
