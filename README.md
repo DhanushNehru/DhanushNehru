@@ -70,16 +70,16 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://dhanushnehru.medium.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
+- [The 7 Golden Rules of Vulnerability Scanning](https://infosecwriteups.com/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
+- [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://themalwarefiles.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
 - [Why Reading 100 Books a Year is Ruining Your Productivity](https://medium.com/illumination-book-chapters/why-reading-100-books-a-year-is-ruining-your-productivity-2894c4b10925?source=rss-8b835baaf548------2)
 - [I Built a Security Tool to Stop npm Supply Chain Attacks](https://levelup.gitconnected.com/i-built-a-security-tool-to-stop-npm-supply-chain-attacks-df1fef31569c?source=rss-8b835baaf548------2)
-- [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://dhanushnehru.medium.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
+- [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://levelup.gitconnected.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
 - [Oracle Just Laid Off 30,000 People With a 6 AM Email.](https://medium.com/developersglobal/oracle-just-laid-off-30-000-people-with-a-6-am-email-52587dc69f82?source=rss-8b835baaf548------2)
 - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
 - [Ultimate GitHub Repository List to Learn Cybersecurity for Free](https://levelup.gitconnected.com/ultimate-github-repository-list-to-learn-cybersecurity-for-free-b12d1019c602?source=rss-8b835baaf548------2)
 - [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
 - [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://towardsaws.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
-- [“Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup](https://infosecwriteups.com/compliant-in-4-hours-the-fake-compliance-scandal-that-should-terrify-every-startup-40307cc0aaf8?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
