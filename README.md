@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://dhanushnehru.medium.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
 - [Why Reading 100 Books a Year is Ruining Your Productivity](https://medium.com/illumination-book-chapters/why-reading-100-books-a-year-is-ruining-your-productivity-2894c4b10925?source=rss-8b835baaf548------2)
 - [I Built a Security Tool to Stop npm Supply Chain Attacks](https://levelup.gitconnected.com/i-built-a-security-tool-to-stop-npm-supply-chain-attacks-df1fef31569c?source=rss-8b835baaf548------2)
 - [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://dhanushnehru.medium.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
 - [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://towardsaws.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
 - [“Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup](https://infosecwriteups.com/compliant-in-4-hours-the-fake-compliance-scandal-that-should-terrify-every-startup-40307cc0aaf8?source=rss-8b835baaf548------2)
-- [If AI Can Write Code, Why Are Software Engineers Still Here?](https://medium.com/developersglobal/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
