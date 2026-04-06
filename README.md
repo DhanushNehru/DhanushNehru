@@ -79,7 +79,7 @@
 - [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
 - [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://towardsaws.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
 - [“Compliant” in 4 Hours: The Fake Compliance Scandal That Should Terrify Every Startup](https://infosecwriteups.com/compliant-in-4-hours-the-fake-compliance-scandal-that-should-terrify-every-startup-40307cc0aaf8?source=rss-8b835baaf548------2)
-- [If AI Can Write Code, Why Are Software Engineers Still Here?](https://dhanushnehru.medium.com/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
+- [If AI Can Write Code, Why Are Software Engineers Still Here?](https://medium.com/developersglobal/if-ai-can-write-code-why-are-software-engineers-still-here-28dd66098612?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
