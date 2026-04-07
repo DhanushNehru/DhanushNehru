@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Using React Just Because Facebook Created It](https://levelup.gitconnected.com/stop-using-react-just-because-facebook-created-it-1b3e3117ae3a?source=rss-8b835baaf548------2)
 - [The 7 Golden Rules of Vulnerability Scanning](https://osintteam.blog/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
 - [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://themalwarefiles.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
 - [Why Reading 100 Books a Year is Ruining Your Productivity](https://medium.com/illumination-book-chapters/why-reading-100-books-a-year-is-ruining-your-productivity-2894c4b10925?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
 - [Ultimate GitHub Repository List to Learn Cybersecurity for Free](https://levelup.gitconnected.com/ultimate-github-repository-list-to-learn-cybersecurity-for-free-b12d1019c602?source=rss-8b835baaf548------2)
 - [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
-- [How I Shrunk My Docker Images by 95% &lpar;And You Can Too&rpar;](https://towardsaws.com/how-i-shrunk-my-docker-images-by-95-and-you-can-too-54c2151a367e?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
