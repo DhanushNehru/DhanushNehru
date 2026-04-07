@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The 7 Golden Rules of Vulnerability Scanning](https://infosecwriteups.com/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
+- [The 7 Golden Rules of Vulnerability Scanning](https://osintteam.blog/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
 - [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://themalwarefiles.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
 - [Why Reading 100 Books a Year is Ruining Your Productivity](https://medium.com/illumination-book-chapters/why-reading-100-books-a-year-is-ruining-your-productivity-2894c4b10925?source=rss-8b835baaf548------2)
 - [I Built a Security Tool to Stop npm Supply Chain Attacks](https://levelup.gitconnected.com/i-built-a-security-tool-to-stop-npm-supply-chain-attacks-df1fef31569c?source=rss-8b835baaf548------2)
