@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive](https://towardsaws.com/goodbye-s3-sdk-aws-just-turned-every-bucket-into-a-high-speed-hard-drive-66ad8ee74351?source=rss-8b835baaf548------2)
 - [Stop Using React Just Because Facebook Created It](https://levelup.gitconnected.com/stop-using-react-just-because-facebook-created-it-1b3e3117ae3a?source=rss-8b835baaf548------2)
 - [The 7 Golden Rules of Vulnerability Scanning](https://osintteam.blog/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
 - [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://themalwarefiles.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Oracle Just Laid Off 30,000 People With a 6 AM Email.](https://medium.com/developersglobal/oracle-just-laid-off-30-000-people-with-a-6-am-email-52587dc69f82?source=rss-8b835baaf548------2)
 - [The 2-Second Hack: How 100 Million Developers Were Just Targeted on npm](https://infosecwriteups.com/the-2-second-hack-how-100-million-developers-were-just-targeted-on-npm-48d3359b63b7?source=rss-8b835baaf548------2)
 - [Ultimate GitHub Repository List to Learn Cybersecurity for Free](https://levelup.gitconnected.com/ultimate-github-repository-list-to-learn-cybersecurity-for-free-b12d1019c602?source=rss-8b835baaf548------2)
-- [How the Tool Built to Catch Supply Chain Attacks Got Hijacked](https://towardsaws.com/how-the-tool-built-to-catch-supply-chain-attacks-got-hijacked-4387708ee581?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
