@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Your AI Dashboard Just Became a Spy. Here’s What the Grafana Attack Actually Means for You.](https://towardsaws.com/your-ai-dashboard-just-became-a-spy-heres-what-the-grafana-attack-actually-means-for-you-de0cb465f28b?source=rss-8b835baaf548------2)
 - [25+ Linux Environment Variables Every Hacker Knows &lpar;And Most Developers Ignore&rpar;](https://osintteam.blog/25-linux-environment-variables-every-hacker-knows-and-most-developers-ignore-2ea08b9459c8?source=rss-8b835baaf548------2)
 - [Why npm Is the Most Dangerous Place on the Internet Right Now](https://levelup.gitconnected.com/why-npm-is-the-most-dangerous-place-on-the-internet-right-now-cfff0c0bc548?source=rss-8b835baaf548------2)
 - [Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive](https://towardsaws.com/goodbye-s3-sdk-aws-just-turned-every-bucket-into-a-high-speed-hard-drive-66ad8ee74351?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Why Reading 100 Books a Year is Ruining Your Productivity](https://medium.com/illumination-book-chapters/why-reading-100-books-a-year-is-ruining-your-productivity-2894c4b10925?source=rss-8b835baaf548------2)
 - [I Built a Security Tool to Stop npm Supply Chain Attacks](https://levelup.gitconnected.com/i-built-a-security-tool-to-stop-npm-supply-chain-attacks-df1fef31569c?source=rss-8b835baaf548------2)
 - [Anthropic Accidentally Shipped Their Entire Source Code in an npm Package.](https://levelup.gitconnected.com/anthropic-accidentally-shipped-their-entire-source-code-in-an-npm-package-36e5f993c1c2?source=rss-8b835baaf548------2)
-- [Oracle Just Laid Off 30,000 People With a 6 AM Email.](https://medium.com/developersglobal/oracle-just-laid-off-30-000-people-with-a-6-am-email-52587dc69f82?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
