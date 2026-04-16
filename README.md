@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [GPT-5.4-Cyber and the Rise of Trusted AI Access for Cyber Defense](https://generativeai.pub/gpt-5-4-cyber-and-the-rise-of-trusted-ai-access-for-cyber-defense-ba98ba6fcea9?source=rss-8b835baaf548------2)
 - [Piano. Chess.](https://medium.com/illumination/piano-chess-333dd0782884?source=rss-8b835baaf548------2)
 - [Exam Review: Certified Network Security Practitioner &lpar;CNSP&rpar;](https://infosecwriteups.com/exam-review-certified-network-security-practitioner-cnsp-fe8827ed6724?source=rss-8b835baaf548------2)
 - [I Just Hit 1000 Followers on Medium. Here’s Every Honest Thing I Learned.](https://dhanushnehru.medium.com/i-just-hit-1000-followers-on-medium-heres-every-honest-thing-i-learned-3c1bef0a3a7d?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive](https://towardsaws.com/goodbye-s3-sdk-aws-just-turned-every-bucket-into-a-high-speed-hard-drive-66ad8ee74351?source=rss-8b835baaf548------2)
 - [Stop Using React Just Because Facebook Created It](https://levelup.gitconnected.com/stop-using-react-just-because-facebook-created-it-1b3e3117ae3a?source=rss-8b835baaf548------2)
 - [The 7 Golden Rules of Vulnerability Scanning](https://osintteam.blog/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
-- [The No-Nonsense Guide to Cybersecurity Vulnerabilities](https://themalwarefiles.com/the-no-nonsense-guide-to-cybersecurity-vulnerabilities-936ecc7d571e?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
