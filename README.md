@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The AI You’re Using Was Trained on 12,000 Stolen Passwords. Nobody Told You.](https://medium.com/technology-hits/the-ai-youre-using-was-trained-on-12-000-stolen-passwords-nobody-told-you-4eb6e0f006fb?source=rss-8b835baaf548------2)
 - [GPT-5.4-Cyber and the Rise of Trusted AI Access for Cyber Defense](https://generativeai.pub/gpt-5-4-cyber-and-the-rise-of-trusted-ai-access-for-cyber-defense-ba98ba6fcea9?source=rss-8b835baaf548------2)
 - [Piano. Chess.](https://medium.com/illumination/piano-chess-333dd0782884?source=rss-8b835baaf548------2)
 - [Exam Review: Certified Network Security Practitioner &lpar;CNSP&rpar;](https://infosecwriteups.com/exam-review-certified-network-security-practitioner-cnsp-fe8827ed6724?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Why npm Is the Most Dangerous Place on the Internet Right Now](https://levelup.gitconnected.com/why-npm-is-the-most-dangerous-place-on-the-internet-right-now-cfff0c0bc548?source=rss-8b835baaf548------2)
 - [Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive](https://towardsaws.com/goodbye-s3-sdk-aws-just-turned-every-bucket-into-a-high-speed-hard-drive-66ad8ee74351?source=rss-8b835baaf548------2)
 - [Stop Using React Just Because Facebook Created It](https://levelup.gitconnected.com/stop-using-react-just-because-facebook-created-it-1b3e3117ae3a?source=rss-8b835baaf548------2)
-- [The 7 Golden Rules of Vulnerability Scanning](https://osintteam.blog/the-7-golden-rules-of-vulnerability-scanning-a4d24181cc4c?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
