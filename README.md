@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both.](https://dhanushnehru.medium.com/vercel-and-lovable-got-breached-in-the-same-week-your-api-keys-might-be-in-both-6b653dbd2a2f?source=rss-8b835baaf548------2)
+- [Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both.](https://medium.com/beyond-localhost/vercel-and-lovable-got-breached-in-the-same-week-your-api-keys-might-be-in-both-6b653dbd2a2f?source=rss-8b835baaf548------2)
 - [Amazon Just Bet $33 Billion on One AI Company. Here’s What Nobody Is Asking.](https://towardsaws.com/amazon-just-bet-33-billion-on-one-ai-company-heres-what-nobody-is-asking-8b47b02942f8?source=rss-8b835baaf548------2)
 - [Future of Data Analytics: What’s Next After AI &lpar;2026 and Beyond&rpar;](https://levelup.gitconnected.com/future-of-data-analytics-whats-next-after-ai-2026-and-beyond-831650bb9ad1?source=rss-8b835baaf548------2)
 - [The AI You’re Using Was Trained on 12,000 Stolen Passwords. Nobody Told You.](https://medium.com/technology-hits/the-ai-youre-using-was-trained-on-12-000-stolen-passwords-nobody-told-you-4eb6e0f006fb?source=rss-8b835baaf548------2)
