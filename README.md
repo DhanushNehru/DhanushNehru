@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [I Stopped Writing Prompts. Now I Give Claude Skills Instead. It Changed Everything.](https://levelup.gitconnected.com/i-stopped-writing-prompts-now-i-give-claude-skills-instead-it-changed-everything-499d3f95ed66?source=rss-8b835baaf548------2)
 - [Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both.](https://medium.com/beyond-localhost/vercel-and-lovable-got-breached-in-the-same-week-your-api-keys-might-be-in-both-6b653dbd2a2f?source=rss-8b835baaf548------2)
 - [Amazon Just Bet $33 Billion on One AI Company. Here’s What Nobody Is Asking.](https://towardsaws.com/amazon-just-bet-33-billion-on-one-ai-company-heres-what-nobody-is-asking-8b47b02942f8?source=rss-8b835baaf548------2)
 - [Future of Data Analytics: What’s Next After AI &lpar;2026 and Beyond&rpar;](https://levelup.gitconnected.com/future-of-data-analytics-whats-next-after-ai-2026-and-beyond-831650bb9ad1?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Exam Review: Certified Network Security Practitioner &lpar;CNSP&rpar;](https://infosecwriteups.com/exam-review-certified-network-security-practitioner-cnsp-fe8827ed6724?source=rss-8b835baaf548------2)
 - [I Just Hit 1000 Followers on Medium. Here’s Every Honest Thing I Learned.](https://dhanushnehru.medium.com/i-just-hit-1000-followers-on-medium-heres-every-honest-thing-i-learned-3c1bef0a3a7d?source=rss-8b835baaf548------2)
 - [Your AI Dashboard Just Became a Spy. Here’s What the Grafana Attack Actually Means for You.](https://towardsaws.com/your-ai-dashboard-just-became-a-spy-heres-what-the-grafana-attack-actually-means-for-you-de0cb465f28b?source=rss-8b835baaf548------2)
-- [25+ Linux Environment Variables Every Hacker Knows &lpar;And Most Developers Ignore&rpar;](https://osintteam.blog/25-linux-environment-variables-every-hacker-knows-and-most-developers-ignore-2ea08b9459c8?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
