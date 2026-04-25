@@ -109,16 +109,16 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/2cgSzimviv4"><img width="140px" src="https://i.ytimg.com/vi/2cgSzimviv4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/0SM-6FZZoIo"><img width="140px" src="https://i.ytimg.com/vi/0SM-6FZZoIo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/0SM-6FZZoIo">claude ai replacing jobs? are we ready?</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/6cV40plaH3s"><img width="140px" src="https://i.ytimg.com/vi/6cV40plaH3s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/6cV40plaH3s">UI/UX Designers after Claude Design #claude #dhanushnehru</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/2cgSzimviv4"><img width="140px" src="https://i.ytimg.com/vi/2cgSzimviv4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/2cgSzimviv4">A.l. is getting savage</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/DJ_l2ocSGwQ"><img width="140px" src="https://i.ytimg.com/vi/DJ_l2ocSGwQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/DJ_l2ocSGwQ">my cybersecurity journey</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/z816apvoH7I"><img width="140px" src="https://i.ytimg.com/vi/z816apvoH7I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/z816apvoH7I">when you finally fixed one bug ... #developerhumor #spiderman</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/PDlNjALW6R4"><img width="140px" src="https://i.ytimg.com/vi/PDlNjALW6R4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/PDlNjALW6R4">Developer Memes #spiderman</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/F9zdm-UasQo"><img width="140px" src="https://i.ytimg.com/vi/F9zdm-UasQo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/F9zdm-UasQo">Have you ever played this game? 🎮 | SUPER MICHAEL JACKSON 🍄 #michaeljackson #dhanushnehru</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
