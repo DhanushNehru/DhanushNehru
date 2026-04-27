@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Every Developer Uses AI. Almost None of Them Understand How It Actually Works.](https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss-8b835baaf548------2)
 - [Your Password Manager Just Got Hacked. The Bitwarden Supply Chain Attack.](https://infosecwriteups.com/your-password-manager-just-got-hacked-the-bitwarden-supply-chain-attack-e5a83ede7e51?source=rss-8b835baaf548------2)
 - [I Stopped Writing Prompts. Now I Give Claude Skills Instead. It Changed Everything.](https://levelup.gitconnected.com/i-stopped-writing-prompts-now-i-give-claude-skills-instead-it-changed-everything-499d3f95ed66?source=rss-8b835baaf548------2)
 - [Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both.](https://medium.com/beyond-localhost/vercel-and-lovable-got-breached-in-the-same-week-your-api-keys-might-be-in-both-6b653dbd2a2f?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [GPT-5.4-Cyber and the Rise of Trusted AI Access for Cyber Defense](https://generativeai.pub/gpt-5-4-cyber-and-the-rise-of-trusted-ai-access-for-cyber-defense-ba98ba6fcea9?source=rss-8b835baaf548------2)
 - [Piano. Chess.](https://medium.com/illumination/piano-chess-333dd0782884?source=rss-8b835baaf548------2)
 - [Exam Review: Certified Network Security Practitioner &lpar;CNSP&rpar;](https://infosecwriteups.com/exam-review-certified-network-security-practitioner-cnsp-fe8827ed6724?source=rss-8b835baaf548------2)
-- [I Just Hit 1000 Followers on Medium. Here’s Every Honest Thing I Learned.](https://dhanushnehru.medium.com/i-just-hit-1000-followers-on-medium-heres-every-honest-thing-i-learned-3c1bef0a3a7d?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
