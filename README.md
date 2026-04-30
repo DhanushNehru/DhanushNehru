@@ -109,7 +109,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/Vv1tegK5DqE"><img width="140px" src="https://i.ytimg.com/vi/Vv1tegK5DqE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/G_OMXY_vu3E"><img width="140px" src="https://i.ytimg.com/vi/G_OMXY_vu3E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/G_OMXY_vu3E">what happens when AI token costs more than your employee?</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/Vv1tegK5DqE"><img width="140px" src="https://i.ytimg.com/vi/Vv1tegK5DqE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Vv1tegK5DqE">the ai race in the last 5 years</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/TydciFXhgXU"><img width="140px" src="https://i.ytimg.com/vi/TydciFXhgXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TydciFXhgXU">what is your favourite chess piece ♟️</a><br/></td></tr>
@@ -117,8 +119,6 @@
 <td><a href="https://www.youtube.com/shorts/0SM-6FZZoIo">claude ai replacing jobs? are we ready?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/6cV40plaH3s"><img width="140px" src="https://i.ytimg.com/vi/6cV40plaH3s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/6cV40plaH3s">UI/UX Designers after Claude Design #claude #dhanushnehru</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/2cgSzimviv4"><img width="140px" src="https://i.ytimg.com/vi/2cgSzimviv4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/2cgSzimviv4">A.l. is getting savage</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
