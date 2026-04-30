@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [System Prompts vs. User Prompts: The Security Boundary Every AI Developer Gets Wrong](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
 - [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line.](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
 - [Every Developer Uses AI. Almost None of Them Understand How It Actually Works.](https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss-8b835baaf548------2)
 - [Your Password Manager Just Got Hacked. The Bitwarden Supply Chain Attack.](https://infosecwriteups.com/your-password-manager-just-got-hacked-the-bitwarden-supply-chain-attack-e5a83ede7e51?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Future of Data Analytics: What’s Next After AI &lpar;2026 and Beyond&rpar;](https://levelup.gitconnected.com/future-of-data-analytics-whats-next-after-ai-2026-and-beyond-831650bb9ad1?source=rss-8b835baaf548------2)
 - [The AI You’re Using Was Trained on 12,000 Stolen Passwords. Nobody Told You.](https://medium.com/technology-hits/the-ai-youre-using-was-trained-on-12-000-stolen-passwords-nobody-told-you-4eb6e0f006fb?source=rss-8b835baaf548------2)
 - [GPT-5.4-Cyber and the Rise of Trusted AI Access for Cyber Defense](https://generativeai.pub/gpt-5-4-cyber-and-the-rise-of-trusted-ai-access-for-cyber-defense-ba98ba6fcea9?source=rss-8b835baaf548------2)
-- [Piano. Chess.](https://medium.com/illumination/piano-chess-333dd0782884?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
