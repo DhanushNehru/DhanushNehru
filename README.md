@@ -70,7 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [System Prompts vs. User Prompts: The Security Boundary Every AI Developer Gets Wrong](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
+- [System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
 - [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line.](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
 - [Every Developer Uses AI. Almost None of Them Understand How It Actually Works.](https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss-8b835baaf548------2)
 - [Your Password Manager Just Got Hacked. The Bitwarden Supply Chain Attack.](https://infosecwriteups.com/your-password-manager-just-got-hacked-the-bitwarden-supply-chain-attack-e5a83ede7e51?source=rss-8b835baaf548------2)
