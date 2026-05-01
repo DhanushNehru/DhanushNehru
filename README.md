@@ -70,9 +70,9 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
-- [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line.](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
-- [Every Developer Uses AI. Almost None of Them Understand How It Actually Works.](https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss-8b835baaf548------2)
+- [System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong &lpar; Part 3 &rpar;](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
+- [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line. &lpar; Part 2 &rpar;](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
+- [Every Developer Uses AI. Almost None of Them Understand How It Actually Works. &lpar; Part 1 &rpar;](https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss-8b835baaf548------2)
 - [Your Password Manager Just Got Hacked. The Bitwarden Supply Chain Attack.](https://infosecwriteups.com/your-password-manager-just-got-hacked-the-bitwarden-supply-chain-attack-e5a83ede7e51?source=rss-8b835baaf548------2)
 - [I Stopped Writing Prompts. Now I Give Claude Skills Instead. It Changed Everything.](https://levelup.gitconnected.com/i-stopped-writing-prompts-now-i-give-claude-skills-instead-it-changed-everything-499d3f95ed66?source=rss-8b835baaf548------2)
 - [Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both.](https://medium.com/beyond-localhost/vercel-and-lovable-got-breached-in-the-same-week-your-api-keys-might-be-in-both-6b653dbd2a2f?source=rss-8b835baaf548------2)
