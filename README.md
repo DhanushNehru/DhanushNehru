@@ -70,6 +70,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How Hackers Map Your Entire Network in 15 Minutes. A Step-by-Step Breakdown.](https://medium.com/developersglobal/how-hackers-map-your-entire-network-in-15-minutes-a-step-by-step-breakdown-c077fee9dfb0?source=rss-8b835baaf548------2)
 - [5 Prompting Techniques That Turned Me from an AI User into an AI Engineer. &lpar; Part 4 &rpar;](https://medium.com/developersglobal/5-prompting-techniques-that-turned-me-from-an-ai-user-into-an-ai-engineer-4aeff5111beb?source=rss-8b835baaf548------2)
 - [System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong &lpar; Part 3 &rpar;](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
 - [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line. &lpar; Part 2 &rpar;](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
@@ -79,7 +80,6 @@
 - [Vercel and Lovable Got Breached in the Same Week. Your API Keys Might Be in Both.](https://medium.com/beyond-localhost/vercel-and-lovable-got-breached-in-the-same-week-your-api-keys-might-be-in-both-6b653dbd2a2f?source=rss-8b835baaf548------2)
 - [Amazon Just Bet $33 Billion on One AI Company. Here’s What Nobody Is Asking.](https://towardsaws.com/amazon-just-bet-33-billion-on-one-ai-company-heres-what-nobody-is-asking-8b47b02942f8?source=rss-8b835baaf548------2)
 - [Future of Data Analytics: What’s Next After AI &lpar;2026 and Beyond&rpar;](https://levelup.gitconnected.com/future-of-data-analytics-whats-next-after-ai-2026-and-beyond-831650bb9ad1?source=rss-8b835baaf548------2)
-- [The AI You’re Using Was Trained on 12,000 Stolen Passwords. Nobody Told You.](https://medium.com/technology-hits/the-ai-youre-using-was-trained-on-12-000-stolen-passwords-nobody-told-you-4eb6e0f006fb?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
