@@ -47,15 +47,34 @@
   </a>
 </p>
 
-<div align="center" style="margin-top: 20px;">
-  <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://ko-fi.com/dhanushnehru" target="_blank" style="text-decoration: none;">
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
-    </a>
-    <a href="https://www.buymeacoffee.com/dhanushnehru">
-      <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff" height="50" alt="Buy me a book" />
-    </a>
-  </p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://ko-fi.com/dhanushnehru" target="_blank">
+    <img
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      alt="Support me on Ko-fi"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.buymeacoffee.com/dhanushnehru">
+    <img
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff"
+      alt="Buy me a book"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+</tr>
+</table>
+
 </div>
 
 <picture>
