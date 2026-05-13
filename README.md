@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Rewriting Your Dockerfiles: The Truth About the NGINX Deprecation](https://medium.com/developersglobal/stop-rewriting-your-dockerfiles-the-truth-about-the-nginx-deprecation-5a0f83e21854?source=rss-8b835baaf548------2)
 - [The Ultimate DevOps Glossary: 108 Concepts Every Engineer Must Master](https://towardsaws.com/the-ultimate-devops-glossary-108-concepts-every-engineer-must-master-a4253f41b2da?source=rss-8b835baaf548------2)
 - [How Hackers Learn Everything About Your Company Before They Even Touch Your Network.](https://osintteam.blog/how-hackers-learn-everything-about-your-company-before-they-even-touch-your-network-ff96f3ce740c?source=rss-8b835baaf548------2)
 - [I Completed Anthropic’s Agent Skills Course. Here’s Everything I Learned &lpar;And Built&rpar;](https://medium.com/developersglobal/i-completed-anthropics-agent-skills-course-here-s-everything-i-learned-and-built-33329cb61a79?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line. &lpar; Part 2 &rpar;](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
 - [Every Developer Uses AI. Almost None of Them Understand How It Actually Works. &lpar; Part 1 &rpar;](https://medium.com/developersglobal/every-developer-uses-ai-almost-none-of-them-understand-how-it-actually-works-b472184cd6e1?source=rss-8b835baaf548------2)
 - [Your Password Manager Just Got Hacked. The Bitwarden Supply Chain Attack.](https://infosecwriteups.com/your-password-manager-just-got-hacked-the-bitwarden-supply-chain-attack-e5a83ede7e51?source=rss-8b835baaf548------2)
-- [I Stopped Writing Prompts. Now I Give Claude Skills Instead. It Changed Everything.](https://levelup.gitconnected.com/i-stopped-writing-prompts-now-i-give-claude-skills-instead-it-changed-everything-499d3f95ed66?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
