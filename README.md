@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [A Developer’s Guide to Mobile Deep Link Security](https://dhanushnehru.medium.com/a-developers-guide-to-mobile-deep-link-security-e628ceb5d3d6?source=rss-8b835baaf548------2)
 - [The AI Industry is Lying to You About MCP. Here is Why I Stopped Using It.](https://dhanushnehru.medium.com/the-ai-industry-is-lying-to-you-about-mcp-here-is-why-i-stopped-using-it-148fb810c9ea?source=rss-8b835baaf548------2)
 - [How I Reclaimed 120GB of Mac Storage in 5 Minutes &lpar;Without Deleting Personal Files&rpar;](https://dhanushnehru.medium.com/how-i-reclaimed-120gb-of-mac-storage-in-5-minutes-without-deleting-personal-files-d61e8582369a?source=rss-8b835baaf548------2)
 - [Stop Rewriting Your Dockerfiles: The Truth About the NGINX Deprecation](https://medium.com/developersglobal/stop-rewriting-your-dockerfiles-the-truth-about-the-nginx-deprecation-5a0f83e21854?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [How Hackers Map Your Entire Network in 15 Minutes. A Step-by-Step Breakdown.](https://medium.com/developersglobal/how-hackers-map-your-entire-network-in-15-minutes-a-step-by-step-breakdown-c077fee9dfb0?source=rss-8b835baaf548------2)
 - [5 Prompting Techniques That Turned Me from an AI User into an AI Engineer. &lpar; Part 4 &rpar;](https://medium.com/developersglobal/5-prompting-techniques-that-turned-me-from-an-ai-user-into-an-ai-engineer-4aeff5111beb?source=rss-8b835baaf548------2)
 - [System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong &lpar; Part 3 &rpar;](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
-- [The Anatomy of a Perfect AI Prompt. Most People Get It Wrong on the First Line. &lpar; Part 2 &rpar;](https://medium.com/developersglobal/the-anatomy-of-a-perfect-ai-prompt-most-people-get-it-wrong-on-the-first-line-8131a7ba9c70?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
