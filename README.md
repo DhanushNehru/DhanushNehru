@@ -89,16 +89,16 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Copy Pasting Your Notes: How to Automate Notion to Medium](https://levelup.gitconnected.com/stop-copy-pasting-your-notes-how-to-automate-notion-to-medium-35e411909b82?source=rss-8b835baaf548------2)
 - [A Developer’s Guide to Mobile Deep Link Security](https://dhanushnehru.medium.com/a-developers-guide-to-mobile-deep-link-security-e628ceb5d3d6?source=rss-8b835baaf548------2)
 - [The AI Industry is Lying to You About MCP. Here is Why I Stopped Using It.](https://dhanushnehru.medium.com/the-ai-industry-is-lying-to-you-about-mcp-here-is-why-i-stopped-using-it-148fb810c9ea?source=rss-8b835baaf548------2)
-- [How I Reclaimed 120GB of Mac Storage in 5 Minutes &lpar;Without Deleting Personal Files&rpar;](https://dhanushnehru.medium.com/how-i-reclaimed-120gb-of-mac-storage-in-5-minutes-without-deleting-personal-files-d61e8582369a?source=rss-8b835baaf548------2)
+- [How I Reclaimed 120GB of Mac Storage in 5 Minutes &lpar;Without Deleting Personal Files&rpar;](https://medium.com/developersglobal/how-i-reclaimed-120gb-of-mac-storage-in-5-minutes-without-deleting-personal-files-d61e8582369a?source=rss-8b835baaf548------2)
 - [Stop Rewriting Your Dockerfiles: The Truth About the NGINX Deprecation](https://medium.com/developersglobal/stop-rewriting-your-dockerfiles-the-truth-about-the-nginx-deprecation-5a0f83e21854?source=rss-8b835baaf548------2)
 - [The Ultimate DevOps Glossary: 108 Concepts Every Engineer Must Master](https://towardsaws.com/the-ultimate-devops-glossary-108-concepts-every-engineer-must-master-a4253f41b2da?source=rss-8b835baaf548------2)
 - [How Hackers Learn Everything About Your Company Before They Even Touch Your Network.](https://osintteam.blog/how-hackers-learn-everything-about-your-company-before-they-even-touch-your-network-ff96f3ce740c?source=rss-8b835baaf548------2)
 - [I Completed Anthropic’s Agent Skills Course. Here’s Everything I Learned &lpar;And Built&rpar;](https://medium.com/developersglobal/i-completed-anthropics-agent-skills-course-here-s-everything-i-learned-and-built-33329cb61a79?source=rss-8b835baaf548------2)
 - [How Hackers Map Your Entire Network in 15 Minutes. A Step-by-Step Breakdown.](https://medium.com/developersglobal/how-hackers-map-your-entire-network-in-15-minutes-a-step-by-step-breakdown-c077fee9dfb0?source=rss-8b835baaf548------2)
 - [5 Prompting Techniques That Turned Me from an AI User into an AI Engineer. &lpar; Part 4 &rpar;](https://medium.com/developersglobal/5-prompting-techniques-that-turned-me-from-an-ai-user-into-an-ai-engineer-4aeff5111beb?source=rss-8b835baaf548------2)
-- [System Prompts vs User Prompts: The Security Boundary Every AI Developer Gets Wrong &lpar; Part 3 &rpar;](https://medium.com/developersglobal/system-prompts-vs-user-prompts-the-security-boundary-every-ai-developer-gets-wrong-a6b6733ded83?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
