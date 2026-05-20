@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Write for Developers Global — A Publication](https://levelup.gitconnected.com/write-for-developers-global-a-publication-5ae1d0058dd3?source=rss-8b835baaf548------2)
+- [Write for Developers Global — A Publication](https://medium.com/developersglobal/write-for-developers-global-a-publication-5ae1d0058dd3?source=rss-8b835baaf548------2)
 - [Stop Copy Pasting Your Notes: How to Automate Notion to Medium](https://levelup.gitconnected.com/stop-copy-pasting-your-notes-how-to-automate-notion-to-medium-35e411909b82?source=rss-8b835baaf548------2)
 - [A Developer’s Guide to Mobile Deep Link Security](https://medium.com/codetodeploy/a-developers-guide-to-mobile-deep-link-security-e628ceb5d3d6?source=rss-8b835baaf548------2)
 - [The AI Industry is Lying to You About MCP. Here is Why I Stopped Using It.](https://dhanushnehru.medium.com/the-ai-industry-is-lying-to-you-about-mcp-here-is-why-i-stopped-using-it-148fb810c9ea?source=rss-8b835baaf548------2)
