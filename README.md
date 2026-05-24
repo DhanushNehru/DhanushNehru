@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Google Just Killed Flat Design: The Real Reason Behind the Massive Workspace Redesign](https://medium.com/illumination/google-just-killed-flat-design-the-real-reason-behind-the-massive-workspace-redesign-a841968a7c34?source=rss-8b835baaf548------2)
 - [AI Productivity Dream Has a Price Tag Nobody Told You About](https://medium.com/developersglobal/ai-productivity-dream-has-a-price-tag-nobody-told-you-about-e63d6a3a6086?source=rss-8b835baaf548------2)
 - [The “Death of Coding” is a Lie. Here is Why You Must Still Learn to Code in the Next Decade.](https://levelup.gitconnected.com/the-death-of-coding-is-a-lie-here-is-why-you-must-still-learn-to-code-in-the-next-decade-0203d9fc4bd9?source=rss-8b835baaf548------2)
 - [Write for Developers Global — A Publication](https://medium.com/developersglobal/write-for-developers-global-a-publication-5ae1d0058dd3?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [How I Reclaimed 120GB of Mac Storage in 5 Minutes &lpar;Without Deleting Personal Files&rpar;](https://medium.com/developersglobal/how-i-reclaimed-120gb-of-mac-storage-in-5-minutes-without-deleting-personal-files-d61e8582369a?source=rss-8b835baaf548------2)
 - [Stop Rewriting Your Dockerfiles: The Truth About the NGINX Deprecation](https://medium.com/developersglobal/stop-rewriting-your-dockerfiles-the-truth-about-the-nginx-deprecation-5a0f83e21854?source=rss-8b835baaf548------2)
 - [The Ultimate DevOps Glossary: 108 Concepts Every Engineer Must Master](https://towardsaws.com/the-ultimate-devops-glossary-108-concepts-every-engineer-must-master-a4253f41b2da?source=rss-8b835baaf548------2)
-- [How Hackers Learn Everything About Your Company Before They Even Touch Your Network.](https://osintteam.blog/how-hackers-learn-everything-about-your-company-before-they-even-touch-your-network-ff96f3ce740c?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
