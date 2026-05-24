@@ -128,7 +128,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/fFkBvvo7vuU"><img width="140px" src="https://i.ytimg.com/vi/fFkBvvo7vuU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/ojoTP5dRYbo"><img width="140px" src="https://i.ytimg.com/vi/ojoTP5dRYbo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ojoTP5dRYbo">google own version of openclaw 😱 gemini spark</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/fFkBvvo7vuU"><img width="140px" src="https://i.ytimg.com/vi/fFkBvvo7vuU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fFkBvvo7vuU">ai is more expensive than humans #nvidia</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/y535nRY5h58"><img width="140px" src="https://i.ytimg.com/vi/y535nRY5h58/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/y535nRY5h58">wikipedia in the age of ai</a><br/></td></tr>
@@ -136,8 +138,6 @@
 <td><a href="https://www.youtube.com/shorts/G_OMXY_vu3E">what happens when AI token costs more than your employee?</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/TydciFXhgXU"><img width="140px" src="https://i.ytimg.com/vi/TydciFXhgXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TydciFXhgXU">what is your favourite chess piece ♟️</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/0SM-6FZZoIo"><img width="140px" src="https://i.ytimg.com/vi/0SM-6FZZoIo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/0SM-6FZZoIo">claude ai replacing jobs? are we ready?</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
