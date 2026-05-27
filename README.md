@@ -89,6 +89,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://dhanushnehru.medium.com/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
+- [7 Security Mistakes Every Developer Makes &lpar;And How to Fix Them Today&rpar;](https://osintteam.blog/7-security-mistakes-every-developer-makes-and-how-to-fix-them-today-31422d95f8b0?source=rss-8b835baaf548------2)
 - [Google Just Killed Flat Design: The Real Reason Behind the Massive Workspace Redesign](https://medium.com/illumination/google-just-killed-flat-design-the-real-reason-behind-the-massive-workspace-redesign-a841968a7c34?source=rss-8b835baaf548------2)
 - [AI Productivity Dream Has a Price Tag Nobody Told You About](https://medium.com/developersglobal/ai-productivity-dream-has-a-price-tag-nobody-told-you-about-e63d6a3a6086?source=rss-8b835baaf548------2)
 - [The “Death of Coding” is a Lie. Here is Why You Must Still Learn to Code in the Next Decade.](https://levelup.gitconnected.com/the-death-of-coding-is-a-lie-here-is-why-you-must-still-learn-to-code-in-the-next-decade-0203d9fc4bd9?source=rss-8b835baaf548------2)
@@ -97,8 +99,6 @@
 - [A Developer’s Guide to Mobile Deep Link Security](https://medium.com/codetodeploy/a-developers-guide-to-mobile-deep-link-security-e628ceb5d3d6?source=rss-8b835baaf548------2)
 - [The AI Industry is Lying to You About MCP. Here is Why I Stopped Using It.](https://infosecwriteups.com/the-ai-industry-is-lying-to-you-about-mcp-here-is-why-i-stopped-using-it-148fb810c9ea?source=rss-8b835baaf548------2)
 - [How I Reclaimed 120GB of Mac Storage in 5 Minutes &lpar;Without Deleting Personal Files&rpar;](https://medium.com/developersglobal/how-i-reclaimed-120gb-of-mac-storage-in-5-minutes-without-deleting-personal-files-d61e8582369a?source=rss-8b835baaf548------2)
-- [Stop Rewriting Your Dockerfiles: The Truth About the NGINX Deprecation](https://medium.com/developersglobal/stop-rewriting-your-dockerfiles-the-truth-about-the-nginx-deprecation-5a0f83e21854?source=rss-8b835baaf548------2)
-- [The Ultimate DevOps Glossary: 108 Concepts Every Engineer Must Master](https://towardsaws.com/the-ultimate-devops-glossary-108-concepts-every-engineer-must-master-a4253f41b2da?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
