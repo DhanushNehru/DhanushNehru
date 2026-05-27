@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://dhanushnehru.medium.com/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
+- [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://medium.com/developersglobal/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
 - [7 Security Mistakes Every Developer Makes &lpar;And How to Fix Them Today&rpar;](https://osintteam.blog/7-security-mistakes-every-developer-makes-and-how-to-fix-them-today-31422d95f8b0?source=rss-8b835baaf548------2)
 - [Google Just Killed Flat Design: The Real Reason Behind the Massive Workspace Redesign](https://medium.com/illumination/google-just-killed-flat-design-the-real-reason-behind-the-massive-workspace-redesign-a841968a7c34?source=rss-8b835baaf548------2)
 - [AI Productivity Dream Has a Price Tag Nobody Told You About](https://medium.com/developersglobal/ai-productivity-dream-has-a-price-tag-nobody-told-you-about-e63d6a3a6086?source=rss-8b835baaf548------2)
