@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [20 Web Developer Mistakes That Make a Penetration Tester’s Job Easy](https://cybersecuritywriteups.com/20-web-developer-mistakes-that-make-a-penetration-testers-job-easy-65d2255efd56?source=rss-8b835baaf548------2)
 - [Before You Test a Web App, You Need to Understand How It Is Built](https://medium.com/developersglobal/before-you-test-a-web-app-you-need-to-understand-how-it-is-built-30867792f0ce?source=rss-8b835baaf548------2)
 - [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://medium.com/developersglobal/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
 - [7 Security Mistakes Every Developer Makes &lpar;And How to Fix Them Today&rpar;](https://osintteam.blog/7-security-mistakes-every-developer-makes-and-how-to-fix-them-today-31422d95f8b0?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [Write for Developers Global — A Publication](https://medium.com/developersglobal/write-for-developers-global-a-publication-5ae1d0058dd3?source=rss-8b835baaf548------2)
 - [Stop Copy Pasting Your Notes: How to Automate Notion to Medium](https://levelup.gitconnected.com/stop-copy-pasting-your-notes-how-to-automate-notion-to-medium-35e411909b82?source=rss-8b835baaf548------2)
 - [A Developer’s Guide to Mobile Deep Link Security](https://medium.com/codetodeploy/a-developers-guide-to-mobile-deep-link-security-e628ceb5d3d6?source=rss-8b835baaf548------2)
-- [The AI Industry is Lying to You About MCP. Here is Why I Stopped Using It.](https://medium.com/developersglobal/the-ai-industry-is-lying-to-you-about-mcp-here-is-why-i-stopped-using-it-148fb810c9ea?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
