@@ -128,8 +128,8 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/_XxOrepzQlU"><img width="140px" src="https://i.ytimg.com/vi/_XxOrepzQlU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/_XxOrepzQlU">me after hearing cybersecurity, ai or hacking</a><br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/z0lSVmZOW-E"><img width="140px" src="https://i.ytimg.com/vi/z0lSVmZOW-E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/z0lSVmZOW-E">say tech, ai, hacking or cybersecurity</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/awIeb4K6O6g"><img width="140px" src="https://i.ytimg.com/vi/awIeb4K6O6g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/awIeb4K6O6g">ai stealing all our data ☠️</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/ojoTP5dRYbo"><img width="140px" src="https://i.ytimg.com/vi/ojoTP5dRYbo/mqdefault.jpg"></a></td>
