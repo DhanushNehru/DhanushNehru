@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Stop Trusting MCP in Production. The NSA Report Every AI Developer Must Read.](https://infosecwriteups.com/stop-trusting-mcp-in-production-the-nsa-report-every-ai-developer-must-read-43bb6e7d3a74?source=rss-8b835baaf548------2)
+- [Stop Trusting MCP in Production. The NSA Report Every AI Developer Must Read.](https://dhanushnehru.medium.com/stop-trusting-mcp-in-production-the-nsa-report-every-ai-developer-must-read-43bb6e7d3a74?source=rss-8b835baaf548------2)
 - [20 Web Developer Mistakes That Make a Penetration Tester’s Job Easy](https://cybersecuritywriteups.com/20-web-developer-mistakes-that-make-a-penetration-testers-job-easy-65d2255efd56?source=rss-8b835baaf548------2)
 - [Before You Test a Web App, You Need to Understand How It Is Built](https://medium.com/developersglobal/before-you-test-a-web-app-you-need-to-understand-how-it-is-built-30867792f0ce?source=rss-8b835baaf548------2)
 - [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://medium.com/developersglobal/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
