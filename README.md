@@ -89,6 +89,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How a Tech Company Blew $500 Million on Claude AI in One Month &lpar;And Why Your Company Is Next&rpar;](https://medium.com/developersglobal/how-a-tech-company-blew-500-million-on-claude-ai-in-one-month-and-why-your-company-is-next-543a6a0adcdf?source=rss-8b835baaf548------2)
+- [LeetCode or AI? The Gen Z Developer Dilemma](https://levelup.gitconnected.com/leetcode-or-ai-the-gen-z-developer-dilemma-e87d3dd97b3c?source=rss-8b835baaf548------2)
 - [Stop Trusting MCP in Production. The NSA Report Every AI Developer Must Read.](https://medium.com/developersglobal/stop-trusting-mcp-in-production-the-nsa-report-every-ai-developer-must-read-43bb6e7d3a74?source=rss-8b835baaf548------2)
 - [20 Web Developer Mistakes That Make a Penetration Tester’s Job Easy](https://cybersecuritywriteups.com/20-web-developer-mistakes-that-make-a-penetration-testers-job-easy-65d2255efd56?source=rss-8b835baaf548------2)
 - [Before You Test a Web App, You Need to Understand How It Is Built](https://medium.com/developersglobal/before-you-test-a-web-app-you-need-to-understand-how-it-is-built-30867792f0ce?source=rss-8b835baaf548------2)
@@ -97,8 +99,6 @@
 - [Google Just Killed Flat Design: The Real Reason Behind the Massive Workspace Redesign](https://medium.com/illumination/google-just-killed-flat-design-the-real-reason-behind-the-massive-workspace-redesign-a841968a7c34?source=rss-8b835baaf548------2)
 - [AI Productivity Dream Has a Price Tag Nobody Told You About](https://medium.com/developersglobal/ai-productivity-dream-has-a-price-tag-nobody-told-you-about-e63d6a3a6086?source=rss-8b835baaf548------2)
 - [The “Death of Coding” is a Lie. Here is Why You Must Still Learn to Code in the Next Decade.](https://levelup.gitconnected.com/the-death-of-coding-is-a-lie-here-is-why-you-must-still-learn-to-code-in-the-next-decade-0203d9fc4bd9?source=rss-8b835baaf548------2)
-- [Write for Developers Global — A Publication](https://medium.com/developersglobal/write-for-developers-global-a-publication-5ae1d0058dd3?source=rss-8b835baaf548------2)
-- [Stop Copy Pasting Your Notes: How to Automate Notion to Medium](https://levelup.gitconnected.com/stop-copy-pasting-your-notes-how-to-automate-notion-to-medium-35e411909b82?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
