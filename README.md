@@ -129,7 +129,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=EHgHszrhXfc"><img width="140px" src="https://i.ytimg.com/vi/EHgHszrhXfc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EHgHszrhXfc">How AI is Making You Lazy &amp; Killing Your Brain | Dhanush Nehru</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=EHgHszrhXfc">12 Skills You MUST Learn Before AI Replaces You</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/jWwxbGSx_EY"><img width="140px" src="https://i.ytimg.com/vi/jWwxbGSx_EY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/jWwxbGSx_EY">if someone criticizes you then just remember this</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/z0lSVmZOW-E"><img width="140px" src="https://i.ytimg.com/vi/z0lSVmZOW-E/mqdefault.jpg"></a></td>
