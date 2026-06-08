@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [AI Isn’t Taking Your Job. Your Own Laziness Is.](https://levelup.gitconnected.com/ai-isnt-taking-your-job-your-own-laziness-is-43d9d78f81e9?source=rss-8b835baaf548------2)
 - [AI Isn’t Taking Your Tech Job. It’s Quietly Killing Your Engineering Instincts.](https://levelup.gitconnected.com/ai-isnt-taking-your-tech-job-it-s-quietly-killing-your-engineering-instincts-a9c1539920e9?source=rss-8b835baaf548------2)
 - [How a Tech Company Blew $500 Million on Claude AI in One Month &lpar;And Why Your Company Is Next&rpar;](https://medium.com/developersglobal/how-a-tech-company-blew-500-million-on-claude-ai-in-one-month-and-why-your-company-is-next-543a6a0adcdf?source=rss-8b835baaf548------2)
 - [LeetCode or AI? The Gen Z Developer Dilemma](https://levelup.gitconnected.com/leetcode-or-ai-the-gen-z-developer-dilemma-e87d3dd97b3c?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://medium.com/developersglobal/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
 - [7 Security Mistakes Every Developer Makes &lpar;And How to Fix Them Today&rpar;](https://osintteam.blog/7-security-mistakes-every-developer-makes-and-how-to-fix-them-today-31422d95f8b0?source=rss-8b835baaf548------2)
 - [Google Just Killed Flat Design: The Real Reason Behind the Massive Workspace Redesign](https://medium.com/illumination/google-just-killed-flat-design-the-real-reason-behind-the-massive-workspace-redesign-a841968a7c34?source=rss-8b835baaf548------2)
-- [AI Productivity Dream Has a Price Tag Nobody Told You About](https://medium.com/developersglobal/ai-productivity-dream-has-a-price-tag-nobody-told-you-about-e63d6a3a6086?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
