@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Network Topologies Explained: The Complete Visual Guide for Engineers](https://dhanushnehru.medium.com/network-topologies-explained-the-complete-visual-guide-for-engineers-391498ad4c3e?source=rss-8b835baaf548------2)
 - [Network Segmentation Explained: Why Flat Networks Are a Massive Security Risk](https://dhanushnehru.medium.com/network-segmentation-explained-why-flat-networks-are-a-massive-security-risk-81a2003ddbe7?source=rss-8b835baaf548------2)
 - [AI Isn’t Taking Your Job. Your Own Laziness Is.](https://levelup.gitconnected.com/ai-isnt-taking-your-job-your-own-laziness-is-43d9d78f81e9?source=rss-8b835baaf548------2)
 - [AI Isn’t Taking Your Tech Job. It’s Quietly Killing Your Engineering Instincts.](https://levelup.gitconnected.com/ai-isnt-taking-your-tech-job-it-s-quietly-killing-your-engineering-instincts-a9c1539920e9?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [20 Web Developer Mistakes That Make a Penetration Tester’s Job Easy](https://cybersecuritywriteups.com/20-web-developer-mistakes-that-make-a-penetration-testers-job-easy-65d2255efd56?source=rss-8b835baaf548------2)
 - [Before You Test a Web App, You Need to Understand How It Is Built](https://medium.com/developersglobal/before-you-test-a-web-app-you-need-to-understand-how-it-is-built-30867792f0ce?source=rss-8b835baaf548------2)
 - [8 Things Claude Code Can Do That GitHub Copilot Can’t](https://medium.com/developersglobal/8-things-claude-code-can-do-that-github-copilot-cant-af3ad4be4f4c?source=rss-8b835baaf548------2)
-- [7 Security Mistakes Every Developer Makes &lpar;And How to Fix Them Today&rpar;](https://osintteam.blog/7-security-mistakes-every-developer-makes-and-how-to-fix-them-today-31422d95f8b0?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
