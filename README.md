@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The 3 Unspoken Rules That Keep Penetration Testers Out of Prison](https://dhanushnehru.medium.com/the-3-unspoken-rules-that-keep-penetration-testers-out-of-prison-dc70e1c0ced7?source=rss-8b835baaf548------2)
 - [Stop Relying on Scanners: The Uncomfortable Truth About Modern Penetration Testing](https://dhanushnehru.medium.com/stop-relying-on-scanners-the-uncomfortable-truth-about-modern-penetration-testing-de3873269da6?source=rss-8b835baaf548------2)
 - [5 Reasons Security Vulnerabilities Exist &lpar;And How Attackers Exploit Every Single One&rpar;](https://systemweakness.com/5-reasons-security-vulnerabilities-exist-and-how-attackers-exploit-every-single-one-61ea9153440e?source=rss-8b835baaf548------2)
 - [Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work](https://medium.com/developersglobal/inside-the-mind-of-a-hacker-team-how-cyber-attacks-actually-work-15153cfcd7bc?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [AI Isn’t Taking Your Tech Job. It’s Quietly Killing Your Engineering Instincts.](https://levelup.gitconnected.com/ai-isnt-taking-your-tech-job-it-s-quietly-killing-your-engineering-instincts-a9c1539920e9?source=rss-8b835baaf548------2)
 - [How a Tech Company Blew $500 Million on Claude AI in One Month &lpar;And Why Your Company Is Next&rpar;](https://medium.com/developersglobal/how-a-tech-company-blew-500-million-on-claude-ai-in-one-month-and-why-your-company-is-next-543a6a0adcdf?source=rss-8b835baaf548------2)
 - [LeetCode or AI? The Gen Z Developer Dilemma](https://levelup.gitconnected.com/leetcode-or-ai-the-gen-z-developer-dilemma-e87d3dd97b3c?source=rss-8b835baaf548------2)
-- [Stop Trusting MCP in Production. The NSA Report Every AI Developer Must Read.](https://medium.com/developersglobal/stop-trusting-mcp-in-production-the-nsa-report-every-ai-developer-must-read-43bb6e7d3a74?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
