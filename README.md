@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The 3 Unspoken Rules That Keep Penetration Testers Out of Prison](https://dhanushnehru.medium.com/the-3-unspoken-rules-that-keep-penetration-testers-out-of-prison-dc70e1c0ced7?source=rss-8b835baaf548------2)
+- [The 3 Unspoken Rules That Keep Penetration Testers Out of Prison](https://medium.com/developersglobal/the-3-unspoken-rules-that-keep-penetration-testers-out-of-prison-dc70e1c0ced7?source=rss-8b835baaf548------2)
 - [Stop Relying on Scanners: The Uncomfortable Truth About Modern Penetration Testing](https://dhanushnehru.medium.com/stop-relying-on-scanners-the-uncomfortable-truth-about-modern-penetration-testing-de3873269da6?source=rss-8b835baaf548------2)
 - [5 Reasons Security Vulnerabilities Exist &lpar;And How Attackers Exploit Every Single One&rpar;](https://systemweakness.com/5-reasons-security-vulnerabilities-exist-and-how-attackers-exploit-every-single-one-61ea9153440e?source=rss-8b835baaf548------2)
 - [Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work](https://medium.com/developersglobal/inside-the-mind-of-a-hacker-team-how-cyber-attacks-actually-work-15153cfcd7bc?source=rss-8b835baaf548------2)
