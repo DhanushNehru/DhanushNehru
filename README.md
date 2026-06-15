@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [8 Sneaky Ways Hackers Deliver Malware](https://dhanushnehru.medium.com/8-sneaky-ways-hackers-deliver-malware-7b89f5c18bd7?source=rss-8b835baaf548------2)
 - [The 3 Unspoken Rules That Keep Penetration Testers Out of Prison](https://medium.com/developersglobal/the-3-unspoken-rules-that-keep-penetration-testers-out-of-prison-dc70e1c0ced7?source=rss-8b835baaf548------2)
 - [Stop Relying on Scanners: The Uncomfortable Truth About Modern Penetration Testing](https://dhanushnehru.medium.com/stop-relying-on-scanners-the-uncomfortable-truth-about-modern-penetration-testing-de3873269da6?source=rss-8b835baaf548------2)
 - [5 Reasons Security Vulnerabilities Exist &lpar;And How Attackers Exploit Every Single One&rpar;](https://systemweakness.com/5-reasons-security-vulnerabilities-exist-and-how-attackers-exploit-every-single-one-61ea9153440e?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [AI Isn’t Taking Your Job. Your Own Laziness Is.](https://levelup.gitconnected.com/ai-isnt-taking-your-job-your-own-laziness-is-43d9d78f81e9?source=rss-8b835baaf548------2)
 - [AI Isn’t Taking Your Tech Job. It’s Quietly Killing Your Engineering Instincts.](https://levelup.gitconnected.com/ai-isnt-taking-your-tech-job-it-s-quietly-killing-your-engineering-instincts-a9c1539920e9?source=rss-8b835baaf548------2)
 - [How a Tech Company Blew $500 Million on Claude AI in One Month &lpar;And Why Your Company Is Next&rpar;](https://medium.com/developersglobal/how-a-tech-company-blew-500-million-on-claude-ai-in-one-month-and-why-your-company-is-next-543a6a0adcdf?source=rss-8b835baaf548------2)
-- [LeetCode or AI? The Gen Z Developer Dilemma](https://levelup.gitconnected.com/leetcode-or-ai-the-gen-z-developer-dilemma-e87d3dd97b3c?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
