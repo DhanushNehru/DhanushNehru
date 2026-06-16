@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Engine of the Internet: How Web Servers Actually Work](https://towardsaws.com/the-engine-of-the-internet-how-web-servers-actually-work-255af35b30a2?source=rss-8b835baaf548------2)
 - [8 Sneaky Ways Hackers Deliver Malware](https://dhanushnehru.medium.com/8-sneaky-ways-hackers-deliver-malware-7b89f5c18bd7?source=rss-8b835baaf548------2)
 - [The 3 Unspoken Rules That Keep Penetration Testers Out of Prison](https://medium.com/developersglobal/the-3-unspoken-rules-that-keep-penetration-testers-out-of-prison-dc70e1c0ced7?source=rss-8b835baaf548------2)
 - [Stop Relying on Scanners: The Uncomfortable Truth About Modern Penetration Testing](https://dhanushnehru.medium.com/stop-relying-on-scanners-the-uncomfortable-truth-about-modern-penetration-testing-de3873269da6?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [Network Segmentation Explained: Why Flat Networks Are a Massive Security Risk](https://systemweakness.com/network-segmentation-explained-why-flat-networks-are-a-massive-security-risk-81a2003ddbe7?source=rss-8b835baaf548------2)
 - [AI Isn’t Taking Your Job. Your Own Laziness Is.](https://levelup.gitconnected.com/ai-isnt-taking-your-job-your-own-laziness-is-43d9d78f81e9?source=rss-8b835baaf548------2)
 - [AI Isn’t Taking Your Tech Job. It’s Quietly Killing Your Engineering Instincts.](https://levelup.gitconnected.com/ai-isnt-taking-your-tech-job-it-s-quietly-killing-your-engineering-instincts-a9c1539920e9?source=rss-8b835baaf548------2)
-- [How a Tech Company Blew $500 Million on Claude AI in One Month &lpar;And Why Your Company Is Next&rpar;](https://medium.com/developersglobal/how-a-tech-company-blew-500-million-on-claude-ai-in-one-month-and-why-your-company-is-next-543a6a0adcdf?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
