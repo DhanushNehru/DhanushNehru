@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use](https://dhanushnehru.medium.com/stop-using-outdated-scanners-here-are-the-4-fuzzing-tools-elite-hackers-actually-use-caba2d0fadef?source=rss-8b835baaf548------2)
 - [Stop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower](https://dhanushnehru.medium.com/stop-guessing-passwords-why-web-fuzzing-is-the-ultimate-hacker-superpower-6ccda7862982?source=rss-8b835baaf548------2)
 - [I Watched Junior Developers Use AI for Everything. Then I Tried Quitting It Myself.](https://medium.com/developersglobal/i-watched-junior-developers-use-ai-for-everything-then-i-tried-quitting-it-myself-c34b84610449?source=rss-8b835baaf548------2)
 - [The Engine of the Internet: How Web Servers Actually Work](https://towardsaws.com/the-engine-of-the-internet-how-web-servers-actually-work-255af35b30a2?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [5 Reasons Security Vulnerabilities Exist &lpar;And How Attackers Exploit Every Single One&rpar;](https://systemweakness.com/5-reasons-security-vulnerabilities-exist-and-how-attackers-exploit-every-single-one-61ea9153440e?source=rss-8b835baaf548------2)
 - [Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work](https://medium.com/developersglobal/inside-the-mind-of-a-hacker-team-how-cyber-attacks-actually-work-15153cfcd7bc?source=rss-8b835baaf548------2)
 - [Network Topologies Explained: The Complete Visual Guide for Engineers](https://dhanushnehru.medium.com/network-topologies-explained-the-complete-visual-guide-for-engineers-391498ad4c3e?source=rss-8b835baaf548------2)
-- [Network Segmentation Explained: Why Flat Networks Are a Massive Security Risk](https://systemweakness.com/network-segmentation-explained-why-flat-networks-are-a-massive-security-risk-81a2003ddbe7?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
