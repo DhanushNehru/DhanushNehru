@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower](https://dhanushnehru.medium.com/stop-guessing-passwords-why-web-fuzzing-is-the-ultimate-hacker-superpower-6ccda7862982?source=rss-8b835baaf548------2)
 - [I Watched Junior Developers Use AI for Everything. Then I Tried Quitting It Myself.](https://medium.com/developersglobal/i-watched-junior-developers-use-ai-for-everything-then-i-tried-quitting-it-myself-c34b84610449?source=rss-8b835baaf548------2)
 - [The Engine of the Internet: How Web Servers Actually Work](https://towardsaws.com/the-engine-of-the-internet-how-web-servers-actually-work-255af35b30a2?source=rss-8b835baaf548------2)
 - [8 Sneaky Ways Hackers Deliver Malware](https://dhanushnehru.medium.com/8-sneaky-ways-hackers-deliver-malware-7b89f5c18bd7?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work](https://medium.com/developersglobal/inside-the-mind-of-a-hacker-team-how-cyber-attacks-actually-work-15153cfcd7bc?source=rss-8b835baaf548------2)
 - [Network Topologies Explained: The Complete Visual Guide for Engineers](https://dhanushnehru.medium.com/network-topologies-explained-the-complete-visual-guide-for-engineers-391498ad4c3e?source=rss-8b835baaf548------2)
 - [Network Segmentation Explained: Why Flat Networks Are a Massive Security Risk](https://systemweakness.com/network-segmentation-explained-why-flat-networks-are-a-massive-security-risk-81a2003ddbe7?source=rss-8b835baaf548------2)
-- [AI Isn’t Taking Your Job. Your Own Laziness Is.](https://levelup.gitconnected.com/ai-isnt-taking-your-job-your-own-laziness-is-43d9d78f81e9?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
