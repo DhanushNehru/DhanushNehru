@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Great AI Divide: Hype vs. Reality](https://medium.com/developersglobal/the-great-ai-divide-hype-vs-reality-3118e3d09cb8?source=rss-8b835baaf548------2)
 - [Stop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use](https://dhanushnehru.medium.com/stop-using-outdated-scanners-here-are-the-4-fuzzing-tools-elite-hackers-actually-use-caba2d0fadef?source=rss-8b835baaf548------2)
 - [Stop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower](https://dhanushnehru.medium.com/stop-guessing-passwords-why-web-fuzzing-is-the-ultimate-hacker-superpower-6ccda7862982?source=rss-8b835baaf548------2)
 - [I Watched Junior Developers Use AI for Everything. Then I Tried Quitting It Myself.](https://medium.com/developersglobal/i-watched-junior-developers-use-ai-for-everything-then-i-tried-quitting-it-myself-c34b84610449?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [Stop Relying on Scanners: The Uncomfortable Truth About Modern Penetration Testing](https://dhanushnehru.medium.com/stop-relying-on-scanners-the-uncomfortable-truth-about-modern-penetration-testing-de3873269da6?source=rss-8b835baaf548------2)
 - [5 Reasons Security Vulnerabilities Exist &lpar;And How Attackers Exploit Every Single One&rpar;](https://systemweakness.com/5-reasons-security-vulnerabilities-exist-and-how-attackers-exploit-every-single-one-61ea9153440e?source=rss-8b835baaf548------2)
 - [Inside the Mind of a Hacker Team: How Cyber Attacks Actually Work](https://medium.com/developersglobal/inside-the-mind-of-a-hacker-team-how-cyber-attacks-actually-work-15153cfcd7bc?source=rss-8b835baaf548------2)
-- [Network Topologies Explained: The Complete Visual Guide for Engineers](https://dhanushnehru.medium.com/network-topologies-explained-the-complete-visual-guide-for-engineers-391498ad4c3e?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
