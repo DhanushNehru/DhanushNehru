@@ -128,7 +128,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/m7eOcuHfT-o"><img width="140px" src="https://i.ytimg.com/vi/m7eOcuHfT-o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/spup9qdeTV0"><img width="140px" src="https://i.ytimg.com/vi/spup9qdeTV0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/spup9qdeTV0">peak bengaluru moment: auto driver refused cash</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/m7eOcuHfT-o"><img width="140px" src="https://i.ytimg.com/vi/m7eOcuHfT-o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/m7eOcuHfT-o">please ban github</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9AXtkjGeDTE"><img width="140px" src="https://i.ytimg.com/vi/9AXtkjGeDTE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9AXtkjGeDTE">I Quit AI for 30 Days &lpar;And It Fixed My Brain&rpar;</a><br/></td></tr>
@@ -136,8 +138,6 @@
 <td><a href="https://www.youtube.com/watch?v=EHgHszrhXfc">12 Skills You MUST Learn Before AI Replaces You</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/jWwxbGSx_EY"><img width="140px" src="https://i.ytimg.com/vi/jWwxbGSx_EY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/jWwxbGSx_EY">if someone criticizes you then just remember this</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/z0lSVmZOW-E"><img width="140px" src="https://i.ytimg.com/vi/z0lSVmZOW-E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/z0lSVmZOW-E">say tech, ai, hacking or cybersecurity</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
