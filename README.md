@@ -89,6 +89,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [React Nexus 2026 Bangalore — Key Highlights and Insights](https://dhanushnehru.medium.com/react-nexus-2026-bangalore-key-highlights-and-insights-c7dae1c206fe?source=rss-8b835baaf548------2)
+- [MongoDB Local Bangalore 2026 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2026-key-highlights-and-insights-22629dd294cb?source=rss-8b835baaf548------2)
 - [Why Shallow Knowledge Will Ruin Your Tech Career in the Age of AI](https://medium.com/developersglobal/why-shallow-knowledge-will-ruin-your-tech-career-in-the-age-of-ai-4a70b8331500?source=rss-8b835baaf548------2)
 - [The Great AI Divide: Hype vs. Reality](https://medium.com/developersglobal/the-great-ai-divide-hype-vs-reality-3118e3d09cb8?source=rss-8b835baaf548------2)
 - [Stop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use](https://dhanushnehru.medium.com/stop-using-outdated-scanners-here-are-the-4-fuzzing-tools-elite-hackers-actually-use-caba2d0fadef?source=rss-8b835baaf548------2)
@@ -97,8 +99,6 @@
 - [The Engine of the Internet: How Web Servers Actually Work](https://towardsaws.com/the-engine-of-the-internet-how-web-servers-actually-work-255af35b30a2?source=rss-8b835baaf548------2)
 - [8 Sneaky Ways Hackers Deliver Malware](https://dhanushnehru.medium.com/8-sneaky-ways-hackers-deliver-malware-7b89f5c18bd7?source=rss-8b835baaf548------2)
 - [The 3 Unspoken Rules That Keep Penetration Testers Out of Prison](https://medium.com/developersglobal/the-3-unspoken-rules-that-keep-penetration-testers-out-of-prison-dc70e1c0ced7?source=rss-8b835baaf548------2)
-- [Stop Relying on Scanners: The Uncomfortable Truth About Modern Penetration Testing](https://dhanushnehru.medium.com/stop-relying-on-scanners-the-uncomfortable-truth-about-modern-penetration-testing-de3873269da6?source=rss-8b835baaf548------2)
-- [5 Reasons Security Vulnerabilities Exist &lpar;And How Attackers Exploit Every Single One&rpar;](https://systemweakness.com/5-reasons-security-vulnerabilities-exist-and-how-attackers-exploit-every-single-one-61ea9153440e?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
