@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Breathing in Bengaluru is Now Equal to Smoking 10 Cigarettes a Month](https://dhanushnehru.medium.com/breathing-in-bengaluru-is-now-equal-to-smoking-10-cigarettes-a-month-ef6dcbd8dd87?source=rss-8b835baaf548------2)
+- [Breathing in Bengaluru is Now Equal to Smoking 10 Cigarettes a Month](https://medium.com/lampshade-of-illumination/breathing-in-bengaluru-is-now-equal-to-smoking-10-cigarettes-a-month-ef6dcbd8dd87?source=rss-8b835baaf548------2)
 - [The Silent JavaScript Killer: Understanding Prototype Pollution](https://javascript.plainenglish.io/the-silent-javascript-killer-understanding-prototype-pollution-769ef7cfdbb7?source=rss-8b835baaf548------2)
 - [React Nexus 2026 Bangalore — Key Highlights and Insights](https://dhanushnehru.medium.com/react-nexus-2026-bangalore-key-highlights-and-insights-c7dae1c206fe?source=rss-8b835baaf548------2)
 - [MongoDB Local Bangalore 2026 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2026-key-highlights-and-insights-22629dd294cb?source=rss-8b835baaf548------2)
