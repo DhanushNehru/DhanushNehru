@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Breathing in Bengaluru is Now Equal to Smoking 10 Cigarettes a Month](https://dhanushnehru.medium.com/breathing-in-bengaluru-is-now-equal-to-smoking-10-cigarettes-a-month-ef6dcbd8dd87?source=rss-8b835baaf548------2)
 - [The Silent JavaScript Killer: Understanding Prototype Pollution](https://javascript.plainenglish.io/the-silent-javascript-killer-understanding-prototype-pollution-769ef7cfdbb7?source=rss-8b835baaf548------2)
 - [React Nexus 2026 Bangalore — Key Highlights and Insights](https://dhanushnehru.medium.com/react-nexus-2026-bangalore-key-highlights-and-insights-c7dae1c206fe?source=rss-8b835baaf548------2)
 - [MongoDB Local Bangalore 2026 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2026-key-highlights-and-insights-22629dd294cb?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [Stop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower](https://dhanushnehru.medium.com/stop-guessing-passwords-why-web-fuzzing-is-the-ultimate-hacker-superpower-6ccda7862982?source=rss-8b835baaf548------2)
 - [I Watched Junior Developers Use AI for Everything. Then I Tried Quitting It Myself.](https://medium.com/developersglobal/i-watched-junior-developers-use-ai-for-everything-then-i-tried-quitting-it-myself-c34b84610449?source=rss-8b835baaf548------2)
 - [The Engine of the Internet: How Web Servers Actually Work](https://towardsaws.com/the-engine-of-the-internet-how-web-servers-actually-work-255af35b30a2?source=rss-8b835baaf548------2)
-- [8 Sneaky Ways Hackers Deliver Malware](https://dhanushnehru.medium.com/8-sneaky-ways-hackers-deliver-malware-7b89f5c18bd7?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
