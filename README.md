@@ -129,7 +129,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=JODe1oUrCZU"><img width="140px" src="https://i.ytimg.com/vi/JODe1oUrCZU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JODe1oUrCZU">I watched myself get deepfaked</a><br/></td></tr>
+<td><a href="https://www.youtube.com/watch?v=JODe1oUrCZU">I got deepfaked</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/spup9qdeTV0"><img width="140px" src="https://i.ytimg.com/vi/spup9qdeTV0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/spup9qdeTV0">peak bengaluru moment: auto driver refused cash</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/m7eOcuHfT-o"><img width="140px" src="https://i.ytimg.com/vi/m7eOcuHfT-o/mqdefault.jpg"></a></td>
