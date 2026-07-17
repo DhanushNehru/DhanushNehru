@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [TypeScript 7.0 is Here: 10x Faster Builds with a Complete Rewrite in Go](https://medium.com/developersglobal/typescript-7-0-is-here-10x-faster-builds-with-a-complete-rewrite-in-go-72a088367b70?source=rss-8b835baaf548------2)
+- [TypeScript 7.0 is Here: 10x Faster Builds with a Complete Rewrite in Go](https://levelup.gitconnected.com/typescript-7-0-is-here-10x-faster-builds-with-a-complete-rewrite-in-go-72a088367b70?source=rss-8b835baaf548------2)
 - [Breathing in Bengaluru is Now Equal to Smoking 10 Cigarettes a Month](https://medium.com/lampshade-of-illumination/breathing-in-bengaluru-is-now-equal-to-smoking-10-cigarettes-a-month-ef6dcbd8dd87?source=rss-8b835baaf548------2)
 - [The Silent JavaScript Killer: Understanding Prototype Pollution](https://javascript.plainenglish.io/the-silent-javascript-killer-understanding-prototype-pollution-769ef7cfdbb7?source=rss-8b835baaf548------2)
 - [React Nexus 2026 Bangalore — Key Highlights and Insights](https://dhanushnehru.medium.com/react-nexus-2026-bangalore-key-highlights-and-insights-c7dae1c206fe?source=rss-8b835baaf548------2)
