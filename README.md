@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [750 Days of Cybersecurity: The Uncomfortable Truths Nobody Talks About](https://infosecwriteups.com/750-days-of-cybersecurity-the-uncomfortable-truths-nobody-talks-about-52ca92da4cde?source=rss-8b835baaf548------2)
 - [TypeScript 7.0 is Here: 10x Faster Builds with a Complete Rewrite in Go](https://levelup.gitconnected.com/typescript-7-0-is-here-10x-faster-builds-with-a-complete-rewrite-in-go-72a088367b70?source=rss-8b835baaf548------2)
 - [Breathing in Bengaluru is Now Equal to Smoking 10 Cigarettes a Month](https://medium.com/lampshade-of-illumination/breathing-in-bengaluru-is-now-equal-to-smoking-10-cigarettes-a-month-ef6dcbd8dd87?source=rss-8b835baaf548------2)
 - [The Silent JavaScript Killer: Understanding Prototype Pollution](https://javascript.plainenglish.io/the-silent-javascript-killer-understanding-prototype-pollution-769ef7cfdbb7?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [The Great AI Divide: Hype vs. Reality](https://medium.com/developersglobal/the-great-ai-divide-hype-vs-reality-3118e3d09cb8?source=rss-8b835baaf548------2)
 - [Stop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use](https://dhanushnehru.medium.com/stop-using-outdated-scanners-here-are-the-4-fuzzing-tools-elite-hackers-actually-use-caba2d0fadef?source=rss-8b835baaf548------2)
 - [Stop Guessing Passwords: Why Web Fuzzing is the Ultimate Hacker Superpower](https://dhanushnehru.medium.com/stop-guessing-passwords-why-web-fuzzing-is-the-ultimate-hacker-superpower-6ccda7862982?source=rss-8b835baaf548------2)
-- [I Watched Junior Developers Use AI for Everything. Then I Tried Quitting It Myself.](https://medium.com/developersglobal/i-watched-junior-developers-use-ai-for-everything-then-i-tried-quitting-it-myself-c34b84610449?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
