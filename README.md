@@ -89,6 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [DNS Zone Transfers: The Misconfiguration That Hands Hackers Your Entire Network Map](https://infosecwriteups.com/dns-zone-transfers-the-misconfiguration-that-hands-hackers-your-entire-network-map-957b7fdc2c3d?source=rss-8b835baaf548------2)
 - [That Google Sign-In Pop-Up Might Be Fake: How Browser-in-the-Browser Attacks Steal Your Credentials](https://dhanushnehru.medium.com/that-google-sign-in-pop-up-might-be-fake-how-browser-in-the-browser-attacks-steal-your-credentials-6a563d836419?source=rss-8b835baaf548------2)
 - [750 Days of Cybersecurity: The Uncomfortable Truths Nobody Talks About](https://infosecwriteups.com/750-days-of-cybersecurity-the-uncomfortable-truths-nobody-talks-about-52ca92da4cde?source=rss-8b835baaf548------2)
 - [TypeScript 7.0 is Here: 10x Faster Builds with a Complete Rewrite in Go](https://levelup.gitconnected.com/typescript-7-0-is-here-10x-faster-builds-with-a-complete-rewrite-in-go-72a088367b70?source=rss-8b835baaf548------2)
@@ -98,7 +99,6 @@
 - [MongoDB Local Bangalore 2026 — Key Highlights and Insights](https://dhanushnehru.medium.com/mongodb-local-bangalore-2026-key-highlights-and-insights-22629dd294cb?source=rss-8b835baaf548------2)
 - [Why Shallow Knowledge Will Ruin Your Tech Career in the Age of AI](https://medium.com/developersglobal/why-shallow-knowledge-will-ruin-your-tech-career-in-the-age-of-ai-4a70b8331500?source=rss-8b835baaf548------2)
 - [The Great AI Divide: Hype vs. Reality](https://medium.com/developersglobal/the-great-ai-divide-hype-vs-reality-3118e3d09cb8?source=rss-8b835baaf548------2)
-- [Stop Using Outdated Scanners: Here Are the 4 Fuzzing Tools Elite Hackers Actually Use](https://dhanushnehru.medium.com/stop-using-outdated-scanners-here-are-the-4-fuzzing-tools-elite-hackers-actually-use-caba2d0fadef?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
