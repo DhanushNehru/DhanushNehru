@@ -89,7 +89,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Amazon Is Firing Its AI Team While Spending $200 Billion on AI](https://dhanushnehru.medium.com/amazon-is-firing-its-ai-team-while-spending-200-billion-on-ai-91c063bd63b7?source=rss-8b835baaf548------2)
+- [Amazon Is Firing Its AI Team While Spending $200 Billion on AI](https://medium.com/developersglobal/amazon-is-firing-its-ai-team-while-spending-200-billion-on-ai-91c063bd63b7?source=rss-8b835baaf548------2)
 - [Virtual Hosts Explained: How One Server Secretly Runs Hundreds of Websites](https://systemweakness.com/virtual-hosts-explained-how-one-server-secretly-runs-hundreds-of-websites-13285c7136aa?source=rss-8b835baaf548------2)
 - [DNS Zone Transfers: The Misconfiguration That Hands Hackers Your Entire Network Map](https://infosecwriteups.com/dns-zone-transfers-the-misconfiguration-that-hands-hackers-your-entire-network-map-957b7fdc2c3d?source=rss-8b835baaf548------2)
 - [That Google Sign-In Pop-Up Might Be Fake: How Browser-in-the-Browser Attacks Steal Your Credentials](https://dhanushnehru.medium.com/that-google-sign-in-pop-up-might-be-fake-how-browser-in-the-browser-attacks-steal-your-credentials-6a563d836419?source=rss-8b835baaf548------2)
