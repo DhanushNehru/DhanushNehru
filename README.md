@@ -54,6 +54,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" style="height:60px;"/>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Burp-Champion-Badge.png" alt="Burp Champion Badge" style="height:60px;"/>
+</p>
+
 <table>
 <tr>
 <td align="center">
@@ -173,11 +178,6 @@
 </picture>
 
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
-
-<p align="center">
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" style="height:60px;"/>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Burp-Champion-Badge.png" alt="Burp Champion Badge" style="height:60px;"/>
-</p>
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
