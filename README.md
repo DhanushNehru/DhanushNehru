@@ -46,8 +46,13 @@
     <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
 <div align="center">
+
+<p align="center">
+  <a href="https://tryhackme.com/p/dhanushnehru" target="_blank">
+      <img alt="TryHackMe Top 1%" src="https://img.shields.io/badge/TryHackMe-Global%20Top%201%25-21262d?style=flat&logo=tryhackme&logoColor=21262d&labelColor=C00000&color=red" />
+  </a>
+</p>
 
 <table>
 <tr>
@@ -170,7 +175,6 @@
 [![An image of @dhanushnehru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhanushnehru)](https://holopin.io/@dhanushnehru)
 
 <p align="center">
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/tryhackme-badge.png" alt="TryHackMe Badge" style="height:60px;"/>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/AWS-Community-Builder.png" alt="AWS Community Builder Badge" style="height:60px;"/>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/Burp-Champion-Badge.png" alt="Burp Champion Badge" style="height:60px;"/>
 </p>
