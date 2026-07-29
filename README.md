@@ -94,7 +94,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Hacker Holidays 2026: The Brochure &lpar;Day 0&rpar; Walkthrough](https://dhanushnehru.medium.com/hacker-holidays-2026-the-brochure-day-0-walkthrough-4aa288b21ec1?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 1 Walkthrough &lpar;The Concierge Knows Too Much&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-1-walkthrough-the-concierge-knows-too-much-b70cbc59482b?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: The Brochure &lpar;Day 0&rpar; Walkthrough](https://infosecwriteups.com/hacker-holidays-2026-the-brochure-day-0-walkthrough-4aa288b21ec1?source=rss-8b835baaf548------2)
 - [Amazon Is Firing Its AI Team While Spending $200 Billion on AI](https://medium.com/developersglobal/amazon-is-firing-its-ai-team-while-spending-200-billion-on-ai-91c063bd63b7?source=rss-8b835baaf548------2)
 - [Virtual Hosts Explained: How One Server Secretly Runs Hundreds of Websites](https://systemweakness.com/virtual-hosts-explained-how-one-server-secretly-runs-hundreds-of-websites-13285c7136aa?source=rss-8b835baaf548------2)
 - [DNS Zone Transfers: The Misconfiguration That Hands Hackers Your Entire Network Map](https://infosecwriteups.com/dns-zone-transfers-the-misconfiguration-that-hands-hackers-your-entire-network-map-957b7fdc2c3d?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [TypeScript 7.0 is Here: 10x Faster Builds with a Complete Rewrite in Go](https://levelup.gitconnected.com/typescript-7-0-is-here-10x-faster-builds-with-a-complete-rewrite-in-go-72a088367b70?source=rss-8b835baaf548------2)
 - [Breathing in Bengaluru is Now Equal to Smoking 10 Cigarettes a Month](https://medium.com/lampshade-of-illumination/breathing-in-bengaluru-is-now-equal-to-smoking-10-cigarettes-a-month-ef6dcbd8dd87?source=rss-8b835baaf548------2)
 - [The Silent JavaScript Killer: Understanding Prototype Pollution](https://javascript.plainenglish.io/the-silent-javascript-killer-understanding-prototype-pollution-769ef7cfdbb7?source=rss-8b835baaf548------2)
-- [React Nexus 2026 Bangalore — Key Highlights and Insights](https://dhanushnehru.medium.com/react-nexus-2026-bangalore-key-highlights-and-insights-c7dae1c206fe?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
