@@ -94,6 +94,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Hacker Holidays 2026: Day 5 Walkthrough &lpar;Beach Bar&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-5-walkthrough-beach-bar-7976102d19f1?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 4 Walkthrough &lpar;Packed Light&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-4-walkthrough-packed-light-02a5a14604a7?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 3 Walkthrough &lpar;Complimentary&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-3-walkthrough-complimentary-12e4ddc2d3c6?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 2 Walkthrough &lpar;Room 404&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-2-walkthrough-room-404-dc71b91edee7?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Virtual Hosts Explained: How One Server Secretly Runs Hundreds of Websites](https://systemweakness.com/virtual-hosts-explained-how-one-server-secretly-runs-hundreds-of-websites-13285c7136aa?source=rss-8b835baaf548------2)
 - [DNS Zone Transfers: The Misconfiguration That Hands Hackers Your Entire Network Map](https://infosecwriteups.com/dns-zone-transfers-the-misconfiguration-that-hands-hackers-your-entire-network-map-957b7fdc2c3d?source=rss-8b835baaf548------2)
 - [That Google Sign-In Pop-Up Might Be Fake: How Browser-in-the-Browser Attacks Steal Your Credentials](https://dhanushnehru.medium.com/that-google-sign-in-pop-up-might-be-fake-how-browser-in-the-browser-attacks-steal-your-credentials-6a563d836419?source=rss-8b835baaf548------2)
-- [750 Days of Cybersecurity: The Uncomfortable Truths Nobody Talks About](https://infosecwriteups.com/750-days-of-cybersecurity-the-uncomfortable-truths-nobody-talks-about-52ca92da4cde?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
