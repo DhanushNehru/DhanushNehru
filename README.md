@@ -94,7 +94,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 7 Walkthrough &lpar;Do Not Disturb&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 6 Walkthrough &lpar;Overheard at Breakfast&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-6-walkthrough-overheard-at-breakfast-e878ce13c189?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Hacker Holidays 2026: Day 3 Walkthrough &lpar;Complimentary&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-3-walkthrough-complimentary-12e4ddc2d3c6?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 2 Walkthrough &lpar;Room 404&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-2-walkthrough-room-404-dc71b91edee7?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 1 Walkthrough &lpar;The Concierge Knows Too Much&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-1-walkthrough-the-concierge-knows-too-much-b70cbc59482b?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: The Brochure &lpar;Day 0&rpar; Walkthrough](https://infosecwriteups.com/hacker-holidays-2026-the-brochure-day-0-walkthrough-4aa288b21ec1?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
