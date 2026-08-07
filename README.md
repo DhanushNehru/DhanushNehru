@@ -94,6 +94,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Hacker Holidays 2026: Day 4 Walkthrough &lpar;Packed Light&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-4-walkthrough-packed-light-02a5a14604a7?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 3 Walkthrough &lpar;Complimentary&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-3-walkthrough-complimentary-12e4ddc2d3c6?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 2 Walkthrough &lpar;Room 404&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-2-walkthrough-room-404-dc71b91edee7?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 1 Walkthrough &lpar;The Concierge Knows Too Much&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-1-walkthrough-the-concierge-knows-too-much-b70cbc59482b?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
