@@ -95,6 +95,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
