@@ -94,10 +94,10 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
+- [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss-8b835baaf548------2)
