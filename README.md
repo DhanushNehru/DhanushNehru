@@ -94,6 +94,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://dhanushnehru.medium.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Hacker Holidays 2026: Day 7 Walkthrough &lpar;Do Not Disturb&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 6 Walkthrough &lpar;Overheard at Breakfast&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-6-walkthrough-overheard-at-breakfast-e878ce13c189?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 5 Walkthrough &lpar;Beach Bar&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-5-walkthrough-beach-bar-7976102d19f1?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 4 Walkthrough &lpar;Packed Light&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-4-walkthrough-packed-light-02a5a14604a7?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
