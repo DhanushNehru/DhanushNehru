@@ -94,6 +94,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://dhanushnehru.medium.com/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 7 Walkthrough &lpar;Do Not Disturb&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 6 Walkthrough &lpar;Overheard at Breakfast&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-6-walkthrough-overheard-at-breakfast-e878ce13c189?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 5 Walkthrough &lpar;Beach Bar&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-5-walkthrough-beach-bar-7976102d19f1?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
