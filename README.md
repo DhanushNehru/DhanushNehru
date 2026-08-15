@@ -95,7 +95,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [I Watched 50 Engineers Get Rejected in Technical Interviews.](https://medium.com/developersglobal/i-watched-50-engineers-get-rejected-in-technical-interviews-8ab81d38eb14?source=rss-8b835baaf548------2)
-- [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://dhanushnehru.medium.com/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss-8b835baaf548------2)
+- [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://medium.com/developersglobal/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
