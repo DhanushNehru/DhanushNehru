@@ -94,6 +94,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How a Retry Storm Brought Down GitHub for 8 Hours](https://medium.com/developersglobal/how-a-retry-storm-brought-down-github-for-8-hours-8edb0d877cf1?source=rss-8b835baaf548------2)
+- [Stop Asking If You Should Learn Frontend or Backend. Read This First.](https://medium.com/developersglobal/stop-asking-if-you-should-learn-frontend-or-backend-read-this-first-4724c10a0dea?source=rss-8b835baaf548------2)
 - [I Watched 50 Engineers Get Rejected in Technical Interviews.](https://medium.com/developersglobal/i-watched-50-engineers-get-rejected-in-technical-interviews-8ab81d38eb14?source=rss-8b835baaf548------2)
 - [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://medium.com/developersglobal/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
@@ -102,8 +104,6 @@
 - [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 7 Walkthrough &lpar;Do Not Disturb&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-7-walkthrough-do-not-disturb-062dfc269d69?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
