@@ -94,6 +94,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [5 Things That Help Me Stay Ahead in Cybersecurity](https://dhanushnehru.medium.com/5-things-that-help-me-stay-ahead-in-cybersecurity-a6daf14e9a1f?source=rss-8b835baaf548------2)
 - [How a Retry Storm Brought Down GitHub for 8 Hours](https://medium.com/developersglobal/how-a-retry-storm-brought-down-github-for-8-hours-8edb0d877cf1?source=rss-8b835baaf548------2)
 - [Stop Asking If You Should Learn Frontend or Backend. Read This First.](https://medium.com/developersglobal/stop-asking-if-you-should-learn-frontend-or-backend-read-this-first-4724c10a0dea?source=rss-8b835baaf548------2)
 - [I Watched 50 Engineers Get Rejected in Technical Interviews.](https://medium.com/developersglobal/i-watched-50-engineers-get-rejected-in-technical-interviews-8ab81d38eb14?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
