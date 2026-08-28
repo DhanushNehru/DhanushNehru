@@ -94,6 +94,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Anatomy of an AI Attack: Part 1 &lpar;Weaponizing Training Data&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-1-weaponizing-training-data-3dc0956d157f?source=rss-8b835baaf548------2)
 - [Hackers Are Not Attacking Your Code Anymore. They Are Attacking Your AI Models.](https://dhanushnehru.medium.com/hackers-are-not-attacking-your-code-anymore-they-are-attacking-your-ai-models-929f27033b62?source=rss-8b835baaf548------2)
 - [5 Things That Help Me Stay Ahead in Cybersecurity](https://dhanushnehru.medium.com/5-things-that-help-me-stay-ahead-in-cybersecurity-a6daf14e9a1f?source=rss-8b835baaf548------2)
 - [How a Retry Storm Brought Down GitHub for 8 Hours](https://medium.com/developersglobal/how-a-retry-storm-brought-down-github-for-8-hours-8edb0d877cf1?source=rss-8b835baaf548------2)
@@ -103,7 +104,6 @@
 - [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
 - [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
