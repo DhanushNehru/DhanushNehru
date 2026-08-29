@@ -133,7 +133,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/LJvkz5lwNzU"><img width="140px" src="https://i.ytimg.com/vi/LJvkz5lwNzU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/slUZDF5NzZU"><img width="140px" src="https://i.ytimg.com/vi/slUZDF5NzZU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/slUZDF5NzZU">your ai can be hacked without you knowing</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/LJvkz5lwNzU"><img width="140px" src="https://i.ytimg.com/vi/LJvkz5lwNzU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/LJvkz5lwNzU">your password might be on this list… change it now!</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/BxeIwd6aHtw"><img width="140px" src="https://i.ytimg.com/vi/BxeIwd6aHtw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BxeIwd6aHtw">Should you send Money back in UPI?</a><br/></td></tr>
@@ -141,8 +143,6 @@
 <td><a href="https://www.youtube.com/watch?v=O1u6YtuuGLQ">I Found a Better AI Coding Agent &lpar; ZAP &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=JODe1oUrCZU"><img width="140px" src="https://i.ytimg.com/vi/JODe1oUrCZU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JODe1oUrCZU">I got deepfaked</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/spup9qdeTV0"><img width="140px" src="https://i.ytimg.com/vi/spup9qdeTV0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/spup9qdeTV0">peak bengaluru moment: auto driver refused cash</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
