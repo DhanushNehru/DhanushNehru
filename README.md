@@ -16,10 +16,14 @@
 
 <p align="center">
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube%20Views&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
+    <!-- YOUTUBE:VIEWS:START -->
+    <img src="https://img.shields.io/badge/Youtube%20Views-Loading...-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube channel"/>
+    <!-- YOUTUBE:VIEWS:END -->
   </a>
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube%20Subscribers&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
+    <!-- YOUTUBE:SUBSCRIBERS:START -->
+    <img src="https://img.shields.io/badge/Youtube%20Subscribers-Loading...-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube channel"/>
+    <!-- YOUTUBE:SUBSCRIBERS:END -->
   </a>
 </p>
 
