@@ -2,7 +2,7 @@ name: Update YouTube Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: '0 */12 * * *' # Runs every 12 hours
   workflow_dispatch: # Allows you to run it manually from the Actions tab
 
 jobs:
@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18' # Node 18 natively supports fetch()
+          node-version: '24'
 
       - name: Update README with YouTube Stats
         env:
