@@ -17,12 +17,12 @@
 <p align="center">
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
     <!-- YOUTUBE:VIEWS:START -->
-    <img src="https://img.shields.io/badge/Youtube%20Views-Loading...-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube channel"/>
+    <img src="https://img.shields.io/badge/Youtube%20Views-201.63K-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube Views"/>
     <!-- YOUTUBE:VIEWS:END -->
   </a>
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
     <!-- YOUTUBE:SUBSCRIBERS:START -->
-    <img src="https://img.shields.io/badge/Youtube%20Subscribers-Loading...-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube channel"/>
+    <img src="https://img.shields.io/badge/Youtube%20Subscribers-1.15K-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube Subscribers"/>
     <!-- YOUTUBE:SUBSCRIBERS:END -->
   </a>
 </p>
