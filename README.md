@@ -98,6 +98,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Anatomy of an AI Attack: Part 4 &lpar;The Human Element&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-4-the-human-element-44d59e2a67ff?source=rss-8b835baaf548------2)
+- [The Anatomy of an AI Attack: Part 3 &lpar;Breaking the System&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-3-breaking-the-system-ff573f0c42b7?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 2 &lpar;Exploiting Model Logic&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-2-exploiting-model-logic-c046a864482c?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 1 &lpar;Weaponizing Training Data&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-1-weaponizing-training-data-3dc0956d157f?source=rss-8b835baaf548------2)
 - [Hackers Are Not Attacking Your Code Anymore. They Are Attacking Your AI Models.](https://dhanushnehru.medium.com/hackers-are-not-attacking-your-code-anymore-they-are-attacking-your-ai-models-929f27033b62?source=rss-8b835baaf548------2)
@@ -106,8 +108,6 @@
 - [Stop Asking If You Should Learn Frontend or Backend. Read This First.](https://medium.com/developersglobal/stop-asking-if-you-should-learn-frontend-or-backend-read-this-first-4724c10a0dea?source=rss-8b835baaf548------2)
 - [I Watched 50 Engineers Get Rejected in Technical Interviews.](https://medium.com/developersglobal/i-watched-50-engineers-get-rejected-in-technical-interviews-8ab81d38eb14?source=rss-8b835baaf548------2)
 - [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://medium.com/developersglobal/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss-8b835baaf548------2)
-- [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
