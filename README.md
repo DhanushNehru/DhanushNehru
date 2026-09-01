@@ -17,7 +17,7 @@
 <p align="center">
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
     <!-- YOUTUBE:VIEWS:START -->
-    <img src="https://img.shields.io/badge/Youtube%20Views-202.05K-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube Views"/>
+    <img src="https://img.shields.io/badge/Youtube%20Views-202.14K-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube Views"/>
     <!-- YOUTUBE:VIEWS:END -->
   </a>
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
