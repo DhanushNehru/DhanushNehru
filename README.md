@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Anatomy of an AI Attack: The Complete Cheat Sheet](https://medium.com/developersglobal/the-anatomy-of-an-ai-attack-the-complete-cheat-sheet-bdae768fe967?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 4 &lpar;The Human Element&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-4-the-human-element-44d59e2a67ff?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 3 &lpar;Breaking the System&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-3-breaking-the-system-ff573f0c42b7?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 2 &lpar;Exploiting Model Logic&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-2-exploiting-model-logic-c046a864482c?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [How a Retry Storm Brought Down GitHub for 8 Hours](https://medium.com/developersglobal/how-a-retry-storm-brought-down-github-for-8-hours-8edb0d877cf1?source=rss-8b835baaf548------2)
 - [Stop Asking If You Should Learn Frontend or Backend. Read This First.](https://medium.com/developersglobal/stop-asking-if-you-should-learn-frontend-or-backend-read-this-first-4724c10a0dea?source=rss-8b835baaf548------2)
 - [I Watched 50 Engineers Get Rejected in Technical Interviews.](https://medium.com/developersglobal/i-watched-50-engineers-get-rejected-in-technical-interviews-8ab81d38eb14?source=rss-8b835baaf548------2)
-- [Stop Building Chatbots: Why Burp AT is the Future of Cybersecurity AI](https://medium.com/developersglobal/stop-building-chatbots-why-burp-at-is-the-future-of-cybersecurity-ai-5a21e3bc0bfc?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
