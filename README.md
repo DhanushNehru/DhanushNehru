@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [AIM Chess League 2026 Bengaluru: Key Highlights and Insights](https://dhanushnehru.medium.com/aim-chess-league-2026-bengaluru-key-highlights-and-insights-284c8981e554?source=rss-8b835baaf548------2)
 - [PayPal is Quietly Cutting 4,760 Jobs. Here is the Warning for the Entire Tech Industry.](https://medium.com/developersglobal/paypal-is-quietly-cutting-4-760-jobs-here-is-the-warning-for-the-entire-tech-industry-40a0fa81cfe8?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: The Complete Cheat Sheet](https://medium.com/developersglobal/the-anatomy-of-an-ai-attack-the-complete-cheat-sheet-bdae768fe967?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 4 &lpar;The Human Element&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-4-the-human-element-44d59e2a67ff?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [Hackers Are Not Attacking Your Code Anymore. They Are Attacking Your AI Models.](https://dhanushnehru.medium.com/hackers-are-not-attacking-your-code-anymore-they-are-attacking-your-ai-models-929f27033b62?source=rss-8b835baaf548------2)
 - [5 Things That Help Me Stay Ahead in Cybersecurity](https://dhanushnehru.medium.com/5-things-that-help-me-stay-ahead-in-cybersecurity-a6daf14e9a1f?source=rss-8b835baaf548------2)
 - [How a Retry Storm Brought Down GitHub for 8 Hours](https://medium.com/developersglobal/how-a-retry-storm-brought-down-github-for-8-hours-8edb0d877cf1?source=rss-8b835baaf548------2)
-- [Stop Asking If You Should Learn Frontend or Backend. Read This First.](https://medium.com/developersglobal/stop-asking-if-you-should-learn-frontend-or-backend-read-this-first-4724c10a0dea?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
