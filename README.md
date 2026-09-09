@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [An Anthropic Researcher Just Quit Because He Believes AI Will Kill Us By 2030. Is He Right?](https://dhanushnehru.medium.com/an-anthropic-researcher-just-quit-because-he-believes-ai-will-kill-us-by-2030-is-he-right-dcf4dcda794d?source=rss-8b835baaf548------2)
 - [The Era of Prompting is Dead. Welcome to GPT-6 Astra.](https://dhanushnehru.medium.com/the-era-of-prompting-is-dead-welcome-to-gpt-6-astra-e2c3e074d16d?source=rss-8b835baaf548------2)
 - [AIM Chess League 2026 Bengaluru: Key Highlights and Insights](https://dhanushnehru.medium.com/aim-chess-league-2026-bengaluru-key-highlights-and-insights-284c8981e554?source=rss-8b835baaf548------2)
 - [PayPal is Quietly Cutting 4,760 Jobs. Here is the Warning for the Entire Tech Industry.](https://medium.com/developersglobal/paypal-is-quietly-cutting-4-760-jobs-here-is-the-warning-for-the-entire-tech-industry-40a0fa81cfe8?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The Anatomy of an AI Attack: Part 2 &lpar;Exploiting Model Logic&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-2-exploiting-model-logic-c046a864482c?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 1 &lpar;Weaponizing Training Data&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-1-weaponizing-training-data-3dc0956d157f?source=rss-8b835baaf548------2)
 - [Hackers Are Not Attacking Your Code Anymore. They Are Attacking Your AI Models.](https://dhanushnehru.medium.com/hackers-are-not-attacking-your-code-anymore-they-are-attacking-your-ai-models-929f27033b62?source=rss-8b835baaf548------2)
-- [5 Things That Help Me Stay Ahead in Cybersecurity](https://dhanushnehru.medium.com/5-things-that-help-me-stay-ahead-in-cybersecurity-a6daf14e9a1f?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
