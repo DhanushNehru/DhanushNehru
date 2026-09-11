@@ -138,7 +138,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/YdbZpgzSy5g"><img width="140px" src="https://i.ytimg.com/vi/YdbZpgzSy5g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/YdbZpgzSy5g">AI kills all humans by 2030</a><br/></td></tr>
+<td><a href="https://www.youtube.com/shorts/YdbZpgzSy5g">OpenAI &amp; Anthropic kills all humans by 2030</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/McFI5yWD-j8"><img width="140px" src="https://i.ytimg.com/vi/McFI5yWD-j8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/McFI5yWD-j8">GPT-6 Astra Can Hack Systems Humans Can&#39;t 😳</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/slUZDF5NzZU"><img width="140px" src="https://i.ytimg.com/vi/slUZDF5NzZU/mqdefault.jpg"></a></td>
