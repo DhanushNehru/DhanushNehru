@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Why Are We Still Learning Computer Science Like It Is 2008?](https://medium.com/developersglobal/why-are-we-still-learning-computer-science-like-it-is-2008-795ffa7c64e7?source=rss-8b835baaf548------2)
 - [An Anthropic Researcher Just Quit Because He Believes AI Will Kill Us By 2030. Is He Right?](https://dhanushnehru.medium.com/an-anthropic-researcher-just-quit-because-he-believes-ai-will-kill-us-by-2030-is-he-right-dcf4dcda794d?source=rss-8b835baaf548------2)
 - [The Era of Prompting is Dead. Welcome to GPT-6 Astra.](https://dhanushnehru.medium.com/the-era-of-prompting-is-dead-welcome-to-gpt-6-astra-e2c3e074d16d?source=rss-8b835baaf548------2)
 - [AIM Chess League 2026 Bengaluru: Key Highlights and Insights](https://dhanushnehru.medium.com/aim-chess-league-2026-bengaluru-key-highlights-and-insights-284c8981e554?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The Anatomy of an AI Attack: Part 3 &lpar;Breaking the System&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-3-breaking-the-system-ff573f0c42b7?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 2 &lpar;Exploiting Model Logic&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-2-exploiting-model-logic-c046a864482c?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 1 &lpar;Weaponizing Training Data&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-1-weaponizing-training-data-3dc0956d157f?source=rss-8b835baaf548------2)
-- [Hackers Are Not Attacking Your Code Anymore. They Are Attacking Your AI Models.](https://dhanushnehru.medium.com/hackers-are-not-attacking-your-code-anymore-they-are-attacking-your-ai-models-929f27033b62?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
