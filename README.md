@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Real Reason Shopify Just Dropped React Native for Swift and Kotlin](https://dhanushnehru.medium.com/the-real-reason-shopify-just-dropped-react-native-for-swift-and-kotlin-4260ef4cde97?source=rss-8b835baaf548------2)
 - [Why Are We Still Learning Computer Science Like It Is 2008?](https://medium.com/developersglobal/why-are-we-still-learning-computer-science-like-it-is-2008-795ffa7c64e7?source=rss-8b835baaf548------2)
 - [An Anthropic Researcher Just Quit Because He Believes AI Will Kill Us By 2030. Is He Right?](https://dhanushnehru.medium.com/an-anthropic-researcher-just-quit-because-he-believes-ai-will-kill-us-by-2030-is-he-right-dcf4dcda794d?source=rss-8b835baaf548------2)
 - [The Era of Prompting is Dead. Welcome to GPT-6 Astra.](https://dhanushnehru.medium.com/the-era-of-prompting-is-dead-welcome-to-gpt-6-astra-e2c3e074d16d?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The Anatomy of an AI Attack: Part 4 &lpar;The Human Element&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-4-the-human-element-44d59e2a67ff?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 3 &lpar;Breaking the System&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-3-breaking-the-system-ff573f0c42b7?source=rss-8b835baaf548------2)
 - [The Anatomy of an AI Attack: Part 2 &lpar;Exploiting Model Logic&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-2-exploiting-model-logic-c046a864482c?source=rss-8b835baaf548------2)
-- [The Anatomy of an AI Attack: Part 1 &lpar;Weaponizing Training Data&rpar;](https://dhanushnehru.medium.com/the-anatomy-of-an-ai-attack-part-1-weaponizing-training-data-3dc0956d157f?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
