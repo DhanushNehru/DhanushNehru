@@ -99,7 +99,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://dhanushnehru.medium.com/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
-- [10 Genuinely Useful Free Websites Most People Have Never Heard Of](https://medium.com/readers-digests/10-genuinely-useful-free-websites-most-people-have-never-heard-of-c1027ea61cb8?source=rss-8b835baaf548------2)
+- [10 Genuinely Useful Free Websites Most People Have Never Heard Of](https://dhanushnehru.medium.com/10-genuinely-useful-free-websites-most-people-have-never-heard-of-c1027ea61cb8?source=rss-8b835baaf548------2)
 - [Kubernetes Just Banned AI From Its Meetings. Every Company Should Pay Attention.](https://dhanushnehru.medium.com/kubernetes-just-banned-ai-from-its-meetings-every-company-should-pay-attention-550a30c45b6d?source=rss-8b835baaf548------2)
 - [The Real Reason Shopify Just Dropped React Native for Swift and Kotlin](https://dhanushnehru.medium.com/the-real-reason-shopify-just-dropped-react-native-for-swift-and-kotlin-4260ef4cde97?source=rss-8b835baaf548------2)
 - [Why Are We Still Learning Computer Science Like It Is 2008?](https://medium.com/developersglobal/why-are-we-still-learning-computer-science-like-it-is-2008-795ffa7c64e7?source=rss-8b835baaf548------2)
