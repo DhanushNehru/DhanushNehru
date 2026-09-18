@@ -98,7 +98,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://dhanushnehru.medium.com/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
+- [Forbes Just Ranked the 15 College Degrees Safe From AI. The List Will Surprise You.](https://levelup.gitconnected.com/forbes-just-ranked-the-15-college-degrees-safe-from-ai-the-list-will-surprise-you-240b921995ef?source=rss-8b835baaf548------2)
+- [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://medium.com/data-science-collective/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
 - [10 Genuinely Useful Free Websites Most People Have Never Heard Of](https://dhanushnehru.medium.com/10-genuinely-useful-free-websites-most-people-have-never-heard-of-c1027ea61cb8?source=rss-8b835baaf548------2)
 - [Kubernetes Just Banned AI From Its Meetings. Every Company Should Pay Attention.](https://dhanushnehru.medium.com/kubernetes-just-banned-ai-from-its-meetings-every-company-should-pay-attention-550a30c45b6d?source=rss-8b835baaf548------2)
 - [The Real Reason Shopify Just Dropped React Native for Swift and Kotlin](https://dhanushnehru.medium.com/the-real-reason-shopify-just-dropped-react-native-for-swift-and-kotlin-4260ef4cde97?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The Era of Prompting is Dead. Welcome to GPT-6 Astra.](https://dhanushnehru.medium.com/the-era-of-prompting-is-dead-welcome-to-gpt-6-astra-e2c3e074d16d?source=rss-8b835baaf548------2)
 - [AIM Chess League 2026 Bengaluru: Key Highlights and Insights](https://dhanushnehru.medium.com/aim-chess-league-2026-bengaluru-key-highlights-and-insights-284c8981e554?source=rss-8b835baaf548------2)
 - [PayPal is Quietly Cutting 4,760 Jobs. Here is the Warning for the Entire Tech Industry.](https://medium.com/developersglobal/paypal-is-quietly-cutting-4-760-jobs-here-is-the-warning-for-the-entire-tech-industry-40a0fa81cfe8?source=rss-8b835baaf548------2)
-- [The Anatomy of an AI Attack: The Complete Cheat Sheet](https://medium.com/developersglobal/the-anatomy-of-an-ai-attack-the-complete-cheat-sheet-bdae768fe967?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
