@@ -138,7 +138,7 @@
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/xsShZfAgTjE"><img width="140px" src="https://i.ytimg.com/vi/xsShZfAgTjE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/xsShZfAgTjE">the ai that everyone wants | instinct</a><br/></td></tr>
+<td><a href="https://www.youtube.com/shorts/xsShZfAgTjE">The AI that everyone wants | INSTINCT</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Ocr93xCMr6k"><img width="140px" src="https://i.ytimg.com/vi/Ocr93xCMr6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Ocr93xCMr6k">How is this AI 200x faster than ChatGPT 😲 &lpar; jev explained &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/BwQwf1GJ0O0"><img width="140px" src="https://i.ytimg.com/vi/BwQwf1GJ0O0/mqdefault.jpg"></a></td>
