@@ -137,7 +137,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/Ocr93xCMr6k"><img width="140px" src="https://i.ytimg.com/vi/Ocr93xCMr6k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/shorts/xsShZfAgTjE"><img width="140px" src="https://i.ytimg.com/vi/xsShZfAgTjE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/xsShZfAgTjE">the ai that everyone wants | instinct</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/Ocr93xCMr6k"><img width="140px" src="https://i.ytimg.com/vi/Ocr93xCMr6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Ocr93xCMr6k">How is this AI 200x faster than ChatGPT 😲 &lpar; jev explained &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/BwQwf1GJ0O0"><img width="140px" src="https://i.ytimg.com/vi/BwQwf1GJ0O0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BwQwf1GJ0O0">how much water does ai actually use?</a><br/></td></tr>
@@ -145,8 +147,6 @@
 <td><a href="https://www.youtube.com/shorts/YdbZpgzSy5g">OpenAI &amp; Anthropic kills all humans by 2030</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/McFI5yWD-j8"><img width="140px" src="https://i.ytimg.com/vi/McFI5yWD-j8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/McFI5yWD-j8">GPT-6 Astra Can Hack Systems Humans Can&#39;t 😳</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/slUZDF5NzZU"><img width="140px" src="https://i.ytimg.com/vi/slUZDF5NzZU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/slUZDF5NzZU">your ai can be hacked without you knowing</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
