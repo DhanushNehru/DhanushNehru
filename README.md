@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The End of Slow AI: Why We Need to Stop Using LLMs for Routing](https://dhanushnehru.medium.com/the-end-of-slow-ai-why-we-need-to-stop-using-llms-for-routing-60d943a59a52?source=rss-8b835baaf548------2)
 - [Typesafe AI Launched Jev. Here is Why It Changes How We Build Software.](https://dhanushnehru.medium.com/typesafe-ai-just-launched-jev-here-is-why-it-changes-how-we-build-software-7f0c49ceea38?source=rss-8b835baaf548------2)
 - [Forbes Just Ranked the 15 College Degrees Safe From AI. The List Will Surprise You.](https://levelup.gitconnected.com/forbes-just-ranked-the-15-college-degrees-safe-from-ai-the-list-will-surprise-you-240b921995ef?source=rss-8b835baaf548------2)
 - [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://medium.com/data-science-collective/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [Why Are We Still Learning Computer Science Like It Is 2008?](https://medium.com/developersglobal/why-are-we-still-learning-computer-science-like-it-is-2008-795ffa7c64e7?source=rss-8b835baaf548------2)
 - [An Anthropic Researcher Just Quit Because He Believes AI Will Kill Us By 2030. Is He Right?](https://dhanushnehru.medium.com/an-anthropic-researcher-just-quit-because-he-believes-ai-will-kill-us-by-2030-is-he-right-dcf4dcda794d?source=rss-8b835baaf548------2)
 - [The Era of Prompting is Dead. Welcome to GPT-6 Astra.](https://dhanushnehru.medium.com/the-era-of-prompting-is-dead-welcome-to-gpt-6-astra-e2c3e074d16d?source=rss-8b835baaf548------2)
-- [AIM Chess League 2026 Bengaluru: Key Highlights and Insights](https://dhanushnehru.medium.com/aim-chess-league-2026-bengaluru-key-highlights-and-insights-284c8981e554?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
