@@ -98,7 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [The End of Slow AI: Why We Need to Stop Using LLMs for Routing](https://dhanushnehru.medium.com/the-end-of-slow-ai-why-we-need-to-stop-using-llms-for-routing-60d943a59a52?source=rss-8b835baaf548------2)
+- [The End of Slow AI: Why We Need to Stop Using LLMs for Routing](https://levelup.gitconnected.com/the-end-of-slow-ai-why-we-need-to-stop-using-llms-for-routing-60d943a59a52?source=rss-8b835baaf548------2)
 - [Typesafe AI Launched Jev. Here is Why It Changes How We Build Software.](https://dhanushnehru.medium.com/typesafe-ai-just-launched-jev-here-is-why-it-changes-how-we-build-software-7f0c49ceea38?source=rss-8b835baaf548------2)
 - [Forbes Just Ranked the 15 College Degrees Safe From AI. The List Will Surprise You.](https://levelup.gitconnected.com/forbes-just-ranked-the-15-college-degrees-safe-from-ai-the-list-will-surprise-you-240b921995ef?source=rss-8b835baaf548------2)
 - [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://medium.com/data-science-collective/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
