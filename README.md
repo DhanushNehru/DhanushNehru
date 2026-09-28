@@ -98,6 +98,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The “10x Engineer” is Dead. The “Editor Engineer” is Taking Over.](https://medium.com/developersglobal/the-10x-engineer-is-dead-the-editor-engineer-is-taking-over-aaf7d688d807?source=rss-8b835baaf548------2)
+- [Open Source Projects You Can Contribute To For Hacktoberfest](https://dhanushnehru.medium.com/open-source-projects-you-can-contribute-to-for-hacktoberfest-a919c391996f?source=rss-8b835baaf548------2)
 - [The Highest Paying Tech Role Nobody Tells You About: The Forward Deployed Engineer](https://dhanushnehru.medium.com/the-highest-paying-tech-role-nobody-tells-you-about-the-forward-deployed-engineer-d1b9bfa548cd?source=rss-8b835baaf548------2)
 - [The End of Slow AI: Why We Need to Stop Using LLMs for Routing](https://levelup.gitconnected.com/the-end-of-slow-ai-why-we-need-to-stop-using-llms-for-routing-60d943a59a52?source=rss-8b835baaf548------2)
 - [Typesafe AI Launched Jev. Here is Why It Changes How We Build Software.](https://dhanushnehru.medium.com/typesafe-ai-just-launched-jev-here-is-why-it-changes-how-we-build-software-7f0c49ceea38?source=rss-8b835baaf548------2)
@@ -106,8 +108,6 @@
 - [10 Genuinely Useful Free Websites Most People Have Never Heard Of](https://dhanushnehru.medium.com/10-genuinely-useful-free-websites-most-people-have-never-heard-of-c1027ea61cb8?source=rss-8b835baaf548------2)
 - [Kubernetes Just Banned AI From Its Meetings. Every Company Should Pay Attention.](https://dhanushnehru.medium.com/kubernetes-just-banned-ai-from-its-meetings-every-company-should-pay-attention-550a30c45b6d?source=rss-8b835baaf548------2)
 - [The Real Reason Shopify Just Dropped React Native for Swift and Kotlin](https://dhanushnehru.medium.com/the-real-reason-shopify-just-dropped-react-native-for-swift-and-kotlin-4260ef4cde97?source=rss-8b835baaf548------2)
-- [Why Are We Still Learning Computer Science Like It Is 2008?](https://medium.com/developersglobal/why-are-we-still-learning-computer-science-like-it-is-2008-795ffa7c64e7?source=rss-8b835baaf548------2)
-- [An Anthropic Researcher Just Quit Because He Believes AI Will Kill Us By 2030. Is He Right?](https://dhanushnehru.medium.com/an-anthropic-researcher-just-quit-because-he-believes-ai-will-kill-us-by-2030-is-he-right-dcf4dcda794d?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
