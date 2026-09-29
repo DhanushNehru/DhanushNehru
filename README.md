@@ -98,6 +98,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Stop Treating AI Like a Human. Treat It Like a Microservice.](https://dhanushnehru.medium.com/stop-treating-ai-like-a-human-treat-it-like-a-microservice-8ff766c24d1d?source=rss-8b835baaf548------2)
+- [Why Traditional Threat Modeling Fails for Artificial Intelligence](https://systemweakness.com/why-traditional-threat-modeling-fails-for-artificial-intelligence-1a7e969886be?source=rss-8b835baaf548------2)
 - [The “10x Engineer” is Dead. The “Editor Engineer” is Taking Over.](https://medium.com/developersglobal/the-10x-engineer-is-dead-the-editor-engineer-is-taking-over-aaf7d688d807?source=rss-8b835baaf548------2)
 - [Open Source Projects You Can Contribute To For Hacktoberfest](https://dhanushnehru.medium.com/open-source-projects-you-can-contribute-to-for-hacktoberfest-a919c391996f?source=rss-8b835baaf548------2)
 - [The Highest Paying Tech Role Nobody Tells You About: The Forward Deployed Engineer](https://dhanushnehru.medium.com/the-highest-paying-tech-role-nobody-tells-you-about-the-forward-deployed-engineer-d1b9bfa548cd?source=rss-8b835baaf548------2)
@@ -106,8 +108,6 @@
 - [Forbes Just Ranked the 15 College Degrees Safe From AI. The List Will Surprise You.](https://levelup.gitconnected.com/forbes-just-ranked-the-15-college-degrees-safe-from-ai-the-list-will-surprise-you-240b921995ef?source=rss-8b835baaf548------2)
 - [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://medium.com/data-science-collective/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
 - [10 Genuinely Useful Free Websites Most People Have Never Heard Of](https://dhanushnehru.medium.com/10-genuinely-useful-free-websites-most-people-have-never-heard-of-c1027ea61cb8?source=rss-8b835baaf548------2)
-- [Kubernetes Just Banned AI From Its Meetings. Every Company Should Pay Attention.](https://dhanushnehru.medium.com/kubernetes-just-banned-ai-from-its-meetings-every-company-should-pay-attention-550a30c45b6d?source=rss-8b835baaf548------2)
-- [The Real Reason Shopify Just Dropped React Native for Swift and Kotlin](https://dhanushnehru.medium.com/the-real-reason-shopify-just-dropped-react-native-for-swift-and-kotlin-4260ef4cde97?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
