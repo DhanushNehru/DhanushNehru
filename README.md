@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Everything OpenAI Just Announced at DevDay 2026: Agents, Models and Monetization](https://dhanushnehru.medium.com/everything-openai-just-announced-at-devday-2026-agents-models-and-monetization-15e168c75dd0?source=rss-8b835baaf548------2)
 - [Stop Treating AI Like a Human. Treat It Like a Microservice.](https://dhanushnehru.medium.com/stop-treating-ai-like-a-human-treat-it-like-a-microservice-8ff766c24d1d?source=rss-8b835baaf548------2)
 - [Why Traditional Threat Modeling Fails for Artificial Intelligence](https://systemweakness.com/why-traditional-threat-modeling-fails-for-artificial-intelligence-1a7e969886be?source=rss-8b835baaf548------2)
 - [The “10x Engineer” is Dead. The “Editor Engineer” is Taking Over.](https://medium.com/developersglobal/the-10x-engineer-is-dead-the-editor-engineer-is-taking-over-aaf7d688d807?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [Typesafe AI Launched Jev. Here is Why It Changes How We Build Software.](https://dhanushnehru.medium.com/typesafe-ai-just-launched-jev-here-is-why-it-changes-how-we-build-software-7f0c49ceea38?source=rss-8b835baaf548------2)
 - [Forbes Just Ranked the 15 College Degrees Safe From AI. The List Will Surprise You.](https://levelup.gitconnected.com/forbes-just-ranked-the-15-college-degrees-safe-from-ai-the-list-will-surprise-you-240b921995ef?source=rss-8b835baaf548------2)
 - [12 Years at Oracle. Gone in One Login. The Brutal Reality of the New AI Economy.](https://medium.com/data-science-collective/12-years-at-oracle-gone-in-one-login-the-brutal-reality-of-the-new-ai-economy-dc1d50e801e6?source=rss-8b835baaf548------2)
-- [10 Genuinely Useful Free Websites Most People Have Never Heard Of](https://dhanushnehru.medium.com/10-genuinely-useful-free-websites-most-people-have-never-heard-of-c1027ea61cb8?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
