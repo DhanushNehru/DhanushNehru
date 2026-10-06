@@ -1,31 +1,57 @@
 name: Update Activity Graph
 
+# Regenerates three activity graphs (snake, chart, skyline) and rotates which one
+# the README shows every 3 hours. Images live on the activity-graph-assets branch.
 on:
   schedule:
-    - cron: '17 1 * * *' # Runs once a day
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+    - cron: '7 */3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [add-activity-graph]
+    paths:
+      - '.github/workflows/activity-graph.yml'
+      - 'scripts/activity_graph.py'
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
 
 jobs:
   update-graph:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@9b38b03cac7ffb9f093a82f0ea9c634d5df62297
-        with:
-          username: ${{ github.repository_owner }}
-          options: bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false
-          output_path: assets/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate graphs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/activity_graph.py --user "$GITHUB_REPOSITORY_OWNER" --out /tmp/graphs
 
-      - name: Commit and push changes
+      - name: Publish to assets branch
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity-graph.svg
-          git diff --staged --quiet || (git commit -m "chore: update activity graph" && git push)
+          set -euo pipefail
+          BRANCH=activity-graph-assets
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git fetch --depth=1 origin "$BRANCH"
+            mkdir /tmp/old && git archive FETCH_HEAD | tar -x -C /tmp/old
+            if diff -rq /tmp/graphs /tmp/old --exclude=README.md >/dev/null 2>&1; then
+              echo "No change, nothing to publish."
+              exit 0
+            fi
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan publish
+          git rm -rf . >/dev/null
+          cp /tmp/graphs/*.svg .
+          printf '%s\n' 'Generated images for the profile README. Rebuilt by the Update Activity Graph workflow on master; do not edit.' > README.md
+          git add .
+          git commit -q -m "Update activity graphs"
+          git push --force origin "publish:$BRANCH"
