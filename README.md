@@ -173,7 +173,7 @@
 <!--
 ![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushNehru&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 -->
-![Dhanush's github activity graph](https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/activity-graph.svg)
+![Dhanush's github activity graph](https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/activity-graph-assets/current.svg)
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
