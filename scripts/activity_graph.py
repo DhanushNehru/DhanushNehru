@@ -159,9 +159,9 @@ def make_chart(days):
                  % (x0, T, W - R - x0 + 4, H - B - T, ORANGE, x0 + 6, T + 14, ORANGE,
                     today.strftime("%B").upper()))
     css = ("text{font-family:ui-monospace,Menlo,Consolas,monospace}"
-           ".ln{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 9s ease-in-out infinite}"
-           ".ar{opacity:0;animation:fade 9s ease-in-out infinite}"
-           ".pt{opacity:0;animation:pop 9s ease-in-out infinite}"
+           ".ln{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 9s ease-in-out infinite}"
+           ".ar{opacity:.18;animation:fade 9s ease-in-out infinite}"
+           ".pt{opacity:1;animation:pop 9s ease-in-out infinite}"
            "@keyframes draw{0%{stroke-dashoffset:1}45%,92%{stroke-dashoffset:0}100%{stroke-dashoffset:1}}"
            "@keyframes fade{0%,20%{opacity:0}50%,92%{opacity:.18}100%{opacity:0}}"
            "@keyframes pop{0%{opacity:0}2%{opacity:0}6%,92%{opacity:1}100%{opacity:0}}")
