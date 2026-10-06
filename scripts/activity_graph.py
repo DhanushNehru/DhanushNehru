@@ -13,6 +13,14 @@ BLUE = ["#161b22", "#12335a", "#1f5aa6", "#3b82d6", "#58a6ff"]
 ORANGE = "#f7786b"
 GREY = "#8b949e"
 NAMES = ["snake", "chart", "skyline"]
+TEXT_CSS = "text{font-family:ui-monospace,Menlo,Consolas,monospace}"
+
+
+def contribution_caption(days, x, y=22):
+    """Describe the exact input window, using the same style for every graph."""
+    total = sum(c for _, c in days)
+    return ('<text x="%d" y="%d" fill="#58a6ff" font-size="13" font-weight="bold">'
+            '%d contributions in the last %d days</text>' % (x, y, total, len(days)))
 
 
 def fetch(url, data=None, headers=None):
@@ -87,7 +95,7 @@ def svg_wrap(w, h, css, body, title):
 def make_snake(days):
     cells, weeks = grid(days)
     mx = max(c for _, c in days) or 1
-    S, G, M, TOP = 12, 2, 16, 20
+    S, G, M, TOP = 12, 2, 16, 44
     step = S + G
     W, H = weeks * step - G + 2 * M, 7 * step - G + M + TOP
     STEP_T, LEN = 0.09, 7
@@ -107,7 +115,7 @@ def make_snake(days):
         path.append((last_wk, last_r + dr * k))
     P = len(path)
     T = P * STEP_T
-    css = [".c{shape-rendering:geometricPrecision}",
+    css = [TEXT_CSS, ".c{shape-rendering:geometricPrecision}",
            ".s{animation:mv %.2fs linear infinite}" % T]
     kf = ["@keyframes mv{"]
     for i, (c, r) in enumerate(path):
@@ -132,6 +140,10 @@ def make_snake(days):
         size = S if i == 0 else S - 1
         body.append('<rect class="s" x="0" y="0" width="%d" height="%d" rx="3" fill="%s" '
                     'style="animation-delay:-%.2fs"/>' % (size, size, shade, T - i * STEP_T))
+    # Keep the snake's off-grid entry/exit behind a clip, away from the caption.
+    body = ['<defs><clipPath id="snake-art"><rect x="0" y="32" width="%d" height="%d"/></clipPath></defs>' % (W, H - 32),
+            contribution_caption(days, M),
+            '<g clip-path="url(#snake-art)">'] + body + ['</g>']
     return svg_wrap(W, H, "".join(css), "\n".join(body), "Contribution snake")
 
 
@@ -158,7 +170,7 @@ def make_chart(days):
                  '<text x="%.1f" y="%d" fill="%s" font-size="11" font-family="monospace">%s</text>'
                  % (x0, T, W - R - x0 + 4, H - B - T, ORANGE, x0 + 6, T + 14, ORANGE,
                     today.strftime("%B").upper()))
-    css = ("text{font-family:ui-monospace,Menlo,Consolas,monospace}"
+    css = (TEXT_CSS +
            ".ln{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 9s ease-in-out infinite}"
            ".ar{opacity:.18;animation:fade 9s ease-in-out infinite}"
            ".pt{opacity:1;animation:pop 9s ease-in-out infinite}"
@@ -180,9 +192,7 @@ def make_chart(days):
     for i, ((d, c), (x, y)) in enumerate(zip(last, pts)):
         body.append('<circle class="pt" cx="%.1f" cy="%.1f" r="3.4" fill="%s" style="animation-delay:%.2fs">'
                     '<title>%s: %d</title></circle>' % (x, y, ORANGE, 0.08 * i, d, c))
-    total = sum(c for _, c in last)
-    body.append('<text x="%d" y="22" fill="#58a6ff" font-size="13" font-weight="bold">%d contributions in the last %d days</text>'
-                % (L, total, n))
+    body.append(contribution_caption(last, L))
     return svg_wrap(W, H, css, "\n".join(body), "Contributions over the last 31 days")
 
 
@@ -200,11 +210,12 @@ def make_skyline(days):
     BX, BY = 2.5, -4.5           # bar depth vector
     maxh, pad = 80.0, 14
     W = int(weeks * UX + 7 * DX + 2 * pad)
-    H = int(maxh + 7 * -DY + 2 * pad)
-    base_y0 = pad + maxh + 6 * -DY
-    css = ("g.b{animation:rise 12s ease-in-out infinite}"
+    caption_space = 32
+    H = int(maxh + 7 * -DY + 2 * pad + caption_space)
+    base_y0 = pad + maxh + 6 * -DY + caption_space
+    css = (TEXT_CSS + "g.b{animation:rise 12s ease-in-out infinite}"
            "@keyframes rise{0%{transform:scaleY(.04)}18%,72%{transform:scaleY(1)}90%,100%{transform:scaleY(.04)}}")
-    body = []
+    body = [contribution_caption(days, pad)]
     P = lambda p: "%.1f,%.1f" % p
     for r in range(6, -1, -1):
         for wk in range(weeks):
