@@ -1,21 +1,37 @@
 name: Update Activity Graph
 
-# Regenerates three activity graphs (snake, chart, skyline) and rotates which one
-# the README shows every 3 hours. Images live on the activity-graph-assets branch.
+# Hourly recovery opportunities; publish at most once every 3 hours.
+# GitHub can delay or drop scheduled events, so exact timing is not guaranteed.
 on:
   schedule:
-    - cron: '7 */3 * * *'
+    - cron: '7 * * * *'
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/activity_graph.py'
+      - 'scripts/test_activity_graph.py'
+      - '.github/workflows/activity-graph.yml'
 
 permissions:
   contents: read
 
 concurrency:
-  group: activity-graph
+  group: activity-graph-${{ github.event_name == 'pull_request' && github.ref || 'publish' }}
   cancel-in-progress: false
 
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Run offline regression tests
+        run: python3 -m unittest discover -s scripts -p 'test_activity_graph.py' -v
+
   update-graph:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: test
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -24,29 +40,41 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Generate graphs
+      - name: Load previous publication
+        id: previous
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/old
+          if git ls-remote --exit-code --heads origin activity-graph-assets >/dev/null 2>&1; then
+            git fetch --depth=1 origin activity-graph-assets
+            git archive FETCH_HEAD | tar -x -C /tmp/old
+            echo "published_at=$(git show -s --format=%cI FETCH_HEAD)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate graphs if due
+        id: generate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/activity_graph.py --user "$GITHUB_REPOSITORY_OWNER" --out /tmp/graphs
+          PREVIOUS_PUBLISHED_AT: ${{ steps.previous.outputs.published_at }}
+        run: |
+          set -euo pipefail
+          python3 scripts/activity_graph.py --user "$GITHUB_REPOSITORY_OWNER" --out /tmp/graphs \
+            --previous-dir /tmp/old --previous-published-at "$PREVIOUS_PUBLISHED_AT"
+          if [ -f /tmp/graphs/rotation.json ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Publish to assets branch
+        if: steps.generate.outputs.publish == 'true'
         run: |
           set -euo pipefail
           BRANCH=activity-graph-assets
-          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
-            git fetch --depth=1 origin "$BRANCH"
-            mkdir /tmp/old && git archive FETCH_HEAD | tar -x -C /tmp/old
-            if diff -rq /tmp/graphs /tmp/old --exclude=README.md >/dev/null 2>&1; then
-              echo "No change, nothing to publish."
-              exit 0
-            fi
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout --orphan publish
           git rm -rf . >/dev/null
-          cp /tmp/graphs/*.svg .
-          printf '%s\n' 'Generated images for the profile README. Rebuilt by the Update Activity Graph workflow on master; do not edit.' > README.md
+          cp /tmp/graphs/*.svg /tmp/graphs/rotation.json .
+          printf '%s\n' 'Generated images and rotation state for the profile README. Rebuilt by the Update Activity Graph workflow on master; do not edit. Scheduled delivery is best-effort.' > README.md
           git add .
           git commit -q -m "Update activity graphs"
           git push --force origin "publish:$BRANCH"
