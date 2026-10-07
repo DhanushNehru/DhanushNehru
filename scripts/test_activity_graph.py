@@ -85,7 +85,10 @@ class RotationStateTests(unittest.TestCase):
     def test_legacy_migration_for_each_design(self):
         with tempfile.TemporaryDirectory() as d:
             for index, name in enumerate(graph.NAMES):
-                self.previous(d, name, state=False)
+                maker = {"snake": graph.make_snake, "chart": graph.make_chart,
+                         "skyline": graph.make_skyline}[name]
+                days = GraphCaptionTests().days(368)
+                (Path(d) / 'current.svg').write_text(maker(days))
                 self.assertEqual(graph.rotation_index(d, '2026-10-07T10:00:00Z', self.now), (index + 1) % 3)
 
     def test_invalid_state_fails_closed(self):
