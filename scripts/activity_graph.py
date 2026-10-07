@@ -3,7 +3,7 @@
 
 Standard library only. Reads GITHUB_TOKEN (GraphQL) when set, otherwise falls back to the
 public contributions page. Writes snake.svg, chart.svg, skyline.svg and current.svg
-(one of the three, rotating every 3 hours by UTC clock) into the output directory.
+(one of the three, advancing after a 3-hour publication guard) into the output directory.
 """
 import argparse, datetime as dt, html, json, math, os, re, shutil, sys, urllib.request
 
@@ -239,20 +239,64 @@ def make_skyline(days):
     return svg_wrap(W, H, css, "\n".join(body), "Contribution skyline")
 
 
+def rotation_index(previous_dir, published_at, now):
+    """Advance from the last published design, only after three hours.
+
+    The previous branch commit time is the publication clock. Legacy assets
+    without rotation.json are migrated by reading current.svg's title.
+    """
+    if not previous_dir or not os.path.isfile(os.path.join(previous_dir, "current.svg")):
+        return 0
+    if not published_at:
+        raise ValueError("previous publication time is required")
+    previous_time = dt.datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+    if previous_time.tzinfo is None:
+        raise ValueError("publication time must include a timezone")
+    state_path = os.path.join(previous_dir, "rotation.json")
+    if os.path.isfile(state_path):
+        with open(state_path) as f:
+            state = json.load(f)
+        name = state["current"]
+        if name not in NAMES:
+            raise ValueError("unknown previous graph")
+    else:
+        with open(os.path.join(previous_dir, "current.svg")) as f:
+            svg = f.read()
+        matches = [name for name in NAMES if "<title>Contribution %s</title>" % name in svg]
+        if len(matches) != 1:
+            raise ValueError("cannot identify legacy current.svg")
+        name = matches[0]
+    if now - previous_time < dt.timedelta(hours=3):
+        return None
+    return (NAMES.index(name) + 1) % len(NAMES)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--user", required=True)
     ap.add_argument("--out", required=True)
-    ap.add_argument("--index", type=int, help="override rotation index (0 snake, 1 chart, 2 skyline)")
+    ap.add_argument("--index", type=int, choices=range(3), help="override rotation index (0 snake, 1 chart, 2 skyline)")
+    ap.add_argument("--previous-dir", help="previous assets branch checkout")
+    ap.add_argument("--previous-published-at", help="previous assets commit time in ISO format")
     a = ap.parse_args()
+    if a.index is not None and a.previous_dir:
+        ap.error("--index is for previews and cannot bypass the publication guard")
+    now = dt.datetime.now(dt.timezone.utc)
+    idx = a.index if a.index is not None else rotation_index(
+        a.previous_dir, a.previous_published_at, now)
+    if idx is None:
+        print("Last publication is less than 3 hours old; nothing to publish.")
+        return
     days = get_days(a.user)
     os.makedirs(a.out, exist_ok=True)
     makers = {"snake": make_snake, "chart": make_chart, "skyline": make_skyline}
     for name in NAMES:
         with open(os.path.join(a.out, name + ".svg"), "w") as f:
             f.write(makers[name](days))
-    idx = a.index if a.index is not None else (dt.datetime.now(dt.timezone.utc).hour // 3) % 3
     shutil.copyfile(os.path.join(a.out, NAMES[idx] + ".svg"), os.path.join(a.out, "current.svg"))
+    with open(os.path.join(a.out, "rotation.json"), "w") as f:
+        json.dump({"current": NAMES[idx], "generated_at": now.isoformat()}, f, sort_keys=True)
+        f.write("\n")
     print("days=%d total=%d current=%s" % (len(days), sum(c for _, c in days), NAMES[idx]))
 
 
