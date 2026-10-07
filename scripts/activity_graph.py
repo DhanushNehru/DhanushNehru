@@ -262,7 +262,11 @@ def rotation_index(previous_dir, published_at, now):
     else:
         with open(os.path.join(previous_dir, "current.svg")) as f:
             svg = f.read()
-        matches = [name for name in NAMES if "<title>Contribution %s</title>" % name in svg]
+        titles = {"snake": "Contribution snake",
+                  "chart": "Contributions over the last 31 days",
+                  "skyline": "Contribution skyline"}
+        matches = [name for name, title in titles.items()
+                   if "<title>%s</title>" % title in svg]
         if len(matches) != 1:
             raise ValueError("cannot identify legacy current.svg")
         name = matches[0]
