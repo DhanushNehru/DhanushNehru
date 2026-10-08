@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [GitHub Just Ripped Out CSS-in-JS. It Is Time For You To Do The Same.](https://medium.com/developersglobal/github-just-ripped-out-css-in-js-it-is-time-for-you-to-do-the-same-5a7716b4f573?source=rss-8b835baaf548------2)
 - [Uber Is Replacing Pure Redis With a Custom Storage Engine. Here Is Why.](https://dhanushnehru.medium.com/uber-is-replacing-pure-redis-with-a-custom-storage-engine-here-is-why-1fb62db06702?source=rss-8b835baaf548------2)
 - [Everything OpenAI Just Announced at DevDay 2026: Agents, Models and Monetization](https://dhanushnehru.medium.com/everything-openai-just-announced-at-devday-2026-agents-models-and-monetization-15e168c75dd0?source=rss-8b835baaf548------2)
 - [Stop Treating AI Like a Human. Treat It Like a Microservice.](https://dhanushnehru.medium.com/stop-treating-ai-like-a-human-treat-it-like-a-microservice-8ff766c24d1d?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The Highest Paying Tech Role Nobody Tells You About: The Forward Deployed Engineer](https://dhanushnehru.medium.com/the-highest-paying-tech-role-nobody-tells-you-about-the-forward-deployed-engineer-d1b9bfa548cd?source=rss-8b835baaf548------2)
 - [The End of Slow AI: Why We Need to Stop Using LLMs for Routing](https://levelup.gitconnected.com/the-end-of-slow-ai-why-we-need-to-stop-using-llms-for-routing-60d943a59a52?source=rss-8b835baaf548------2)
 - [Typesafe AI Launched Jev. Here is Why It Changes How We Build Software.](https://dhanushnehru.medium.com/typesafe-ai-just-launched-jev-here-is-why-it-changes-how-we-build-software-7f0c49ceea38?source=rss-8b835baaf548------2)
-- [Forbes Just Ranked the 15 College Degrees Safe From AI. The List Will Surprise You.](https://levelup.gitconnected.com/forbes-just-ranked-the-15-college-degrees-safe-from-ai-the-list-will-surprise-you-240b921995ef?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
