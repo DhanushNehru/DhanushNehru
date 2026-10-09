@@ -1,6 +1,6 @@
 name: Update Activity Graph
 
-# Hourly recovery opportunities; publish at most once every 3 hours.
+# Hourly recovery opportunities; publish at most once every 24 hours.
 # GitHub can delay or drop scheduled events, so exact timing is not guaranteed.
 on:
   schedule:
