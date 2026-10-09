@@ -3,7 +3,7 @@
 
 Standard library only. Reads GITHUB_TOKEN (GraphQL) when set, otherwise falls back to the
 public contributions page. Writes snake.svg, chart.svg, skyline.svg and current.svg
-(one of the three, advancing after a 3-hour publication guard) into the output directory.
+(one of the three, advancing after a 24-hour publication guard) into the output directory.
 """
 import argparse, datetime as dt, html, json, math, os, re, shutil, sys, urllib.request
 
@@ -240,7 +240,7 @@ def make_skyline(days):
 
 
 def rotation_index(previous_dir, published_at, now):
-    """Advance from the last published design, only after three hours.
+    """Advance from the last published design, only after 24 hours.
 
     The previous branch commit time is the publication clock. Legacy assets
     without rotation.json are migrated by reading current.svg's title.
@@ -270,7 +270,7 @@ def rotation_index(previous_dir, published_at, now):
         if len(matches) != 1:
             raise ValueError("cannot identify legacy current.svg")
         name = matches[0]
-    if now - previous_time < dt.timedelta(hours=3):
+    if now - previous_time < dt.timedelta(hours=24):
         return None
     return (NAMES.index(name) + 1) % len(NAMES)
 
@@ -289,7 +289,7 @@ def main():
     idx = a.index if a.index is not None else rotation_index(
         a.previous_dir, a.previous_published_at, now)
     if idx is None:
-        print("Last publication is less than 3 hours old; nothing to publish.")
+        print("Last publication is less than 24 hours old; nothing to publish.")
         return
     days = get_days(a.user)
     os.makedirs(a.out, exist_ok=True)
