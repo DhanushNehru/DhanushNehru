@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The Ultimate Guide to Network Traffic Analysis](https://systemweakness.com/the-ultimate-guide-to-network-traffic-analysis-00283877218a?source=rss-8b835baaf548------2)
 - [Goodbye Infinite AWS Bills: Amazon Finally Gave Us a Hard Spend Limit.](https://dhanushnehru.medium.com/goodbye-infinite-aws-bills-amazon-finally-gave-us-a-hard-spend-limit-830b513360a4?source=rss-8b835baaf548------2)
 - [GitHub Just Ripped Out CSS-in-JS. It Is Time For You To Do The Same.](https://medium.com/developersglobal/github-just-ripped-out-css-in-js-it-is-time-for-you-to-do-the-same-5a7716b4f573?source=rss-8b835baaf548------2)
 - [Uber Is Replacing Pure Redis With a Custom Storage Engine. Here Is Why.](https://dhanushnehru.medium.com/uber-is-replacing-pure-redis-with-a-custom-storage-engine-here-is-why-1fb62db06702?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The “10x Engineer” is Dead. The “Editor Engineer” is Taking Over.](https://medium.com/developersglobal/the-10x-engineer-is-dead-the-editor-engineer-is-taking-over-aaf7d688d807?source=rss-8b835baaf548------2)
 - [Open Source Projects You Can Contribute To For Hacktoberfest](https://dhanushnehru.medium.com/open-source-projects-you-can-contribute-to-for-hacktoberfest-a919c391996f?source=rss-8b835baaf548------2)
 - [The Highest Paying Tech Role Nobody Tells You About: The Forward Deployed Engineer](https://dhanushnehru.medium.com/the-highest-paying-tech-role-nobody-tells-you-about-the-forward-deployed-engineer-d1b9bfa548cd?source=rss-8b835baaf548------2)
-- [The End of Slow AI: Why We Need to Stop Using LLMs for Routing](https://levelup.gitconnected.com/the-end-of-slow-ai-why-we-need-to-stop-using-llms-for-routing-60d943a59a52?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
