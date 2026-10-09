@@ -66,19 +66,19 @@ class RotationStateTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self.assertEqual(graph.rotation_index(d, '', self.now), 0)
 
-    def test_three_hour_guard_and_boundary(self):
+    def test_twenty_four_hour_guard_and_boundary(self):
         with tempfile.TemporaryDirectory() as d:
             self.previous(d)
-            for elapsed in (0, 1, 3600, 10799, -3600):
+            for elapsed in (0, 1, 3600, 10800, 43200, 86399, -3600):
                 stamp = (self.now - dt.timedelta(seconds=elapsed)).isoformat()
                 self.assertIsNone(graph.rotation_index(d, stamp, self.now))
-            self.assertEqual(graph.rotation_index(d, '2026-10-07T10:00:00Z', self.now), 1)
+            self.assertEqual(graph.rotation_index(d, '2026-10-06T13:00:00Z', self.now), 1)
 
     def test_delayed_runs_advance_one_design_not_clock_slot(self):
         with tempfile.TemporaryDirectory() as d:
             for index, name in enumerate(graph.NAMES):
                 self.previous(d, name)
-                for delay in (3, 10, 24, 48):
+                for delay in (24, 25, 48, 72):
                     stamp = (self.now - dt.timedelta(hours=delay)).isoformat()
                     self.assertEqual(graph.rotation_index(d, stamp, self.now), (index + 1) % 3)
 
@@ -89,7 +89,7 @@ class RotationStateTests(unittest.TestCase):
                          "skyline": graph.make_skyline}[name]
                 days = GraphCaptionTests().days(368)
                 (Path(d) / 'current.svg').write_text(maker(days))
-                self.assertEqual(graph.rotation_index(d, '2026-10-07T10:00:00Z', self.now), (index + 1) % 3)
+                self.assertEqual(graph.rotation_index(d, '2026-10-06T10:00:00Z', self.now), (index + 1) % 3)
 
     def test_invalid_state_fails_closed(self):
         with tempfile.TemporaryDirectory() as d:
