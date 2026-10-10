@@ -99,7 +99,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [The Ultimate Guide to Network Traffic Analysis](https://systemweakness.com/the-ultimate-guide-to-network-traffic-analysis-00283877218a?source=rss-8b835baaf548------2)
-- [Goodbye Infinite AWS Bills: Amazon Finally Gave Us a Hard Spend Limit.](https://dhanushnehru.medium.com/goodbye-infinite-aws-bills-amazon-finally-gave-us-a-hard-spend-limit-830b513360a4?source=rss-8b835baaf548------2)
+- [AWS Finally Gave Us Project Spend Limits](https://towardsaws.com/goodbye-infinite-aws-bills-amazon-finally-gave-us-a-hard-spend-limit-830b513360a4?source=rss-8b835baaf548------2)
 - [GitHub Just Ripped Out CSS-in-JS. It Is Time For You To Do The Same.](https://medium.com/developersglobal/github-just-ripped-out-css-in-js-it-is-time-for-you-to-do-the-same-5a7716b4f573?source=rss-8b835baaf548------2)
 - [Uber Is Replacing Pure Redis With a Custom Storage Engine. Here Is Why.](https://dhanushnehru.medium.com/uber-is-replacing-pure-redis-with-a-custom-storage-engine-here-is-why-1fb62db06702?source=rss-8b835baaf548------2)
 - [Everything OpenAI Just Announced at DevDay 2026: Agents, Models and Monetization](https://dhanushnehru.medium.com/everything-openai-just-announced-at-devday-2026-agents-models-and-monetization-15e168c75dd0?source=rss-8b835baaf548------2)
