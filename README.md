@@ -98,6 +98,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How to Build a Website With a CMS for Free &lpar;No Monthly Fees, GDPR-Ready&rpar;](https://dhanushnehru.medium.com/how-to-build-a-website-with-a-cms-for-free-no-monthly-fees-gdpr-ready-b58217008ce3?source=rss-8b835baaf548------2)
+- [Kids Do Not Need to Depend on One Teacher Anymore. AI Just Broke the Classroom Factory Model.](https://dhanushnehru.medium.com/kids-do-not-need-to-depend-on-one-teacher-anymore-ai-just-broke-the-classroom-factory-model-8733c5badbc6?source=rss-8b835baaf548------2)
 - [HackerRank Just Apologized on Billboards for Making Us Grind LeetCode.](https://dhanushnehru.medium.com/hackerrank-just-apologized-on-billboards-for-making-us-grind-leetcode-861dc6049ab0?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Network Traffic Analysis](https://systemweakness.com/the-ultimate-guide-to-network-traffic-analysis-00283877218a?source=rss-8b835baaf548------2)
 - [AWS Finally Gave Us Project Spend Limits](https://towardsaws.com/goodbye-infinite-aws-bills-amazon-finally-gave-us-a-hard-spend-limit-830b513360a4?source=rss-8b835baaf548------2)
@@ -106,8 +108,6 @@
 - [Everything OpenAI Just Announced at DevDay 2026: Agents, Models and Monetization](https://dhanushnehru.medium.com/everything-openai-just-announced-at-devday-2026-agents-models-and-monetization-15e168c75dd0?source=rss-8b835baaf548------2)
 - [Stop Treating AI Like a Human. Treat It Like a Microservice.](https://dhanushnehru.medium.com/stop-treating-ai-like-a-human-treat-it-like-a-microservice-8ff766c24d1d?source=rss-8b835baaf548------2)
 - [Why Traditional Threat Modeling Fails for Artificial Intelligence](https://systemweakness.com/why-traditional-threat-modeling-fails-for-artificial-intelligence-1a7e969886be?source=rss-8b835baaf548------2)
-- [The “10x Engineer” is Dead. The “Editor Engineer” is Taking Over.](https://medium.com/developersglobal/the-10x-engineer-is-dead-the-editor-engineer-is-taking-over-aaf7d688d807?source=rss-8b835baaf548------2)
-- [Open Source Projects You Can Contribute To For Hacktoberfest](https://dhanushnehru.medium.com/open-source-projects-you-can-contribute-to-for-hacktoberfest-a919c391996f?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
