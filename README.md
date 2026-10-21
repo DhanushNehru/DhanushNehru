@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [How to Get a Free Subdomain for Your Portfolio or Project &lpar;Step-by-Step&rpar;](https://medium.com/developersglobal/how-to-get-a-free-subdomain-for-your-portfolio-or-project-step-by-step-13832e136ffc?source=rss-8b835baaf548------2)
 - [Your AI Model Is Only as Safe as Its Supply Chain](https://dhanushnehru.medium.com/your-ai-model-is-only-as-safe-as-its-supply-chain-533ea16456ab?source=rss-8b835baaf548------2)
 - [How to Build a Website With a CMS for Free &lpar;No Monthly Fees, GDPR-Ready&rpar;](https://dhanushnehru.medium.com/how-to-build-a-website-with-a-cms-for-free-no-monthly-fees-gdpr-ready-b58217008ce3?source=rss-8b835baaf548------2)
 - [Kids Do Not Need to Depend on One Teacher Anymore. AI Just Broke the Classroom Factory Model.](https://dhanushnehru.medium.com/kids-do-not-need-to-depend-on-one-teacher-anymore-ai-just-broke-the-classroom-factory-model-8733c5badbc6?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [GitHub Just Ripped Out CSS-in-JS. It Is Time For You To Do The Same.](https://medium.com/developersglobal/github-just-ripped-out-css-in-js-it-is-time-for-you-to-do-the-same-5a7716b4f573?source=rss-8b835baaf548------2)
 - [Uber Is Replacing Pure Redis With a Custom Storage Engine. Here Is Why.](https://dhanushnehru.medium.com/uber-is-replacing-pure-redis-with-a-custom-storage-engine-here-is-why-1fb62db06702?source=rss-8b835baaf548------2)
 - [Everything OpenAI Just Announced at DevDay 2026: Agents, Models and Monetization](https://dhanushnehru.medium.com/everything-openai-just-announced-at-devday-2026-agents-models-and-monetization-15e168c75dd0?source=rss-8b835baaf548------2)
-- [Stop Treating AI Like a Human. Treat It Like a Microservice.](https://dhanushnehru.medium.com/stop-treating-ai-like-a-human-treat-it-like-a-microservice-8ff766c24d1d?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
