@@ -98,6 +98,8 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [Anthropic Replaced Git With Scion. Here’s What Every Dev Team Should Learn From It](https://dhanushnehru.medium.com/anthropic-replaced-git-with-scion-heres-what-every-dev-team-should-learn-from-it-275b001259ec?source=rss-8b835baaf548------2)
+- [System Design for Beginners: The Blueprint Nobody Explains Clearly](https://medium.com/developersglobal/system-design-for-beginners-the-blueprint-nobody-explains-clearly-5bbe515e01ef?source=rss-8b835baaf548------2)
 - [10 Security Incidents in 11 Days: 6 Lessons Every Developer Should Remember](https://dhanushnehru.medium.com/10-security-incidents-in-11-days-6-lessons-every-developer-should-remember-218d58494667?source=rss-8b835baaf548------2)
 - [How to Get a Free Subdomain for Your Portfolio or Project &lpar;Step-by-Step&rpar;](https://medium.com/developersglobal/how-to-get-a-free-subdomain-for-your-portfolio-or-project-step-by-step-13832e136ffc?source=rss-8b835baaf548------2)
 - [Your AI Model Is Only as Safe as Its Supply Chain](https://dhanushnehru.medium.com/your-ai-model-is-only-as-safe-as-its-supply-chain-533ea16456ab?source=rss-8b835baaf548------2)
@@ -106,8 +108,6 @@
 - [HackerRank Just Apologized on Billboards for Making Us Grind LeetCode.](https://dhanushnehru.medium.com/hackerrank-just-apologized-on-billboards-for-making-us-grind-leetcode-861dc6049ab0?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Network Traffic Analysis](https://systemweakness.com/the-ultimate-guide-to-network-traffic-analysis-00283877218a?source=rss-8b835baaf548------2)
 - [AWS Finally Gave Us Project Spend Limits](https://towardsaws.com/goodbye-infinite-aws-bills-amazon-finally-gave-us-a-hard-spend-limit-830b513360a4?source=rss-8b835baaf548------2)
-- [GitHub Just Ripped Out CSS-in-JS. It Is Time For You To Do The Same.](https://medium.com/developersglobal/github-just-ripped-out-css-in-js-it-is-time-for-you-to-do-the-same-5a7716b4f573?source=rss-8b835baaf548------2)
-- [Uber Is Replacing Pure Redis With a Custom Storage Engine. Here Is Why.](https://dhanushnehru.medium.com/uber-is-replacing-pure-redis-with-a-custom-storage-engine-here-is-why-1fb62db06702?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
