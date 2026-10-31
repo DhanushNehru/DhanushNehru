@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The $6.3 Billion DevOps Laptop: Inside the Massive Binance Security Breach](https://dhanushnehru.medium.com/the-6-3-billion-devops-laptop-inside-the-massive-binance-security-breach-8f9c9bda5251?source=rss-8b835baaf548------2)
 - [Anthropic Replaced Git With Scion. Here’s What Every Dev Team Should Learn From It](https://dhanushnehru.medium.com/anthropic-replaced-git-with-scion-heres-what-every-dev-team-should-learn-from-it-275b001259ec?source=rss-8b835baaf548------2)
 - [System Design for Beginners: The Blueprint Nobody Explains Clearly](https://medium.com/developersglobal/system-design-for-beginners-the-blueprint-nobody-explains-clearly-5bbe515e01ef?source=rss-8b835baaf548------2)
 - [10 Security Incidents in 11 Days: 6 Lessons Every Developer Should Remember](https://dhanushnehru.medium.com/10-security-incidents-in-11-days-6-lessons-every-developer-should-remember-218d58494667?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [Kids Do Not Need to Depend on One Teacher Anymore. AI Just Broke the Classroom Factory Model.](https://dhanushnehru.medium.com/kids-do-not-need-to-depend-on-one-teacher-anymore-ai-just-broke-the-classroom-factory-model-8733c5badbc6?source=rss-8b835baaf548------2)
 - [HackerRank Just Apologized on Billboards for Making Us Grind LeetCode.](https://dhanushnehru.medium.com/hackerrank-just-apologized-on-billboards-for-making-us-grind-leetcode-861dc6049ab0?source=rss-8b835baaf548------2)
 - [The Ultimate Guide to Network Traffic Analysis](https://systemweakness.com/the-ultimate-guide-to-network-traffic-analysis-00283877218a?source=rss-8b835baaf548------2)
-- [AWS Finally Gave Us Project Spend Limits](https://towardsaws.com/goodbye-infinite-aws-bills-amazon-finally-gave-us-a-hard-spend-limit-830b513360a4?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
