@@ -22,7 +22,7 @@
   </a>
   <a href="http://youtube.com/@dhanushnehru?sub_confirmation=1">
     <!-- YOUTUBE:SUBSCRIBERS:START -->
-    <img src="https://img.shields.io/badge/Youtube%20Subscribers-1.16K-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube Subscribers"/>
+    <img src="https://img.shields.io/badge/Youtube%20Subscribers-1.17K-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dhanush Nehru's YouTube Subscribers"/>
     <!-- YOUTUBE:SUBSCRIBERS:END -->
   </a>
 </p>
