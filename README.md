@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [The AI Security Roadmap: What Actually Matters &lpar;and What to Skip&rpar;](https://medium.com/developersglobal/the-ai-security-roadmap-what-actually-matters-and-what-to-skip-ef4f53af1f57?source=rss-8b835baaf548------2)
 - [Certifications Are Dead in the AI Era. Here’s What Actually Gets You Hired Now.](https://dhanushnehru.medium.com/certifications-are-dead-in-the-ai-era-heres-what-actually-gets-you-hired-now-0426402d109b?source=rss-8b835baaf548------2)
 - [The $6.3 Billion DevOps Laptop: Inside the Massive Binance Security Breach](https://dhanushnehru.medium.com/the-6-3-billion-devops-laptop-inside-the-massive-binance-security-breach-8f9c9bda5251?source=rss-8b835baaf548------2)
 - [Anthropic Replaced Git With Scion. Here’s What Every Dev Team Should Learn From It](https://dhanushnehru.medium.com/anthropic-replaced-git-with-scion-heres-what-every-dev-team-should-learn-from-it-275b001259ec?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [Your AI Model Is Only as Safe as Its Supply Chain](https://dhanushnehru.medium.com/your-ai-model-is-only-as-safe-as-its-supply-chain-533ea16456ab?source=rss-8b835baaf548------2)
 - [How to Build a Website With a CMS for Free &lpar;No Monthly Fees, GDPR-Ready&rpar;](https://dhanushnehru.medium.com/how-to-build-a-website-with-a-cms-for-free-no-monthly-fees-gdpr-ready-b58217008ce3?source=rss-8b835baaf548------2)
 - [Kids Do Not Need to Depend on One Teacher Anymore. AI Just Broke the Classroom Factory Model.](https://dhanushnehru.medium.com/kids-do-not-need-to-depend-on-one-teacher-anymore-ai-just-broke-the-classroom-factory-model-8733c5badbc6?source=rss-8b835baaf548------2)
-- [HackerRank Just Apologized on Billboards for Making Us Grind LeetCode.](https://dhanushnehru.medium.com/hackerrank-just-apologized-on-billboards-for-making-us-grind-leetcode-861dc6049ab0?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
