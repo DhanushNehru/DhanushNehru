@@ -100,13 +100,13 @@
 <!-- MEDIUM-BLOG-LIST:START -->
 - [MCP vs UTCP Explained Simply: Which One Should Your AI Agent Use?](https://dhanushnehru.medium.com/mcp-vs-utcp-explained-simply-which-one-should-your-ai-agent-use-9d8b5095f4b8?source=rss-8b835baaf548------2)
 - [RIP Frontend Developer &lpar;the Job That Taught Millions to Code&rpar;: Why the Future Belongs to Interface…](https://dhanushnehru.medium.com/rip-frontend-developer-the-job-that-taught-millions-to-code-why-the-future-belongs-to-interface-5ce4aa0a8488?source=rss-8b835baaf548------2)
-- [The AI Security Roadmap: What Actually Matters &lpar;and What to Skip&rpar;](https://medium.com/developersglobal/the-ai-security-roadmap-what-actually-matters-and-what-to-skip-ef4f53af1f57?source=rss-8b835baaf548------2)
+- [The AI Security Roadmap: What Actually Matters &lpar;and What to Skip&rpar;](https://blog.developersglobal.got-a.page/the-ai-security-roadmap-what-actually-matters-and-what-to-skip-ef4f53af1f57?source=rss-8b835baaf548------2)
 - [Certifications Are Dead in the AI Era. Here’s What Actually Gets You Hired Now.](https://dhanushnehru.medium.com/certifications-are-dead-in-the-ai-era-heres-what-actually-gets-you-hired-now-0426402d109b?source=rss-8b835baaf548------2)
 - [The $6.3 Billion DevOps Laptop: Inside the Massive Binance Security Breach](https://dhanushnehru.medium.com/the-6-3-billion-devops-laptop-inside-the-massive-binance-security-breach-8f9c9bda5251?source=rss-8b835baaf548------2)
 - [Anthropic Replaced Git With Scion. Here’s What Every Dev Team Should Learn From It](https://dhanushnehru.medium.com/anthropic-replaced-git-with-scion-heres-what-every-dev-team-should-learn-from-it-275b001259ec?source=rss-8b835baaf548------2)
-- [System Design for Beginners: The Blueprint Nobody Explains Clearly](https://medium.com/developersglobal/system-design-for-beginners-the-blueprint-nobody-explains-clearly-5bbe515e01ef?source=rss-8b835baaf548------2)
+- [System Design for Beginners: The Blueprint Nobody Explains Clearly](https://blog.developersglobal.got-a.page/system-design-for-beginners-the-blueprint-nobody-explains-clearly-5bbe515e01ef?source=rss-8b835baaf548------2)
 - [10 Security Incidents in 11 Days: 6 Lessons Every Developer Should Remember](https://dhanushnehru.medium.com/10-security-incidents-in-11-days-6-lessons-every-developer-should-remember-218d58494667?source=rss-8b835baaf548------2)
-- [How to Get a Free Subdomain for Your Portfolio or Project &lpar;Step-by-Step&rpar;](https://medium.com/developersglobal/how-to-get-a-free-subdomain-for-your-portfolio-or-project-step-by-step-13832e136ffc?source=rss-8b835baaf548------2)
+- [How to Get a Free Subdomain for Your Portfolio or Project &lpar;Step-by-Step&rpar;](https://blog.developersglobal.got-a.page/how-to-get-a-free-subdomain-for-your-portfolio-or-project-step-by-step-13832e136ffc?source=rss-8b835baaf548------2)
 - [Your AI Model Is Only as Safe as Its Supply Chain](https://dhanushnehru.medium.com/your-ai-model-is-only-as-safe-as-its-supply-chain-533ea16456ab?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
