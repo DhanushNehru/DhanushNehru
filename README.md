@@ -98,6 +98,7 @@
 <!-- HASHNODE-BLOG-LIST:END -->
 
 <!-- MEDIUM-BLOG-LIST:START -->
+- [10 Tech Interview Questions You’ll Face in the AI Era &lpar;and How to Answer Them&rpar;](https://blog.developersglobal.got-a.page/10-tech-interview-questions-youll-face-in-the-ai-era-and-how-to-answer-them-b1410c208bcb?source=rss-8b835baaf548------2)
 - [Stop Throwing AI at Security Alerts. Map the Workflow First.](https://dhanushnehru.medium.com/stop-throwing-ai-at-security-alerts-map-the-workflow-first-febfd13d482d?source=rss-8b835baaf548------2)
 - [10 AI Terms You Keep Hearing but Nobody Explains Properly](https://dhanushnehru.medium.com/10-ai-terms-you-keep-hearing-but-nobody-explains-properly-7cc6291734f7?source=rss-8b835baaf548------2)
 - [MCP vs UTCP Explained Simply: Which One Should Your AI Agent Use?](https://medium.com/humanai/mcp-vs-utcp-explained-simply-which-one-should-your-ai-agent-use-9d8b5095f4b8?source=rss-8b835baaf548------2)
@@ -107,7 +108,6 @@
 - [The $6.3 Billion DevOps Laptop: Inside the Massive Binance Security Breach](https://dhanushnehru.medium.com/the-6-3-billion-devops-laptop-inside-the-massive-binance-security-breach-8f9c9bda5251?source=rss-8b835baaf548------2)
 - [Anthropic Replaced Git With Scion. Here’s What Every Dev Team Should Learn From It](https://dhanushnehru.medium.com/anthropic-replaced-git-with-scion-heres-what-every-dev-team-should-learn-from-it-275b001259ec?source=rss-8b835baaf548------2)
 - [System Design for Beginners: The Blueprint Nobody Explains Clearly](https://blog.developersglobal.got-a.page/system-design-for-beginners-the-blueprint-nobody-explains-clearly-5bbe515e01ef?source=rss-8b835baaf548------2)
-- [10 Security Incidents in 11 Days: 6 Lessons Every Developer Should Remember](https://dhanushnehru.medium.com/10-security-incidents-in-11-days-6-lessons-every-developer-should-remember-218d58494667?source=rss-8b835baaf548------2)
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <!--
