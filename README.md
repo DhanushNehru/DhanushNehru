@@ -137,7 +137,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=4dtMx7BUJMc"><img width="140px" src="https://i.ytimg.com/vi/4dtMx7BUJMc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=ayQSkuIheCw"><img width="140px" src="https://i.ytimg.com/vi/ayQSkuIheCw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ayQSkuIheCw">How a Minecraft Feud Broke the Internet &lpar;The Mirai Botnet Story&rpar;</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=4dtMx7BUJMc"><img width="140px" src="https://i.ytimg.com/vi/4dtMx7BUJMc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4dtMx7BUJMc">This AI Skips 75% of Its Brain and Still Gets It Right</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/m6oQliMt-AU"><img width="140px" src="https://i.ytimg.com/vi/m6oQliMt-AU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/m6oQliMt-AU">this ai does everything  &lpar; instinct personal ai assistant &rpar;</a><br/></td></tr>
@@ -145,8 +147,6 @@
 <td><a href="https://www.youtube.com/shorts/Ocr93xCMr6k">How is this AI 200x faster than ChatGPT 😲 &lpar; jev explained &rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/BwQwf1GJ0O0"><img width="140px" src="https://i.ytimg.com/vi/BwQwf1GJ0O0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/BwQwf1GJ0O0">how much water does ai actually use?</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/YdbZpgzSy5g"><img width="140px" src="https://i.ytimg.com/vi/YdbZpgzSy5g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/YdbZpgzSy5g">OpenAI &amp; Anthropic kills all humans by 2030</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
