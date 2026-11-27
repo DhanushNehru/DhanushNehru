@@ -137,7 +137,9 @@
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=1mFLDK0o7HA"><img width="140px" src="https://i.ytimg.com/vi/1mFLDK0o7HA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=tGIhifIAOHM"><img width="140px" src="https://i.ytimg.com/vi/tGIhifIAOHM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tGIhifIAOHM">AI Security Explained in 15 Minutes</a><br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=1mFLDK0o7HA"><img width="140px" src="https://i.ytimg.com/vi/1mFLDK0o7HA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1mFLDK0o7HA">The Reality of Working in Cybersecurity &lpar;What Nobody Tells You&rpar;</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ihU42Mqcs_I"><img width="140px" src="https://i.ytimg.com/vi/ihU42Mqcs_I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ihU42Mqcs_I">Complete Cybersecurity Roadmap for Beginners | Zero to Hired in 12 Levels</a><br/></td></tr>
@@ -145,8 +147,6 @@
 <td><a href="https://www.youtube.com/watch?v=wMosoAWld3c">7 Dumbest Hacks That Actually Worked</a><br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=RG6zi2f7R-o"><img width="140px" src="https://i.ytimg.com/vi/RG6zi2f7R-o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RG6zi2f7R-o">The Friday Update That Broke 8.5 Million Computers</a><br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=4dtMx7BUJMc"><img width="140px" src="https://i.ytimg.com/vi/4dtMx7BUJMc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4dtMx7BUJMc">This AI Skips 75% of Its Brain and Still Gets It Right</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
